@@ -1,0 +1,2411 @@
+kode_provinsi,nama_provinsi,kode_kabkota,nama_kabkota,tahun,angka_melek_huruf
+11,"Prov. Nanggroe Aceh Darussalam",1101,"Kab. Simeulue",2005,98.39
+11,"Prov. Nanggroe Aceh Darussalam",1101,"Kab. Simeulue",2006,99.3
+11,"Prov. Nanggroe Aceh Darussalam",1101,"Kab. Simeulue",2007,99.28
+11,"Prov. Nanggroe Aceh Darussalam",1101,"Kab. Simeulue",2008,99.68
+11,"Prov. Nanggroe Aceh Darussalam",1101,"Kab. Simeulue",2009,100
+11,"Prov. Nanggroe Aceh Darussalam",1102,"Kab. Aceh Singkil",2005,96.21
+11,"Prov. Nanggroe Aceh Darussalam",1102,"Kab. Aceh Singkil",2006,95.9
+11,"Prov. Nanggroe Aceh Darussalam",1102,"Kab. Aceh Singkil",2007,97.56
+11,"Prov. Nanggroe Aceh Darussalam",1102,"Kab. Aceh Singkil",2008,98.65
+11,"Prov. Nanggroe Aceh Darussalam",1102,"Kab. Aceh Singkil",2009,100
+11,"Prov. Nanggroe Aceh Darussalam",1103,"Kab. Aceh Selatan",2005,99.49
+11,"Prov. Nanggroe Aceh Darussalam",1103,"Kab. Aceh Selatan",2006,98.81
+11,"Prov. Nanggroe Aceh Darussalam",1103,"Kab. Aceh Selatan",2007,98.55
+11,"Prov. Nanggroe Aceh Darussalam",1103,"Kab. Aceh Selatan",2008,99.24
+11,"Prov. Nanggroe Aceh Darussalam",1103,"Kab. Aceh Selatan",2009,100
+11,"Prov. Nanggroe Aceh Darussalam",1104,"Kab. Aceh Tenggara",2005,97.75
+11,"Prov. Nanggroe Aceh Darussalam",1104,"Kab. Aceh Tenggara",2006,98.7
+11,"Prov. Nanggroe Aceh Darussalam",1104,"Kab. Aceh Tenggara",2007,98.44
+11,"Prov. Nanggroe Aceh Darussalam",1104,"Kab. Aceh Tenggara",2008,99.52
+11,"Prov. Nanggroe Aceh Darussalam",1104,"Kab. Aceh Tenggara",2009,100
+11,"Prov. Nanggroe Aceh Darussalam",1105,"Kab. Aceh Timur",2005,99.44
+11,"Prov. Nanggroe Aceh Darussalam",1105,"Kab. Aceh Timur",2006,99.56
+11,"Prov. Nanggroe Aceh Darussalam",1105,"Kab. Aceh Timur",2007,99.11
+11,"Prov. Nanggroe Aceh Darussalam",1105,"Kab. Aceh Timur",2008,100
+11,"Prov. Nanggroe Aceh Darussalam",1105,"Kab. Aceh Timur",2009,100
+11,"Prov. Nanggroe Aceh Darussalam",1106,"Kab. Aceh Tengah",2005,99.76
+11,"Prov. Nanggroe Aceh Darussalam",1106,"Kab. Aceh Tengah",2006,99.54
+11,"Prov. Nanggroe Aceh Darussalam",1106,"Kab. Aceh Tengah",2007,99.57
+11,"Prov. Nanggroe Aceh Darussalam",1106,"Kab. Aceh Tengah",2008,98.76
+11,"Prov. Nanggroe Aceh Darussalam",1106,"Kab. Aceh Tengah",2009,100
+11,"Prov. Nanggroe Aceh Darussalam",1107,"Kab. Aceh Barat",2005,99.16
+11,"Prov. Nanggroe Aceh Darussalam",1107,"Kab. Aceh Barat",2006,95.89
+11,"Prov. Nanggroe Aceh Darussalam",1107,"Kab. Aceh Barat",2007,98.41
+11,"Prov. Nanggroe Aceh Darussalam",1107,"Kab. Aceh Barat",2008,99.33
+11,"Prov. Nanggroe Aceh Darussalam",1107,"Kab. Aceh Barat",2009,100
+11,"Prov. Nanggroe Aceh Darussalam",1108,"Kab. Aceh Besar",2005,98.75
+11,"Prov. Nanggroe Aceh Darussalam",1108,"Kab. Aceh Besar",2006,98.53
+11,"Prov. Nanggroe Aceh Darussalam",1108,"Kab. Aceh Besar",2007,99.52
+11,"Prov. Nanggroe Aceh Darussalam",1108,"Kab. Aceh Besar",2008,100
+11,"Prov. Nanggroe Aceh Darussalam",1108,"Kab. Aceh Besar",2009,100
+11,"Prov. Nanggroe Aceh Darussalam",1109,"Kab. Pidie",2005,99.22
+11,"Prov. Nanggroe Aceh Darussalam",1109,"Kab. Pidie",2006,98.74
+11,"Prov. Nanggroe Aceh Darussalam",1109,"Kab. Pidie",2007,99.51
+11,"Prov. Nanggroe Aceh Darussalam",1109,"Kab. Pidie",2008,99.52
+11,"Prov. Nanggroe Aceh Darussalam",1109,"Kab. Pidie",2009,98.92
+11,"Prov. Nanggroe Aceh Darussalam",1110,"Kab. Bireuen",2005,99.23
+11,"Prov. Nanggroe Aceh Darussalam",1110,"Kab. Bireuen",2006,99.8
+11,"Prov. Nanggroe Aceh Darussalam",1110,"Kab. Bireuen",2007,98.89
+11,"Prov. Nanggroe Aceh Darussalam",1110,"Kab. Bireuen",2008,100
+11,"Prov. Nanggroe Aceh Darussalam",1110,"Kab. Bireuen",2009,100
+11,"Prov. Nanggroe Aceh Darussalam",1111,"Kab. Aceh Utara",2005,99.74
+11,"Prov. Nanggroe Aceh Darussalam",1111,"Kab. Aceh Utara",2006,98.81
+11,"Prov. Nanggroe Aceh Darussalam",1111,"Kab. Aceh Utara",2007,99.09
+11,"Prov. Nanggroe Aceh Darussalam",1111,"Kab. Aceh Utara",2008,100
+11,"Prov. Nanggroe Aceh Darussalam",1111,"Kab. Aceh Utara",2009,99.22
+11,"Prov. Nanggroe Aceh Darussalam",1112,"Kab. Aceh Barat Daya",2005,97.62
+11,"Prov. Nanggroe Aceh Darussalam",1112,"Kab. Aceh Barat Daya",2006,97.27
+11,"Prov. Nanggroe Aceh Darussalam",1112,"Kab. Aceh Barat Daya",2007,97.19
+11,"Prov. Nanggroe Aceh Darussalam",1112,"Kab. Aceh Barat Daya",2008,99.77
+11,"Prov. Nanggroe Aceh Darussalam",1112,"Kab. Aceh Barat Daya",2009,100
+11,"Prov. Nanggroe Aceh Darussalam",1113,"Kab. Gayo Lues",2005,93.08
+11,"Prov. Nanggroe Aceh Darussalam",1113,"Kab. Gayo Lues",2006,96.01
+11,"Prov. Nanggroe Aceh Darussalam",1113,"Kab. Gayo Lues",2007,94.43
+11,"Prov. Nanggroe Aceh Darussalam",1113,"Kab. Gayo Lues",2008,97.09
+11,"Prov. Nanggroe Aceh Darussalam",1113,"Kab. Gayo Lues",2009,100
+11,"Prov. Nanggroe Aceh Darussalam",1114,"Kab. Aceh Tamiang",2005,99.29
+11,"Prov. Nanggroe Aceh Darussalam",1114,"Kab. Aceh Tamiang",2006,99.03
+11,"Prov. Nanggroe Aceh Darussalam",1114,"Kab. Aceh Tamiang",2007,99.62
+11,"Prov. Nanggroe Aceh Darussalam",1114,"Kab. Aceh Tamiang",2008,100
+11,"Prov. Nanggroe Aceh Darussalam",1114,"Kab. Aceh Tamiang",2009,100
+11,"Prov. Nanggroe Aceh Darussalam",1115,"Kab. Nagan Raya",2005,95.86
+11,"Prov. Nanggroe Aceh Darussalam",1115,"Kab. Nagan Raya",2006,97.35
+11,"Prov. Nanggroe Aceh Darussalam",1115,"Kab. Nagan Raya",2007,97.7
+11,"Prov. Nanggroe Aceh Darussalam",1115,"Kab. Nagan Raya",2008,100
+11,"Prov. Nanggroe Aceh Darussalam",1115,"Kab. Nagan Raya",2009,100
+11,"Prov. Nanggroe Aceh Darussalam",1116,"Kab. Aceh Jaya",2005,98.53
+11,"Prov. Nanggroe Aceh Darussalam",1116,"Kab. Aceh Jaya",2006,98.93
+11,"Prov. Nanggroe Aceh Darussalam",1116,"Kab. Aceh Jaya",2007,98.12
+11,"Prov. Nanggroe Aceh Darussalam",1116,"Kab. Aceh Jaya",2008,99.1
+11,"Prov. Nanggroe Aceh Darussalam",1116,"Kab. Aceh Jaya",2009,100
+11,"Prov. Nanggroe Aceh Darussalam",1117,"Kab. Bener Meriah",2005,99.78
+11,"Prov. Nanggroe Aceh Darussalam",1117,"Kab. Bener Meriah",2006,99.34
+11,"Prov. Nanggroe Aceh Darussalam",1117,"Kab. Bener Meriah",2007,99.61
+11,"Prov. Nanggroe Aceh Darussalam",1117,"Kab. Bener Meriah",2008,100
+11,"Prov. Nanggroe Aceh Darussalam",1117,"Kab. Bener Meriah",2009,100
+11,"Prov. Nanggroe Aceh Darussalam",1118,"Kab. Pidie Jaya",2005,0
+11,"Prov. Nanggroe Aceh Darussalam",1118,"Kab. Pidie Jaya",2006,0
+11,"Prov. Nanggroe Aceh Darussalam",1118,"Kab. Pidie Jaya",2007,99.2
+11,"Prov. Nanggroe Aceh Darussalam",1118,"Kab. Pidie Jaya",2008,100
+11,"Prov. Nanggroe Aceh Darussalam",1118,"Kab. Pidie Jaya",2009,100
+11,"Prov. Nanggroe Aceh Darussalam",1171,"Kota Banda Aceh",2005,100
+11,"Prov. Nanggroe Aceh Darussalam",1171,"Kota Banda Aceh",2006,99.61
+11,"Prov. Nanggroe Aceh Darussalam",1171,"Kota Banda Aceh",2007,99.78
+11,"Prov. Nanggroe Aceh Darussalam",1171,"Kota Banda Aceh",2008,100
+11,"Prov. Nanggroe Aceh Darussalam",1171,"Kota Banda Aceh",2009,100
+11,"Prov. Nanggroe Aceh Darussalam",1172,"Kota Sabang",2005,99.68
+11,"Prov. Nanggroe Aceh Darussalam",1172,"Kota Sabang",2006,98.95
+11,"Prov. Nanggroe Aceh Darussalam",1172,"Kota Sabang",2007,100
+11,"Prov. Nanggroe Aceh Darussalam",1172,"Kota Sabang",2008,100
+11,"Prov. Nanggroe Aceh Darussalam",1172,"Kota Sabang",2009,100
+11,"Prov. Nanggroe Aceh Darussalam",1173,"Kota Langsa",2005,98.22
+11,"Prov. Nanggroe Aceh Darussalam",1173,"Kota Langsa",2006,99.84
+11,"Prov. Nanggroe Aceh Darussalam",1173,"Kota Langsa",2007,99.82
+11,"Prov. Nanggroe Aceh Darussalam",1173,"Kota Langsa",2008,100
+11,"Prov. Nanggroe Aceh Darussalam",1173,"Kota Langsa",2009,98.81
+11,"Prov. Nanggroe Aceh Darussalam",1174,"Kota Lhokseumawe",2005,98.49
+11,"Prov. Nanggroe Aceh Darussalam",1174,"Kota Lhokseumawe",2006,99.67
+11,"Prov. Nanggroe Aceh Darussalam",1174,"Kota Lhokseumawe",2007,99.47
+11,"Prov. Nanggroe Aceh Darussalam",1174,"Kota Lhokseumawe",2008,100
+11,"Prov. Nanggroe Aceh Darussalam",1174,"Kota Lhokseumawe",2009,100
+11,"Prov. Nanggroe Aceh Darussalam",1175,"Kota Subulussalam",2005,0
+11,"Prov. Nanggroe Aceh Darussalam",1175,"Kota Subulussalam",2006,0
+11,"Prov. Nanggroe Aceh Darussalam",1175,"Kota Subulussalam",2007,98.19
+11,"Prov. Nanggroe Aceh Darussalam",1175,"Kota Subulussalam",2008,98.53
+11,"Prov. Nanggroe Aceh Darussalam",1175,"Kota Subulussalam",2009,100
+12,"Prov. Sumatera Utara",1201,"Kab. Nias",2005,94.05
+12,"Prov. Sumatera Utara",1201,"Kab. Nias",2006,98.32
+12,"Prov. Sumatera Utara",1201,"Kab. Nias",2007,94.85
+12,"Prov. Sumatera Utara",1201,"Kab. Nias",2008,95.18
+12,"Prov. Sumatera Utara",1201,"Kab. Nias",2009,100
+12,"Prov. Sumatera Utara",1202,"Kab. Mandailing Natal",2005,99.82
+12,"Prov. Sumatera Utara",1202,"Kab. Mandailing Natal",2006,99.52
+12,"Prov. Sumatera Utara",1202,"Kab. Mandailing Natal",2007,99.79
+12,"Prov. Sumatera Utara",1202,"Kab. Mandailing Natal",2008,99.82
+12,"Prov. Sumatera Utara",1202,"Kab. Mandailing Natal",2009,98.66
+12,"Prov. Sumatera Utara",1203,"Kab. Tapanuli Selatan",2005,99.85
+12,"Prov. Sumatera Utara",1203,"Kab. Tapanuli Selatan",2006,100
+12,"Prov. Sumatera Utara",1203,"Kab. Tapanuli Selatan",2007,99.95
+12,"Prov. Sumatera Utara",1203,"Kab. Tapanuli Selatan",2008,100
+12,"Prov. Sumatera Utara",1203,"Kab. Tapanuli Selatan",2009,100
+12,"Prov. Sumatera Utara",1204,"Kab. Tapanuli Tengah",2005,98.91
+12,"Prov. Sumatera Utara",1204,"Kab. Tapanuli Tengah",2006,97
+12,"Prov. Sumatera Utara",1204,"Kab. Tapanuli Tengah",2007,97.99
+12,"Prov. Sumatera Utara",1204,"Kab. Tapanuli Tengah",2008,100
+12,"Prov. Sumatera Utara",1204,"Kab. Tapanuli Tengah",2009,100
+12,"Prov. Sumatera Utara",1205,"Kab. Tapanuli Utara",2005,99.38
+12,"Prov. Sumatera Utara",1205,"Kab. Tapanuli Utara",2006,99.04
+12,"Prov. Sumatera Utara",1205,"Kab. Tapanuli Utara",2007,98.87
+12,"Prov. Sumatera Utara",1205,"Kab. Tapanuli Utara",2008,100
+12,"Prov. Sumatera Utara",1205,"Kab. Tapanuli Utara",2009,100
+12,"Prov. Sumatera Utara",1206,"Kab. Toba Samosir",2005,99.79
+12,"Prov. Sumatera Utara",1206,"Kab. Toba Samosir",2006,99.6
+12,"Prov. Sumatera Utara",1206,"Kab. Toba Samosir",2007,99.52
+12,"Prov. Sumatera Utara",1206,"Kab. Toba Samosir",2008,98.38
+12,"Prov. Sumatera Utara",1206,"Kab. Toba Samosir",2009,100
+12,"Prov. Sumatera Utara",1207,"Kab. Labuhan Batu",2005,98.27
+12,"Prov. Sumatera Utara",1207,"Kab. Labuhan Batu",2006,100
+12,"Prov. Sumatera Utara",1207,"Kab. Labuhan Batu",2007,99.38
+12,"Prov. Sumatera Utara",1207,"Kab. Labuhan Batu",2008,99.83
+12,"Prov. Sumatera Utara",1207,"Kab. Labuhan Batu",2009,100
+12,"Prov. Sumatera Utara",1208,"Kab. Asahan",2005,99.87
+12,"Prov. Sumatera Utara",1208,"Kab. Asahan",2006,99.1
+12,"Prov. Sumatera Utara",1208,"Kab. Asahan",2007,99.5
+12,"Prov. Sumatera Utara",1208,"Kab. Asahan",2008,100
+12,"Prov. Sumatera Utara",1208,"Kab. Asahan",2009,100
+12,"Prov. Sumatera Utara",1209,"Kab. Simalungun",2005,99.48
+12,"Prov. Sumatera Utara",1209,"Kab. Simalungun",2006,99.11
+12,"Prov. Sumatera Utara",1209,"Kab. Simalungun",2007,99.36
+12,"Prov. Sumatera Utara",1209,"Kab. Simalungun",2008,100
+12,"Prov. Sumatera Utara",1209,"Kab. Simalungun",2009,100
+12,"Prov. Sumatera Utara",1210,"Kab. Dairi",2005,99.57
+12,"Prov. Sumatera Utara",1210,"Kab. Dairi",2006,99.81
+12,"Prov. Sumatera Utara",1210,"Kab. Dairi",2007,99.47
+12,"Prov. Sumatera Utara",1210,"Kab. Dairi",2008,99.45
+12,"Prov. Sumatera Utara",1210,"Kab. Dairi",2009,100
+12,"Prov. Sumatera Utara",1211,"Kab. Karo",2005,99.71
+12,"Prov. Sumatera Utara",1211,"Kab. Karo",2006,99.23
+12,"Prov. Sumatera Utara",1211,"Kab. Karo",2007,99.68
+12,"Prov. Sumatera Utara",1211,"Kab. Karo",2008,100
+12,"Prov. Sumatera Utara",1211,"Kab. Karo",2009,100
+12,"Prov. Sumatera Utara",1212,"Kab. Deli Serdang",2005,99.68
+12,"Prov. Sumatera Utara",1212,"Kab. Deli Serdang",2006,99.29
+12,"Prov. Sumatera Utara",1212,"Kab. Deli Serdang",2007,99.76
+12,"Prov. Sumatera Utara",1212,"Kab. Deli Serdang",2008,100
+12,"Prov. Sumatera Utara",1212,"Kab. Deli Serdang",2009,100
+12,"Prov. Sumatera Utara",1213,"Kab. Langkat",2005,99.71
+12,"Prov. Sumatera Utara",1213,"Kab. Langkat",2006,99.55
+12,"Prov. Sumatera Utara",1213,"Kab. Langkat",2007,99.27
+12,"Prov. Sumatera Utara",1213,"Kab. Langkat",2008,100
+12,"Prov. Sumatera Utara",1213,"Kab. Langkat",2009,100
+12,"Prov. Sumatera Utara",1214,"Kab. Nias Selatan",2005,81.15
+12,"Prov. Sumatera Utara",1214,"Kab. Nias Selatan",2006,76.39
+12,"Prov. Sumatera Utara",1214,"Kab. Nias Selatan",2007,90.98
+12,"Prov. Sumatera Utara",1214,"Kab. Nias Selatan",2008,100
+12,"Prov. Sumatera Utara",1214,"Kab. Nias Selatan",2009,100
+12,"Prov. Sumatera Utara",1215,"Kab. Humbang Hasundutan",2005,99.65
+12,"Prov. Sumatera Utara",1215,"Kab. Humbang Hasundutan",2006,99.67
+12,"Prov. Sumatera Utara",1215,"Kab. Humbang Hasundutan",2007,99.18
+12,"Prov. Sumatera Utara",1215,"Kab. Humbang Hasundutan",2008,99.79
+12,"Prov. Sumatera Utara",1215,"Kab. Humbang Hasundutan",2009,100
+12,"Prov. Sumatera Utara",1216,"Kab. Pakpak Bharat",2005,99.73
+12,"Prov. Sumatera Utara",1216,"Kab. Pakpak Bharat",2006,99.42
+12,"Prov. Sumatera Utara",1216,"Kab. Pakpak Bharat",2007,99.68
+12,"Prov. Sumatera Utara",1216,"Kab. Pakpak Bharat",2008,99.4
+12,"Prov. Sumatera Utara",1216,"Kab. Pakpak Bharat",2009,100
+12,"Prov. Sumatera Utara",1217,"Kab. Samosir",2005,99.62
+12,"Prov. Sumatera Utara",1217,"Kab. Samosir",2006,99.62
+12,"Prov. Sumatera Utara",1217,"Kab. Samosir",2007,99.55
+12,"Prov. Sumatera Utara",1217,"Kab. Samosir",2008,99.38
+12,"Prov. Sumatera Utara",1217,"Kab. Samosir",2009,100
+12,"Prov. Sumatera Utara",1218,"Kab. Serdang Bedagai",2005,99.72
+12,"Prov. Sumatera Utara",1218,"Kab. Serdang Bedagai",2006,99.15
+12,"Prov. Sumatera Utara",1218,"Kab. Serdang Bedagai",2007,100
+12,"Prov. Sumatera Utara",1218,"Kab. Serdang Bedagai",2008,100
+12,"Prov. Sumatera Utara",1218,"Kab. Serdang Bedagai",2009,100
+12,"Prov. Sumatera Utara",1219,"Kab. Batu Bara",2005,0
+12,"Prov. Sumatera Utara",1219,"Kab. Batu Bara",2006,0
+12,"Prov. Sumatera Utara",1219,"Kab. Batu Bara",2007,98.21
+12,"Prov. Sumatera Utara",1219,"Kab. Batu Bara",2008,98.82
+12,"Prov. Sumatera Utara",1219,"Kab. Batu Bara",2009,100
+12,"Prov. Sumatera Utara",1220,"Kab. Padang Lawas Utara",2005,0
+12,"Prov. Sumatera Utara",1220,"Kab. Padang Lawas Utara",2006,0
+12,"Prov. Sumatera Utara",1220,"Kab. Padang Lawas Utara",2007,0
+12,"Prov. Sumatera Utara",1220,"Kab. Padang Lawas Utara",2008,0
+12,"Prov. Sumatera Utara",1220,"Kab. Padang Lawas Utara",2009,100
+12,"Prov. Sumatera Utara",1221,"Kab. Padang Lawas",2005,0
+12,"Prov. Sumatera Utara",1221,"Kab. Padang Lawas",2006,0
+12,"Prov. Sumatera Utara",1221,"Kab. Padang Lawas",2007,0
+12,"Prov. Sumatera Utara",1221,"Kab. Padang Lawas",2008,0
+12,"Prov. Sumatera Utara",1221,"Kab. Padang Lawas",2009,100
+12,"Prov. Sumatera Utara",1271,"Kota Sibolga",2005,99.84
+12,"Prov. Sumatera Utara",1271,"Kota Sibolga",2006,99.82
+12,"Prov. Sumatera Utara",1271,"Kota Sibolga",2007,99.44
+12,"Prov. Sumatera Utara",1271,"Kota Sibolga",2008,99.79
+12,"Prov. Sumatera Utara",1271,"Kota Sibolga",2009,100
+12,"Prov. Sumatera Utara",1272,"Kota Tanjung Balai",2005,99.54
+12,"Prov. Sumatera Utara",1272,"Kota Tanjung Balai",2006,99.66
+12,"Prov. Sumatera Utara",1272,"Kota Tanjung Balai",2007,99.27
+12,"Prov. Sumatera Utara",1272,"Kota Tanjung Balai",2008,100
+12,"Prov. Sumatera Utara",1272,"Kota Tanjung Balai",2009,100
+12,"Prov. Sumatera Utara",1273,"Kota Pematang Siantar",2005,100
+12,"Prov. Sumatera Utara",1273,"Kota Pematang Siantar",2006,99.44
+12,"Prov. Sumatera Utara",1273,"Kota Pematang Siantar",2007,100
+12,"Prov. Sumatera Utara",1273,"Kota Pematang Siantar",2008,100
+12,"Prov. Sumatera Utara",1273,"Kota Pematang Siantar",2009,100
+12,"Prov. Sumatera Utara",1274,"Kota Tebing Tinggi",2005,100
+12,"Prov. Sumatera Utara",1274,"Kota Tebing Tinggi",2006,99.39
+12,"Prov. Sumatera Utara",1274,"Kota Tebing Tinggi",2007,99.79
+12,"Prov. Sumatera Utara",1274,"Kota Tebing Tinggi",2008,99.77
+12,"Prov. Sumatera Utara",1274,"Kota Tebing Tinggi",2009,100
+12,"Prov. Sumatera Utara",1275,"Kota Medan",2005,99.9
+12,"Prov. Sumatera Utara",1275,"Kota Medan",2006,99.36
+12,"Prov. Sumatera Utara",1275,"Kota Medan",2007,99.66
+12,"Prov. Sumatera Utara",1275,"Kota Medan",2008,100
+12,"Prov. Sumatera Utara",1275,"Kota Medan",2009,98.72
+12,"Prov. Sumatera Utara",1276,"Kota Binjai",2005,100
+12,"Prov. Sumatera Utara",1276,"Kota Binjai",2006,99.44
+12,"Prov. Sumatera Utara",1276,"Kota Binjai",2007,99.59
+12,"Prov. Sumatera Utara",1276,"Kota Binjai",2008,99.81
+12,"Prov. Sumatera Utara",1276,"Kota Binjai",2009,100
+12,"Prov. Sumatera Utara",1277,"Kota Padangsidimpuan",2005,99.68
+12,"Prov. Sumatera Utara",1277,"Kota Padangsidimpuan",2006,99.86
+12,"Prov. Sumatera Utara",1277,"Kota Padangsidimpuan",2007,99.13
+12,"Prov. Sumatera Utara",1277,"Kota Padangsidimpuan",2008,100
+12,"Prov. Sumatera Utara",1277,"Kota Padangsidimpuan",2009,100
+13,"Prov. Sumatera Barat",1301,"Kab. Kepulauan Mentawai",2005,96.6
+13,"Prov. Sumatera Barat",1301,"Kab. Kepulauan Mentawai",2006,94.94
+13,"Prov. Sumatera Barat",1301,"Kab. Kepulauan Mentawai",2007,96.06
+13,"Prov. Sumatera Barat",1301,"Kab. Kepulauan Mentawai",2008,97.18
+13,"Prov. Sumatera Barat",1301,"Kab. Kepulauan Mentawai",2009,100
+13,"Prov. Sumatera Barat",1302,"Kab. Pesisir Selatan",2005,98.74
+13,"Prov. Sumatera Barat",1302,"Kab. Pesisir Selatan",2006,97.79
+13,"Prov. Sumatera Barat",1302,"Kab. Pesisir Selatan",2007,98.94
+13,"Prov. Sumatera Barat",1302,"Kab. Pesisir Selatan",2008,100
+13,"Prov. Sumatera Barat",1302,"Kab. Pesisir Selatan",2009,100
+13,"Prov. Sumatera Barat",1303,"Kab. Solok",2005,98.07
+13,"Prov. Sumatera Barat",1303,"Kab. Solok",2006,98.99
+13,"Prov. Sumatera Barat",1303,"Kab. Solok",2007,99.4
+13,"Prov. Sumatera Barat",1303,"Kab. Solok",2008,99.18
+13,"Prov. Sumatera Barat",1303,"Kab. Solok",2009,100
+13,"Prov. Sumatera Barat",1304,"Kab. Sijunjung",2005,97.87
+13,"Prov. Sumatera Barat",1304,"Kab. Sijunjung",2006,99.02
+13,"Prov. Sumatera Barat",1304,"Kab. Sijunjung",2007,98.75
+13,"Prov. Sumatera Barat",1304,"Kab. Sijunjung",2008,100
+13,"Prov. Sumatera Barat",1304,"Kab. Sijunjung",2009,100
+13,"Prov. Sumatera Barat",1305,"Kab. Tanah Datar",2005,98.96
+13,"Prov. Sumatera Barat",1305,"Kab. Tanah Datar",2006,99.15
+13,"Prov. Sumatera Barat",1305,"Kab. Tanah Datar",2007,98.76
+13,"Prov. Sumatera Barat",1305,"Kab. Tanah Datar",2008,100
+13,"Prov. Sumatera Barat",1305,"Kab. Tanah Datar",2009,100
+13,"Prov. Sumatera Barat",1306,"Kab. Padang Pariaman",2005,98.95
+13,"Prov. Sumatera Barat",1306,"Kab. Padang Pariaman",2006,98.81
+13,"Prov. Sumatera Barat",1306,"Kab. Padang Pariaman",2007,97.88
+13,"Prov. Sumatera Barat",1306,"Kab. Padang Pariaman",2008,99.76
+13,"Prov. Sumatera Barat",1306,"Kab. Padang Pariaman",2009,100
+13,"Prov. Sumatera Barat",1307,"Kab. Agam",2005,99.15
+13,"Prov. Sumatera Barat",1307,"Kab. Agam",2006,99.49
+13,"Prov. Sumatera Barat",1307,"Kab. Agam",2007,99.74
+13,"Prov. Sumatera Barat",1307,"Kab. Agam",2008,99.75
+13,"Prov. Sumatera Barat",1307,"Kab. Agam",2009,100
+13,"Prov. Sumatera Barat",1308,"Kab. Lima Puluh Kota",2005,99.44
+13,"Prov. Sumatera Barat",1308,"Kab. Lima Puluh Kota",2006,99.73
+13,"Prov. Sumatera Barat",1308,"Kab. Lima Puluh Kota",2007,99.29
+13,"Prov. Sumatera Barat",1308,"Kab. Lima Puluh Kota",2008,100
+13,"Prov. Sumatera Barat",1308,"Kab. Lima Puluh Kota",2009,100
+13,"Prov. Sumatera Barat",1309,"Kab. Pasaman",2005,99.48
+13,"Prov. Sumatera Barat",1309,"Kab. Pasaman",2006,99.82
+13,"Prov. Sumatera Barat",1309,"Kab. Pasaman",2007,98.59
+13,"Prov. Sumatera Barat",1309,"Kab. Pasaman",2008,99.27
+13,"Prov. Sumatera Barat",1309,"Kab. Pasaman",2009,100
+13,"Prov. Sumatera Barat",1310,"Kab. Solok Selatan",2005,99.47
+13,"Prov. Sumatera Barat",1310,"Kab. Solok Selatan",2006,98.36
+13,"Prov. Sumatera Barat",1310,"Kab. Solok Selatan",2007,98.59
+13,"Prov. Sumatera Barat",1310,"Kab. Solok Selatan",2008,100
+13,"Prov. Sumatera Barat",1310,"Kab. Solok Selatan",2009,100
+13,"Prov. Sumatera Barat",1311,"Kab. Dharmas Raya",2005,98.54
+13,"Prov. Sumatera Barat",1311,"Kab. Dharmas Raya",2006,98.11
+13,"Prov. Sumatera Barat",1311,"Kab. Dharmas Raya",2007,98.99
+13,"Prov. Sumatera Barat",1311,"Kab. Dharmas Raya",2008,99.76
+13,"Prov. Sumatera Barat",1311,"Kab. Dharmas Raya",2009,97.82
+13,"Prov. Sumatera Barat",1312,"Kab. Pasaman Barat",2005,98.6
+13,"Prov. Sumatera Barat",1312,"Kab. Pasaman Barat",2006,99.8
+13,"Prov. Sumatera Barat",1312,"Kab. Pasaman Barat",2007,98.49
+13,"Prov. Sumatera Barat",1312,"Kab. Pasaman Barat",2008,99.07
+13,"Prov. Sumatera Barat",1312,"Kab. Pasaman Barat",2009,100
+13,"Prov. Sumatera Barat",1371,"Kota Padang",2005,100
+13,"Prov. Sumatera Barat",1371,"Kota Padang",2006,99.41
+13,"Prov. Sumatera Barat",1371,"Kota Padang",2007,100
+13,"Prov. Sumatera Barat",1371,"Kota Padang",2008,99.89
+13,"Prov. Sumatera Barat",1371,"Kota Padang",2009,100
+13,"Prov. Sumatera Barat",1372,"Kota Solok",2005,98.44
+13,"Prov. Sumatera Barat",1372,"Kota Solok",2006,98.6
+13,"Prov. Sumatera Barat",1372,"Kota Solok",2007,99.75
+13,"Prov. Sumatera Barat",1372,"Kota Solok",2008,100
+13,"Prov. Sumatera Barat",1372,"Kota Solok",2009,100
+13,"Prov. Sumatera Barat",1373,"Kota Sawah Lunto",2005,98.81
+13,"Prov. Sumatera Barat",1373,"Kota Sawah Lunto",2006,99.23
+13,"Prov. Sumatera Barat",1373,"Kota Sawah Lunto",2007,99.23
+13,"Prov. Sumatera Barat",1373,"Kota Sawah Lunto",2008,99.65
+13,"Prov. Sumatera Barat",1373,"Kota Sawah Lunto",2009,100
+13,"Prov. Sumatera Barat",1374,"Kota Padang Panjang",2005,99.28
+13,"Prov. Sumatera Barat",1374,"Kota Padang Panjang",2006,99.36
+13,"Prov. Sumatera Barat",1374,"Kota Padang Panjang",2007,99.66
+13,"Prov. Sumatera Barat",1374,"Kota Padang Panjang",2008,100
+13,"Prov. Sumatera Barat",1374,"Kota Padang Panjang",2009,100
+13,"Prov. Sumatera Barat",1375,"Kota Bukittinggi",2005,100
+13,"Prov. Sumatera Barat",1375,"Kota Bukittinggi",2006,100
+13,"Prov. Sumatera Barat",1375,"Kota Bukittinggi",2007,100
+13,"Prov. Sumatera Barat",1375,"Kota Bukittinggi",2008,100
+13,"Prov. Sumatera Barat",1375,"Kota Bukittinggi",2009,100
+13,"Prov. Sumatera Barat",1376,"Kota Payakumbuh",2005,100
+13,"Prov. Sumatera Barat",1376,"Kota Payakumbuh",2006,99.67
+13,"Prov. Sumatera Barat",1376,"Kota Payakumbuh",2007,99.7
+13,"Prov. Sumatera Barat",1376,"Kota Payakumbuh",2008,100
+13,"Prov. Sumatera Barat",1376,"Kota Payakumbuh",2009,94.17
+13,"Prov. Sumatera Barat",1377,"Kota Pariaman",2005,98.96
+13,"Prov. Sumatera Barat",1377,"Kota Pariaman",2006,99.13
+13,"Prov. Sumatera Barat",1377,"Kota Pariaman",2007,99.81
+13,"Prov. Sumatera Barat",1377,"Kota Pariaman",2008,100
+13,"Prov. Sumatera Barat",1377,"Kota Pariaman",2009,100
+14,"Prov. Riau",1401,"Kab. Kuantan Singingi",2005,99.4
+14,"Prov. Riau",1401,"Kab. Kuantan Singingi",2006,99.15
+14,"Prov. Riau",1401,"Kab. Kuantan Singingi",2007,99.58
+14,"Prov. Riau",1401,"Kab. Kuantan Singingi",2008,99.81
+14,"Prov. Riau",1401,"Kab. Kuantan Singingi",2009,100
+14,"Prov. Riau",1402,"Kab. Indragiri Hulu",2005,99.63
+14,"Prov. Riau",1402,"Kab. Indragiri Hulu",2006,99.12
+14,"Prov. Riau",1402,"Kab. Indragiri Hulu",2007,99.78
+14,"Prov. Riau",1402,"Kab. Indragiri Hulu",2008,100
+14,"Prov. Riau",1402,"Kab. Indragiri Hulu",2009,100
+14,"Prov. Riau",1403,"Kab. Indragiri Hilir",2005,99.06
+14,"Prov. Riau",1403,"Kab. Indragiri Hilir",2006,98.4
+14,"Prov. Riau",1403,"Kab. Indragiri Hilir",2007,99.25
+14,"Prov. Riau",1403,"Kab. Indragiri Hilir",2008,100
+14,"Prov. Riau",1403,"Kab. Indragiri Hilir",2009,100
+14,"Prov. Riau",1404,"Kab. Pelalawan",2005,99.8
+14,"Prov. Riau",1404,"Kab. Pelalawan",2006,98.88
+14,"Prov. Riau",1404,"Kab. Pelalawan",2007,98.61
+14,"Prov. Riau",1404,"Kab. Pelalawan",2008,100
+14,"Prov. Riau",1404,"Kab. Pelalawan",2009,100
+14,"Prov. Riau",1405,"Kab. Siak",2005,99.57
+14,"Prov. Riau",1405,"Kab. Siak",2006,99.77
+14,"Prov. Riau",1405,"Kab. Siak",2007,98.05
+14,"Prov. Riau",1405,"Kab. Siak",2008,99.44
+14,"Prov. Riau",1405,"Kab. Siak",2009,100
+14,"Prov. Riau",1406,"Kab. Kampar",2005,99.41
+14,"Prov. Riau",1406,"Kab. Kampar",2006,99.43
+14,"Prov. Riau",1406,"Kab. Kampar",2007,99.21
+14,"Prov. Riau",1406,"Kab. Kampar",2008,100
+14,"Prov. Riau",1406,"Kab. Kampar",2009,100
+14,"Prov. Riau",1407,"Kab. Rokan Hulu",2005,99.15
+14,"Prov. Riau",1407,"Kab. Rokan Hulu",2006,99.59
+14,"Prov. Riau",1407,"Kab. Rokan Hulu",2007,99.53
+14,"Prov. Riau",1407,"Kab. Rokan Hulu",2008,99.77
+14,"Prov. Riau",1407,"Kab. Rokan Hulu",2009,100
+14,"Prov. Riau",1408,"Kab. Bengkalis",2005,99.81
+14,"Prov. Riau",1408,"Kab. Bengkalis",2006,98
+14,"Prov. Riau",1408,"Kab. Bengkalis",2007,99.12
+14,"Prov. Riau",1408,"Kab. Bengkalis",2008,99.55
+14,"Prov. Riau",1408,"Kab. Bengkalis",2009,100
+14,"Prov. Riau",1409,"Kab. Rokan Hilir",2005,100
+14,"Prov. Riau",1409,"Kab. Rokan Hilir",2006,99.32
+14,"Prov. Riau",1409,"Kab. Rokan Hilir",2007,99.25
+14,"Prov. Riau",1409,"Kab. Rokan Hilir",2008,99.85
+14,"Prov. Riau",1409,"Kab. Rokan Hilir",2009,100
+14,"Prov. Riau",1471,"Kota Pekanbaru",2005,99.69
+14,"Prov. Riau",1471,"Kota Pekanbaru",2006,100
+14,"Prov. Riau",1471,"Kota Pekanbaru",2007,100
+14,"Prov. Riau",1471,"Kota Pekanbaru",2008,100
+14,"Prov. Riau",1471,"Kota Pekanbaru",2009,100
+14,"Prov. Riau",1473,"Kota Dumai",2005,99.82
+14,"Prov. Riau",1473,"Kota Dumai",2006,100
+14,"Prov. Riau",1473,"Kota Dumai",2007,99.81
+14,"Prov. Riau",1473,"Kota Dumai",2008,100
+14,"Prov. Riau",1473,"Kota Dumai",2009,100
+15,"Prov. Jambi",1501,"Kab. Kerinci",2005,99.76
+15,"Prov. Jambi",1501,"Kab. Kerinci",2006,99.23
+15,"Prov. Jambi",1501,"Kab. Kerinci",2007,98.65
+15,"Prov. Jambi",1501,"Kab. Kerinci",2008,99.68
+15,"Prov. Jambi",1501,"Kab. Kerinci",2009,100
+15,"Prov. Jambi",1502,"Kab. Merangin",2005,99.05
+15,"Prov. Jambi",1502,"Kab. Merangin",2006,97.81
+15,"Prov. Jambi",1502,"Kab. Merangin",2007,99.34
+15,"Prov. Jambi",1502,"Kab. Merangin",2008,99.75
+15,"Prov. Jambi",1502,"Kab. Merangin",2009,100
+15,"Prov. Jambi",1503,"Kab. Sarolangun",2005,98.97
+15,"Prov. Jambi",1503,"Kab. Sarolangun",2006,99.36
+15,"Prov. Jambi",1503,"Kab. Sarolangun",2007,98.8
+15,"Prov. Jambi",1503,"Kab. Sarolangun",2008,100
+15,"Prov. Jambi",1503,"Kab. Sarolangun",2009,100
+15,"Prov. Jambi",1504,"Kab. Batang Hari",2005,98.13
+15,"Prov. Jambi",1504,"Kab. Batang Hari",2006,98.99
+15,"Prov. Jambi",1504,"Kab. Batang Hari",2007,99.82
+15,"Prov. Jambi",1504,"Kab. Batang Hari",2008,100
+15,"Prov. Jambi",1504,"Kab. Batang Hari",2009,100
+15,"Prov. Jambi",1505,"Kab. Muaro Jambi",2005,99.03
+15,"Prov. Jambi",1505,"Kab. Muaro Jambi",2006,98.85
+15,"Prov. Jambi",1505,"Kab. Muaro Jambi",2007,99.01
+15,"Prov. Jambi",1505,"Kab. Muaro Jambi",2008,100
+15,"Prov. Jambi",1505,"Kab. Muaro Jambi",2009,100
+15,"Prov. Jambi",1506,"Kab. Tanjung Jabung Timur",2005,98.89
+15,"Prov. Jambi",1506,"Kab. Tanjung Jabung Timur",2006,98.72
+15,"Prov. Jambi",1506,"Kab. Tanjung Jabung Timur",2007,97.91
+15,"Prov. Jambi",1506,"Kab. Tanjung Jabung Timur",2008,100
+15,"Prov. Jambi",1506,"Kab. Tanjung Jabung Timur",2009,100
+15,"Prov. Jambi",1507,"Kab. Tanjung Jabung Barat",2005,98.86
+15,"Prov. Jambi",1507,"Kab. Tanjung Jabung Barat",2006,99.43
+15,"Prov. Jambi",1507,"Kab. Tanjung Jabung Barat",2007,98.2
+15,"Prov. Jambi",1507,"Kab. Tanjung Jabung Barat",2008,99.71
+15,"Prov. Jambi",1507,"Kab. Tanjung Jabung Barat",2009,100
+15,"Prov. Jambi",1508,"Kab. Tebo",2005,98.51
+15,"Prov. Jambi",1508,"Kab. Tebo",2006,97.35
+15,"Prov. Jambi",1508,"Kab. Tebo",2007,99.8
+15,"Prov. Jambi",1508,"Kab. Tebo",2008,100
+15,"Prov. Jambi",1508,"Kab. Tebo",2009,100
+15,"Prov. Jambi",1509,"Kab. Bungo",2005,99.3
+15,"Prov. Jambi",1509,"Kab. Bungo",2006,99.4
+15,"Prov. Jambi",1509,"Kab. Bungo",2007,99.17
+15,"Prov. Jambi",1509,"Kab. Bungo",2008,99.63
+15,"Prov. Jambi",1509,"Kab. Bungo",2009,100
+15,"Prov. Jambi",1571,"Kota Jambi",2005,99.64
+15,"Prov. Jambi",1571,"Kota Jambi",2006,99.8
+15,"Prov. Jambi",1571,"Kota Jambi",2007,99.62
+15,"Prov. Jambi",1571,"Kota Jambi",2008,100
+15,"Prov. Jambi",1571,"Kota Jambi",2009,100
+16,"Prov. Sumatera Selatan",1601,"Kab. Ogan Komering Ulu",2005,99.29
+16,"Prov. Sumatera Selatan",1601,"Kab. Ogan Komering Ulu",2006,99.8
+16,"Prov. Sumatera Selatan",1601,"Kab. Ogan Komering Ulu",2007,98.86
+16,"Prov. Sumatera Selatan",1601,"Kab. Ogan Komering Ulu",2008,100
+16,"Prov. Sumatera Selatan",1601,"Kab. Ogan Komering Ulu",2009,100
+16,"Prov. Sumatera Selatan",1602,"Kab. Ogan Komering Ilir",2005,99.3
+16,"Prov. Sumatera Selatan",1602,"Kab. Ogan Komering Ilir",2006,98.03
+16,"Prov. Sumatera Selatan",1602,"Kab. Ogan Komering Ilir",2007,98.66
+16,"Prov. Sumatera Selatan",1602,"Kab. Ogan Komering Ilir",2008,97.65
+16,"Prov. Sumatera Selatan",1602,"Kab. Ogan Komering Ilir",2009,100
+16,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim",2005,98.64
+16,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim",2006,100
+16,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim",2007,99.6
+16,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim",2008,100
+16,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim",2009,100
+16,"Prov. Sumatera Selatan",1604,"Kab. Lahat",2005,98.86
+16,"Prov. Sumatera Selatan",1604,"Kab. Lahat",2006,99.34
+16,"Prov. Sumatera Selatan",1604,"Kab. Lahat",2007,99.56
+16,"Prov. Sumatera Selatan",1604,"Kab. Lahat",2008,99.78
+16,"Prov. Sumatera Selatan",1604,"Kab. Lahat",2009,100
+16,"Prov. Sumatera Selatan",1605,"Kab. Musi Rawas",2005,98.95
+16,"Prov. Sumatera Selatan",1605,"Kab. Musi Rawas",2006,98.8
+16,"Prov. Sumatera Selatan",1605,"Kab. Musi Rawas",2007,99.37
+16,"Prov. Sumatera Selatan",1605,"Kab. Musi Rawas",2008,100
+16,"Prov. Sumatera Selatan",1605,"Kab. Musi Rawas",2009,100
+16,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin",2005,99.54
+16,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin",2006,99.06
+16,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin",2007,98.68
+16,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin",2008,99.47
+16,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin",2009,100
+16,"Prov. Sumatera Selatan",1607,"Kab. Banyu Asin",2005,99.58
+16,"Prov. Sumatera Selatan",1607,"Kab. Banyu Asin",2006,98.54
+16,"Prov. Sumatera Selatan",1607,"Kab. Banyu Asin",2007,98.82
+16,"Prov. Sumatera Selatan",1607,"Kab. Banyu Asin",2008,99.49
+16,"Prov. Sumatera Selatan",1607,"Kab. Banyu Asin",2009,100
+16,"Prov. Sumatera Selatan",1608,"Kab. Ogan Komering Ulu Selatan",2005,98.31
+16,"Prov. Sumatera Selatan",1608,"Kab. Ogan Komering Ulu Selatan",2006,99.66
+16,"Prov. Sumatera Selatan",1608,"Kab. Ogan Komering Ulu Selatan",2007,99.53
+16,"Prov. Sumatera Selatan",1608,"Kab. Ogan Komering Ulu Selatan",2008,100
+16,"Prov. Sumatera Selatan",1608,"Kab. Ogan Komering Ulu Selatan",2009,100
+16,"Prov. Sumatera Selatan",1609,"Kab. Ogan Komering Ulu Timur",2005,99.65
+16,"Prov. Sumatera Selatan",1609,"Kab. Ogan Komering Ulu Timur",2006,99.2
+16,"Prov. Sumatera Selatan",1609,"Kab. Ogan Komering Ulu Timur",2007,99.26
+16,"Prov. Sumatera Selatan",1609,"Kab. Ogan Komering Ulu Timur",2008,99.78
+16,"Prov. Sumatera Selatan",1609,"Kab. Ogan Komering Ulu Timur",2009,100
+16,"Prov. Sumatera Selatan",1610,"Kab. Ogan Ilir",2005,98.48
+16,"Prov. Sumatera Selatan",1610,"Kab. Ogan Ilir",2006,99.32
+16,"Prov. Sumatera Selatan",1610,"Kab. Ogan Ilir",2007,99.63
+16,"Prov. Sumatera Selatan",1610,"Kab. Ogan Ilir",2008,100
+16,"Prov. Sumatera Selatan",1610,"Kab. Ogan Ilir",2009,98.6
+16,"Prov. Sumatera Selatan",1611,"Kab. Empat Lawang",2005,0
+16,"Prov. Sumatera Selatan",1611,"Kab. Empat Lawang",2006,0
+16,"Prov. Sumatera Selatan",1611,"Kab. Empat Lawang",2007,99.05
+16,"Prov. Sumatera Selatan",1611,"Kab. Empat Lawang",2008,99.3
+16,"Prov. Sumatera Selatan",1611,"Kab. Empat Lawang",2009,98.18
+16,"Prov. Sumatera Selatan",1671,"Kota Palembang",2005,99.27
+16,"Prov. Sumatera Selatan",1671,"Kota Palembang",2006,99.73
+16,"Prov. Sumatera Selatan",1671,"Kota Palembang",2007,99.59
+16,"Prov. Sumatera Selatan",1671,"Kota Palembang",2008,100
+16,"Prov. Sumatera Selatan",1671,"Kota Palembang",2009,100
+16,"Prov. Sumatera Selatan",1672,"Kota Prabumulih",2005,98.58
+16,"Prov. Sumatera Selatan",1672,"Kota Prabumulih",2006,98.07
+16,"Prov. Sumatera Selatan",1672,"Kota Prabumulih",2007,99.72
+16,"Prov. Sumatera Selatan",1672,"Kota Prabumulih",2008,100
+16,"Prov. Sumatera Selatan",1672,"Kota Prabumulih",2009,100
+16,"Prov. Sumatera Selatan",1673,"Kota Pagar Alam",2005,99.31
+16,"Prov. Sumatera Selatan",1673,"Kota Pagar Alam",2006,99.76
+16,"Prov. Sumatera Selatan",1673,"Kota Pagar Alam",2007,99.74
+16,"Prov. Sumatera Selatan",1673,"Kota Pagar Alam",2008,99.76
+16,"Prov. Sumatera Selatan",1673,"Kota Pagar Alam",2009,100
+16,"Prov. Sumatera Selatan",1674,"Kota Lubuklinggau",2005,100
+16,"Prov. Sumatera Selatan",1674,"Kota Lubuklinggau",2006,99.55
+16,"Prov. Sumatera Selatan",1674,"Kota Lubuklinggau",2007,100
+16,"Prov. Sumatera Selatan",1674,"Kota Lubuklinggau",2008,100
+16,"Prov. Sumatera Selatan",1674,"Kota Lubuklinggau",2009,100
+17,"Prov. Bengkulu",1701,"Kab. Bengkulu Selatan",2005,99.06
+17,"Prov. Bengkulu",1701,"Kab. Bengkulu Selatan",2006,99.12
+17,"Prov. Bengkulu",1701,"Kab. Bengkulu Selatan",2007,99.19
+17,"Prov. Bengkulu",1701,"Kab. Bengkulu Selatan",2008,99.4
+17,"Prov. Bengkulu",1701,"Kab. Bengkulu Selatan",2009,100
+17,"Prov. Bengkulu",1702,"Kab. Rejang Lebong",2005,99.85
+17,"Prov. Bengkulu",1702,"Kab. Rejang Lebong",2006,99.27
+17,"Prov. Bengkulu",1702,"Kab. Rejang Lebong",2007,99.07
+17,"Prov. Bengkulu",1702,"Kab. Rejang Lebong",2008,99.56
+17,"Prov. Bengkulu",1702,"Kab. Rejang Lebong",2009,100
+17,"Prov. Bengkulu",1703,"Kab. Bengkulu Utara",2005,98.78
+17,"Prov. Bengkulu",1703,"Kab. Bengkulu Utara",2006,97.88
+17,"Prov. Bengkulu",1703,"Kab. Bengkulu Utara",2007,97.41
+17,"Prov. Bengkulu",1703,"Kab. Bengkulu Utara",2008,99.54
+17,"Prov. Bengkulu",1703,"Kab. Bengkulu Utara",2009,100
+17,"Prov. Bengkulu",1704,"Kab. Kaur",2005,99
+17,"Prov. Bengkulu",1704,"Kab. Kaur",2006,99.05
+17,"Prov. Bengkulu",1704,"Kab. Kaur",2007,99.6
+17,"Prov. Bengkulu",1704,"Kab. Kaur",2008,98.94
+17,"Prov. Bengkulu",1704,"Kab. Kaur",2009,100
+17,"Prov. Bengkulu",1705,"Kab. Seluma",2005,99.22
+17,"Prov. Bengkulu",1705,"Kab. Seluma",2006,99.37
+17,"Prov. Bengkulu",1705,"Kab. Seluma",2007,98.87
+17,"Prov. Bengkulu",1705,"Kab. Seluma",2008,100
+17,"Prov. Bengkulu",1705,"Kab. Seluma",2009,100
+17,"Prov. Bengkulu",1706,"Kab. Mukomuko",2005,98.7
+17,"Prov. Bengkulu",1706,"Kab. Mukomuko",2006,98.6
+17,"Prov. Bengkulu",1706,"Kab. Mukomuko",2007,99.16
+17,"Prov. Bengkulu",1706,"Kab. Mukomuko",2008,100
+17,"Prov. Bengkulu",1706,"Kab. Mukomuko",2009,100
+17,"Prov. Bengkulu",1707,"Kab. Lebong",2005,97.85
+17,"Prov. Bengkulu",1707,"Kab. Lebong",2006,98.69
+17,"Prov. Bengkulu",1707,"Kab. Lebong",2007,99
+17,"Prov. Bengkulu",1707,"Kab. Lebong",2008,98.66
+17,"Prov. Bengkulu",1707,"Kab. Lebong",2009,100
+17,"Prov. Bengkulu",1708,"Kab. Kepahiang",2005,99.06
+17,"Prov. Bengkulu",1708,"Kab. Kepahiang",2006,99.47
+17,"Prov. Bengkulu",1708,"Kab. Kepahiang",2007,98.98
+17,"Prov. Bengkulu",1708,"Kab. Kepahiang",2008,100
+17,"Prov. Bengkulu",1708,"Kab. Kepahiang",2009,100
+17,"Prov. Bengkulu",1771,"Kota Bengkulu",2005,100
+17,"Prov. Bengkulu",1771,"Kota Bengkulu",2006,99.67
+17,"Prov. Bengkulu",1771,"Kota Bengkulu",2007,99.83
+17,"Prov. Bengkulu",1771,"Kota Bengkulu",2008,100
+17,"Prov. Bengkulu",1771,"Kota Bengkulu",2009,100
+18,"Prov. Lampung",1801,"Kab. Lampung Barat",2005,98.7
+18,"Prov. Lampung",1801,"Kab. Lampung Barat",2006,98.54
+18,"Prov. Lampung",1801,"Kab. Lampung Barat",2007,99.57
+18,"Prov. Lampung",1801,"Kab. Lampung Barat",2008,99.59
+18,"Prov. Lampung",1801,"Kab. Lampung Barat",2009,100
+18,"Prov. Lampung",1802,"Kab. Tanggamus",2005,99.18
+18,"Prov. Lampung",1802,"Kab. Tanggamus",2006,98.99
+18,"Prov. Lampung",1802,"Kab. Tanggamus",2007,99.08
+18,"Prov. Lampung",1802,"Kab. Tanggamus",2008,99.63
+18,"Prov. Lampung",1802,"Kab. Tanggamus",2009,100
+18,"Prov. Lampung",1803,"Kab. Lampung Selatan",2005,99.12
+18,"Prov. Lampung",1803,"Kab. Lampung Selatan",2006,98.56
+18,"Prov. Lampung",1803,"Kab. Lampung Selatan",2007,99.45
+18,"Prov. Lampung",1803,"Kab. Lampung Selatan",2008,100
+18,"Prov. Lampung",1803,"Kab. Lampung Selatan",2009,100
+18,"Prov. Lampung",1804,"Kab. Lampung Timur",2005,99.29
+18,"Prov. Lampung",1804,"Kab. Lampung Timur",2006,99.4
+18,"Prov. Lampung",1804,"Kab. Lampung Timur",2007,99.5
+18,"Prov. Lampung",1804,"Kab. Lampung Timur",2008,99.77
+18,"Prov. Lampung",1804,"Kab. Lampung Timur",2009,100
+18,"Prov. Lampung",1805,"Kab. Lampung Tengah",2005,98.66
+18,"Prov. Lampung",1805,"Kab. Lampung Tengah",2006,99.32
+18,"Prov. Lampung",1805,"Kab. Lampung Tengah",2007,99.48
+18,"Prov. Lampung",1805,"Kab. Lampung Tengah",2008,100
+18,"Prov. Lampung",1805,"Kab. Lampung Tengah",2009,100
+18,"Prov. Lampung",1806,"Kab. Lampung Utara",2005,99.18
+18,"Prov. Lampung",1806,"Kab. Lampung Utara",2006,99.2
+18,"Prov. Lampung",1806,"Kab. Lampung Utara",2007,99.79
+18,"Prov. Lampung",1806,"Kab. Lampung Utara",2008,100
+18,"Prov. Lampung",1806,"Kab. Lampung Utara",2009,99.41
+18,"Prov. Lampung",1807,"Kab. Way Kanan",2005,99.47
+18,"Prov. Lampung",1807,"Kab. Way Kanan",2006,98.66
+18,"Prov. Lampung",1807,"Kab. Way Kanan",2007,99.32
+18,"Prov. Lampung",1807,"Kab. Way Kanan",2008,100
+18,"Prov. Lampung",1807,"Kab. Way Kanan",2009,100
+18,"Prov. Lampung",1808,"Kab. Tulangbawang",2005,98.73
+18,"Prov. Lampung",1808,"Kab. Tulangbawang",2006,99.8
+18,"Prov. Lampung",1808,"Kab. Tulangbawang",2007,99.18
+18,"Prov. Lampung",1808,"Kab. Tulangbawang",2008,100
+18,"Prov. Lampung",1808,"Kab. Tulangbawang",2009,100
+18,"Prov. Lampung",1809,"Kab. Pesawaran",2005,0
+18,"Prov. Lampung",1809,"Kab. Pesawaran",2006,0
+18,"Prov. Lampung",1809,"Kab. Pesawaran",2007,0
+18,"Prov. Lampung",1809,"Kab. Pesawaran",2008,0
+18,"Prov. Lampung",1809,"Kab. Pesawaran",2009,99.26
+18,"Prov. Lampung",1871,"Kota Bandar Lampung",2005,99.22
+18,"Prov. Lampung",1871,"Kota Bandar Lampung",2006,99.22
+18,"Prov. Lampung",1871,"Kota Bandar Lampung",2007,100
+18,"Prov. Lampung",1871,"Kota Bandar Lampung",2008,100
+18,"Prov. Lampung",1871,"Kota Bandar Lampung",2009,100
+18,"Prov. Lampung",1872,"Kota Metro",2005,99.79
+18,"Prov. Lampung",1872,"Kota Metro",2006,99.76
+18,"Prov. Lampung",1872,"Kota Metro",2007,99.56
+18,"Prov. Lampung",1872,"Kota Metro",2008,100
+18,"Prov. Lampung",1872,"Kota Metro",2009,100
+19,"Prov. Kepulauan Bangka Belitung",1901,"Kab. Bangka",2005,98.98
+19,"Prov. Kepulauan Bangka Belitung",1901,"Kab. Bangka",2006,99.36
+19,"Prov. Kepulauan Bangka Belitung",1901,"Kab. Bangka",2007,98.18
+19,"Prov. Kepulauan Bangka Belitung",1901,"Kab. Bangka",2008,100
+19,"Prov. Kepulauan Bangka Belitung",1901,"Kab. Bangka",2009,100
+19,"Prov. Kepulauan Bangka Belitung",1902,"Kab. Belitung",2005,99.11
+19,"Prov. Kepulauan Bangka Belitung",1902,"Kab. Belitung",2006,99.51
+19,"Prov. Kepulauan Bangka Belitung",1902,"Kab. Belitung",2007,99.15
+19,"Prov. Kepulauan Bangka Belitung",1902,"Kab. Belitung",2008,100
+19,"Prov. Kepulauan Bangka Belitung",1902,"Kab. Belitung",2009,95.65
+19,"Prov. Kepulauan Bangka Belitung",1903,"Kab. Bangka Barat",2005,98.51
+19,"Prov. Kepulauan Bangka Belitung",1903,"Kab. Bangka Barat",2006,97.63
+19,"Prov. Kepulauan Bangka Belitung",1903,"Kab. Bangka Barat",2007,96.54
+19,"Prov. Kepulauan Bangka Belitung",1903,"Kab. Bangka Barat",2008,98.42
+19,"Prov. Kepulauan Bangka Belitung",1903,"Kab. Bangka Barat",2009,100
+19,"Prov. Kepulauan Bangka Belitung",1904,"Kab. Bangka Tengah",2005,98.03
+19,"Prov. Kepulauan Bangka Belitung",1904,"Kab. Bangka Tengah",2006,99.24
+19,"Prov. Kepulauan Bangka Belitung",1904,"Kab. Bangka Tengah",2007,98.47
+19,"Prov. Kepulauan Bangka Belitung",1904,"Kab. Bangka Tengah",2008,100
+19,"Prov. Kepulauan Bangka Belitung",1904,"Kab. Bangka Tengah",2009,100
+19,"Prov. Kepulauan Bangka Belitung",1905,"Kab. Bangka Selatan",2005,98.1
+19,"Prov. Kepulauan Bangka Belitung",1905,"Kab. Bangka Selatan",2006,97.19
+19,"Prov. Kepulauan Bangka Belitung",1905,"Kab. Bangka Selatan",2007,97.06
+19,"Prov. Kepulauan Bangka Belitung",1905,"Kab. Bangka Selatan",2008,99.2
+19,"Prov. Kepulauan Bangka Belitung",1905,"Kab. Bangka Selatan",2009,100
+19,"Prov. Kepulauan Bangka Belitung",1906,"Kab. Belitung Timur",2005,100
+19,"Prov. Kepulauan Bangka Belitung",1906,"Kab. Belitung Timur",2006,99.52
+19,"Prov. Kepulauan Bangka Belitung",1906,"Kab. Belitung Timur",2007,98.05
+19,"Prov. Kepulauan Bangka Belitung",1906,"Kab. Belitung Timur",2008,100
+19,"Prov. Kepulauan Bangka Belitung",1906,"Kab. Belitung Timur",2009,100
+19,"Prov. Kepulauan Bangka Belitung",1971,"Kota Pangkal Pinang",2005,100
+19,"Prov. Kepulauan Bangka Belitung",1971,"Kota Pangkal Pinang",2006,99.78
+19,"Prov. Kepulauan Bangka Belitung",1971,"Kota Pangkal Pinang",2007,99.52
+19,"Prov. Kepulauan Bangka Belitung",1971,"Kota Pangkal Pinang",2008,99.51
+19,"Prov. Kepulauan Bangka Belitung",1971,"Kota Pangkal Pinang",2009,100
+21,"Prov. Kepulauan Riau",2101,"Kab. Karimun",2005,98.28
+21,"Prov. Kepulauan Riau",2101,"Kab. Karimun",2006,98.05
+21,"Prov. Kepulauan Riau",2101,"Kab. Karimun",2007,97.36
+21,"Prov. Kepulauan Riau",2101,"Kab. Karimun",2008,100
+21,"Prov. Kepulauan Riau",2101,"Kab. Karimun",2009,100
+21,"Prov. Kepulauan Riau",2102,"Kab. Bintan",2005,96.47
+21,"Prov. Kepulauan Riau",2102,"Kab. Bintan",2006,98.75
+21,"Prov. Kepulauan Riau",2102,"Kab. Bintan",2007,97.65
+21,"Prov. Kepulauan Riau",2102,"Kab. Bintan",2008,99.88
+21,"Prov. Kepulauan Riau",2102,"Kab. Bintan",2009,100
+21,"Prov. Kepulauan Riau",2103,"Kab. Natuna",2005,100
+21,"Prov. Kepulauan Riau",2103,"Kab. Natuna",2006,98.04
+21,"Prov. Kepulauan Riau",2103,"Kab. Natuna",2007,96.19
+21,"Prov. Kepulauan Riau",2103,"Kab. Natuna",2008,98.81
+21,"Prov. Kepulauan Riau",2103,"Kab. Natuna",2009,100
+21,"Prov. Kepulauan Riau",2104,"Kab. Lingga",2005,95.28
+21,"Prov. Kepulauan Riau",2104,"Kab. Lingga",2006,97.22
+21,"Prov. Kepulauan Riau",2104,"Kab. Lingga",2007,95.53
+21,"Prov. Kepulauan Riau",2104,"Kab. Lingga",2008,99.18
+21,"Prov. Kepulauan Riau",2104,"Kab. Lingga",2009,100
+21,"Prov. Kepulauan Riau",2171,"Kota Batam",2005,99.59
+21,"Prov. Kepulauan Riau",2171,"Kota Batam",2006,99.76
+21,"Prov. Kepulauan Riau",2171,"Kota Batam",2007,99.85
+21,"Prov. Kepulauan Riau",2171,"Kota Batam",2008,100
+21,"Prov. Kepulauan Riau",2171,"Kota Batam",2009,100
+21,"Prov. Kepulauan Riau",2172,"Kota Tanjung Pinang",2005,99.03
+21,"Prov. Kepulauan Riau",2172,"Kota Tanjung Pinang",2006,100
+21,"Prov. Kepulauan Riau",2172,"Kota Tanjung Pinang",2007,100
+21,"Prov. Kepulauan Riau",2172,"Kota Tanjung Pinang",2008,100
+21,"Prov. Kepulauan Riau",2172,"Kota Tanjung Pinang",2009,100
+31,"Prov. DKI Jakarta",3101,"Kab. Kepulauan Seribu",2005,100
+31,"Prov. DKI Jakarta",3101,"Kab. Kepulauan Seribu",2006,99.61
+31,"Prov. DKI Jakarta",3101,"Kab. Kepulauan Seribu",2007,98.31
+31,"Prov. DKI Jakarta",3101,"Kab. Kepulauan Seribu",2008,100
+31,"Prov. DKI Jakarta",3101,"Kab. Kepulauan Seribu",2009,100
+31,"Prov. DKI Jakarta",3171,"Kab. Kodya Jakarta Selatan",2005,99.43
+31,"Prov. DKI Jakarta",3171,"Kab. Kodya Jakarta Selatan",2006,99.5
+31,"Prov. DKI Jakarta",3171,"Kab. Kodya Jakarta Selatan",2007,99.9
+31,"Prov. DKI Jakarta",3171,"Kab. Kodya Jakarta Selatan",2008,100
+31,"Prov. DKI Jakarta",3171,"Kab. Kodya Jakarta Selatan",2009,100
+31,"Prov. DKI Jakarta",3172,"Kab. Kodya Jakarta Timur",2005,99.9
+31,"Prov. DKI Jakarta",3172,"Kab. Kodya Jakarta Timur",2006,99.59
+31,"Prov. DKI Jakarta",3172,"Kab. Kodya Jakarta Timur",2007,99.8
+31,"Prov. DKI Jakarta",3172,"Kab. Kodya Jakarta Timur",2008,100
+31,"Prov. DKI Jakarta",3172,"Kab. Kodya Jakarta Timur",2009,100
+31,"Prov. DKI Jakarta",3173,"Kab. Kodya Jakarta Pusat",2005,99.5
+31,"Prov. DKI Jakarta",3173,"Kab. Kodya Jakarta Pusat",2006,99.45
+31,"Prov. DKI Jakarta",3173,"Kab. Kodya Jakarta Pusat",2007,99.9
+31,"Prov. DKI Jakarta",3173,"Kab. Kodya Jakarta Pusat",2008,100
+31,"Prov. DKI Jakarta",3173,"Kab. Kodya Jakarta Pusat",2009,100
+31,"Prov. DKI Jakarta",3174,"Kab. Kodya Jakarta Barat",2005,99.52
+31,"Prov. DKI Jakarta",3174,"Kab. Kodya Jakarta Barat",2006,99.57
+31,"Prov. DKI Jakarta",3174,"Kab. Kodya Jakarta Barat",2007,99.53
+31,"Prov. DKI Jakarta",3174,"Kab. Kodya Jakarta Barat",2008,100
+31,"Prov. DKI Jakarta",3174,"Kab. Kodya Jakarta Barat",2009,100
+31,"Prov. DKI Jakarta",3175,"Kab. Kodya Jakarta Utara",2005,99.72
+31,"Prov. DKI Jakarta",3175,"Kab. Kodya Jakarta Utara",2006,99.62
+31,"Prov. DKI Jakarta",3175,"Kab. Kodya Jakarta Utara",2007,99.91
+31,"Prov. DKI Jakarta",3175,"Kab. Kodya Jakarta Utara",2008,100
+31,"Prov. DKI Jakarta",3175,"Kab. Kodya Jakarta Utara",2009,100
+32,"Prov. Jawa Barat",3201,"Kab. Bogor",2005,99.1
+32,"Prov. Jawa Barat",3201,"Kab. Bogor",2006,99.26
+32,"Prov. Jawa Barat",3201,"Kab. Bogor",2007,99.14
+32,"Prov. Jawa Barat",3201,"Kab. Bogor",2008,99.68
+32,"Prov. Jawa Barat",3201,"Kab. Bogor",2009,99.21
+32,"Prov. Jawa Barat",3202,"Kab. Sukabumi",2005,99.48
+32,"Prov. Jawa Barat",3202,"Kab. Sukabumi",2006,99.66
+32,"Prov. Jawa Barat",3202,"Kab. Sukabumi",2007,98.89
+32,"Prov. Jawa Barat",3202,"Kab. Sukabumi",2008,100
+32,"Prov. Jawa Barat",3202,"Kab. Sukabumi",2009,100
+32,"Prov. Jawa Barat",3203,"Kab. Cianjur",2005,99.16
+32,"Prov. Jawa Barat",3203,"Kab. Cianjur",2006,100
+32,"Prov. Jawa Barat",3203,"Kab. Cianjur",2007,99.65
+32,"Prov. Jawa Barat",3203,"Kab. Cianjur",2008,100
+32,"Prov. Jawa Barat",3203,"Kab. Cianjur",2009,100
+32,"Prov. Jawa Barat",3204,"Kab. Bandung",2005,99.5
+32,"Prov. Jawa Barat",3204,"Kab. Bandung",2006,99.7
+32,"Prov. Jawa Barat",3204,"Kab. Bandung",2007,99.9
+32,"Prov. Jawa Barat",3204,"Kab. Bandung",2008,100
+32,"Prov. Jawa Barat",3204,"Kab. Bandung",2009,100
+32,"Prov. Jawa Barat",3205,"Kab. Garut",2005,99.52
+32,"Prov. Jawa Barat",3205,"Kab. Garut",2006,99.24
+32,"Prov. Jawa Barat",3205,"Kab. Garut",2007,99.84
+32,"Prov. Jawa Barat",3205,"Kab. Garut",2008,100
+32,"Prov. Jawa Barat",3205,"Kab. Garut",2009,100
+32,"Prov. Jawa Barat",3206,"Kab. Tasikmalaya",2005,99.81
+32,"Prov. Jawa Barat",3206,"Kab. Tasikmalaya",2006,100
+32,"Prov. Jawa Barat",3206,"Kab. Tasikmalaya",2007,99.2
+32,"Prov. Jawa Barat",3206,"Kab. Tasikmalaya",2008,100
+32,"Prov. Jawa Barat",3206,"Kab. Tasikmalaya",2009,100
+32,"Prov. Jawa Barat",3207,"Kab. Ciamis",2005,99.76
+32,"Prov. Jawa Barat",3207,"Kab. Ciamis",2006,99.25
+32,"Prov. Jawa Barat",3207,"Kab. Ciamis",2007,98.83
+32,"Prov. Jawa Barat",3207,"Kab. Ciamis",2008,99.74
+32,"Prov. Jawa Barat",3207,"Kab. Ciamis",2009,100
+32,"Prov. Jawa Barat",3208,"Kab. Kuningan",2005,99.75
+32,"Prov. Jawa Barat",3208,"Kab. Kuningan",2006,99.72
+32,"Prov. Jawa Barat",3208,"Kab. Kuningan",2007,99.16
+32,"Prov. Jawa Barat",3208,"Kab. Kuningan",2008,98.67
+32,"Prov. Jawa Barat",3208,"Kab. Kuningan",2009,100
+32,"Prov. Jawa Barat",3209,"Kab. Cirebon",2005,98.88
+32,"Prov. Jawa Barat",3209,"Kab. Cirebon",2006,98.41
+32,"Prov. Jawa Barat",3209,"Kab. Cirebon",2007,99.37
+32,"Prov. Jawa Barat",3209,"Kab. Cirebon",2008,99.46
+32,"Prov. Jawa Barat",3209,"Kab. Cirebon",2009,100
+32,"Prov. Jawa Barat",3210,"Kab. Majalengka",2005,99.43
+32,"Prov. Jawa Barat",3210,"Kab. Majalengka",2006,99.48
+32,"Prov. Jawa Barat",3210,"Kab. Majalengka",2007,98.95
+32,"Prov. Jawa Barat",3210,"Kab. Majalengka",2008,100
+32,"Prov. Jawa Barat",3210,"Kab. Majalengka",2009,100
+32,"Prov. Jawa Barat",3211,"Kab. Sumedang",2005,98.9
+32,"Prov. Jawa Barat",3211,"Kab. Sumedang",2006,98.81
+32,"Prov. Jawa Barat",3211,"Kab. Sumedang",2007,100
+32,"Prov. Jawa Barat",3211,"Kab. Sumedang",2008,100
+32,"Prov. Jawa Barat",3211,"Kab. Sumedang",2009,100
+32,"Prov. Jawa Barat",3212,"Kab. Indramayu",2005,98.54
+32,"Prov. Jawa Barat",3212,"Kab. Indramayu",2006,99.37
+32,"Prov. Jawa Barat",3212,"Kab. Indramayu",2007,98.92
+32,"Prov. Jawa Barat",3212,"Kab. Indramayu",2008,100
+32,"Prov. Jawa Barat",3212,"Kab. Indramayu",2009,100
+32,"Prov. Jawa Barat",3213,"Kab. Subang",2005,99.76
+32,"Prov. Jawa Barat",3213,"Kab. Subang",2006,99.53
+32,"Prov. Jawa Barat",3213,"Kab. Subang",2007,99.71
+32,"Prov. Jawa Barat",3213,"Kab. Subang",2008,100
+32,"Prov. Jawa Barat",3213,"Kab. Subang",2009,100
+32,"Prov. Jawa Barat",3214,"Kab. Purwakarta",2005,99.8
+32,"Prov. Jawa Barat",3214,"Kab. Purwakarta",2006,99.25
+32,"Prov. Jawa Barat",3214,"Kab. Purwakarta",2007,100
+32,"Prov. Jawa Barat",3214,"Kab. Purwakarta",2008,99.62
+32,"Prov. Jawa Barat",3214,"Kab. Purwakarta",2009,100
+32,"Prov. Jawa Barat",3215,"Kab. Karawang",2005,98.05
+32,"Prov. Jawa Barat",3215,"Kab. Karawang",2006,99.82
+32,"Prov. Jawa Barat",3215,"Kab. Karawang",2007,99.15
+32,"Prov. Jawa Barat",3215,"Kab. Karawang",2008,100
+32,"Prov. Jawa Barat",3215,"Kab. Karawang",2009,99.11
+32,"Prov. Jawa Barat",3216,"Kab. Bekasi",2005,99.11
+32,"Prov. Jawa Barat",3216,"Kab. Bekasi",2006,99.38
+32,"Prov. Jawa Barat",3216,"Kab. Bekasi",2007,99.22
+32,"Prov. Jawa Barat",3216,"Kab. Bekasi",2008,100
+32,"Prov. Jawa Barat",3216,"Kab. Bekasi",2009,97.94
+32,"Prov. Jawa Barat",3217,"Kab. Bandung Barat",2005,0
+32,"Prov. Jawa Barat",3217,"Kab. Bandung Barat",2006,0
+32,"Prov. Jawa Barat",3217,"Kab. Bandung Barat",2007,99.42
+32,"Prov. Jawa Barat",3217,"Kab. Bandung Barat",2008,100
+32,"Prov. Jawa Barat",3217,"Kab. Bandung Barat",2009,100
+32,"Prov. Jawa Barat",3271,"Kota Bogor",2005,100
+32,"Prov. Jawa Barat",3271,"Kota Bogor",2006,99.81
+32,"Prov. Jawa Barat",3271,"Kota Bogor",2007,99.62
+32,"Prov. Jawa Barat",3271,"Kota Bogor",2008,100
+32,"Prov. Jawa Barat",3271,"Kota Bogor",2009,100
+32,"Prov. Jawa Barat",3272,"Kota Sukabumi",2005,99.7
+32,"Prov. Jawa Barat",3272,"Kota Sukabumi",2006,100
+32,"Prov. Jawa Barat",3272,"Kota Sukabumi",2007,99.37
+32,"Prov. Jawa Barat",3272,"Kota Sukabumi",2008,99.65
+32,"Prov. Jawa Barat",3272,"Kota Sukabumi",2009,100
+32,"Prov. Jawa Barat",3273,"Kota Bandung",2005,99.43
+32,"Prov. Jawa Barat",3273,"Kota Bandung",2006,99.86
+32,"Prov. Jawa Barat",3273,"Kota Bandung",2007,100
+32,"Prov. Jawa Barat",3273,"Kota Bandung",2008,100
+32,"Prov. Jawa Barat",3273,"Kota Bandung",2009,100
+32,"Prov. Jawa Barat",3274,"Kota Cirebon",2005,98.88
+32,"Prov. Jawa Barat",3274,"Kota Cirebon",2006,98.87
+32,"Prov. Jawa Barat",3274,"Kota Cirebon",2007,97.85
+32,"Prov. Jawa Barat",3274,"Kota Cirebon",2008,99.68
+32,"Prov. Jawa Barat",3274,"Kota Cirebon",2009,100
+32,"Prov. Jawa Barat",3275,"Kota Bekasi",2005,100
+32,"Prov. Jawa Barat",3275,"Kota Bekasi",2006,99.69
+32,"Prov. Jawa Barat",3275,"Kota Bekasi",2007,99.59
+32,"Prov. Jawa Barat",3275,"Kota Bekasi",2008,100
+32,"Prov. Jawa Barat",3275,"Kota Bekasi",2009,100
+32,"Prov. Jawa Barat",3276,"Kota Depok",2005,99.83
+32,"Prov. Jawa Barat",3276,"Kota Depok",2006,100
+32,"Prov. Jawa Barat",3276,"Kota Depok",2007,99.82
+32,"Prov. Jawa Barat",3276,"Kota Depok",2008,100
+32,"Prov. Jawa Barat",3276,"Kota Depok",2009,100
+32,"Prov. Jawa Barat",3277,"Kota Cimahi",2005,99.51
+32,"Prov. Jawa Barat",3277,"Kota Cimahi",2006,100
+32,"Prov. Jawa Barat",3277,"Kota Cimahi",2007,99.82
+32,"Prov. Jawa Barat",3277,"Kota Cimahi",2008,99.8
+32,"Prov. Jawa Barat",3277,"Kota Cimahi",2009,100
+32,"Prov. Jawa Barat",3278,"Kota Tasikmalaya",2005,99.19
+32,"Prov. Jawa Barat",3278,"Kota Tasikmalaya",2006,99.36
+32,"Prov. Jawa Barat",3278,"Kota Tasikmalaya",2007,99.8
+32,"Prov. Jawa Barat",3278,"Kota Tasikmalaya",2008,100
+32,"Prov. Jawa Barat",3278,"Kota Tasikmalaya",2009,100
+32,"Prov. Jawa Barat",3279,"Kota Banjar",2005,100
+32,"Prov. Jawa Barat",3279,"Kota Banjar",2006,100
+32,"Prov. Jawa Barat",3279,"Kota Banjar",2007,99.2
+32,"Prov. Jawa Barat",3279,"Kota Banjar",2008,99.61
+32,"Prov. Jawa Barat",3279,"Kota Banjar",2009,95.43
+33,"Prov. Jawa Tengah",3301,"Kab. Cilacap",2005,99.22
+33,"Prov. Jawa Tengah",3301,"Kab. Cilacap",2006,99.2
+33,"Prov. Jawa Tengah",3301,"Kab. Cilacap",2007,99.56
+33,"Prov. Jawa Tengah",3301,"Kab. Cilacap",2008,100
+33,"Prov. Jawa Tengah",3301,"Kab. Cilacap",2009,100
+33,"Prov. Jawa Tengah",3302,"Kab. Banyumas",2005,99.36
+33,"Prov. Jawa Tengah",3302,"Kab. Banyumas",2006,98.64
+33,"Prov. Jawa Tengah",3302,"Kab. Banyumas",2007,99.14
+33,"Prov. Jawa Tengah",3302,"Kab. Banyumas",2008,98.98
+33,"Prov. Jawa Tengah",3302,"Kab. Banyumas",2009,100
+33,"Prov. Jawa Tengah",3303,"Kab. Purbalingga",2005,98.72
+33,"Prov. Jawa Tengah",3303,"Kab. Purbalingga",2006,99.13
+33,"Prov. Jawa Tengah",3303,"Kab. Purbalingga",2007,99.25
+33,"Prov. Jawa Tengah",3303,"Kab. Purbalingga",2008,99.69
+33,"Prov. Jawa Tengah",3303,"Kab. Purbalingga",2009,100
+33,"Prov. Jawa Tengah",3304,"Kab. Banjarnegara",2005,98.65
+33,"Prov. Jawa Tengah",3304,"Kab. Banjarnegara",2006,98.87
+33,"Prov. Jawa Tengah",3304,"Kab. Banjarnegara",2007,99.32
+33,"Prov. Jawa Tengah",3304,"Kab. Banjarnegara",2008,99.3
+33,"Prov. Jawa Tengah",3304,"Kab. Banjarnegara",2009,96.93
+33,"Prov. Jawa Tengah",3305,"Kab. Kebumen",2005,100
+33,"Prov. Jawa Tengah",3305,"Kab. Kebumen",2006,99.57
+33,"Prov. Jawa Tengah",3305,"Kab. Kebumen",2007,98.48
+33,"Prov. Jawa Tengah",3305,"Kab. Kebumen",2008,99.47
+33,"Prov. Jawa Tengah",3305,"Kab. Kebumen",2009,100
+33,"Prov. Jawa Tengah",3306,"Kab. Purworejo",2005,97.97
+33,"Prov. Jawa Tengah",3306,"Kab. Purworejo",2006,99.12
+33,"Prov. Jawa Tengah",3306,"Kab. Purworejo",2007,98.59
+33,"Prov. Jawa Tengah",3306,"Kab. Purworejo",2008,98.74
+33,"Prov. Jawa Tengah",3306,"Kab. Purworejo",2009,100
+33,"Prov. Jawa Tengah",3307,"Kab. Wonosobo",2005,98.66
+33,"Prov. Jawa Tengah",3307,"Kab. Wonosobo",2006,99.26
+33,"Prov. Jawa Tengah",3307,"Kab. Wonosobo",2007,98.95
+33,"Prov. Jawa Tengah",3307,"Kab. Wonosobo",2008,99.37
+33,"Prov. Jawa Tengah",3307,"Kab. Wonosobo",2009,98.95
+33,"Prov. Jawa Tengah",3308,"Kab. Magelang",2005,100
+33,"Prov. Jawa Tengah",3308,"Kab. Magelang",2006,99.54
+33,"Prov. Jawa Tengah",3308,"Kab. Magelang",2007,99.44
+33,"Prov. Jawa Tengah",3308,"Kab. Magelang",2008,99.41
+33,"Prov. Jawa Tengah",3308,"Kab. Magelang",2009,100
+33,"Prov. Jawa Tengah",3309,"Kab. Boyolali",2005,98.4
+33,"Prov. Jawa Tengah",3309,"Kab. Boyolali",2006,99.51
+33,"Prov. Jawa Tengah",3309,"Kab. Boyolali",2007,99.51
+33,"Prov. Jawa Tengah",3309,"Kab. Boyolali",2008,100
+33,"Prov. Jawa Tengah",3309,"Kab. Boyolali",2009,100
+33,"Prov. Jawa Tengah",3310,"Kab. Klaten",2005,99.13
+33,"Prov. Jawa Tengah",3310,"Kab. Klaten",2006,99.78
+33,"Prov. Jawa Tengah",3310,"Kab. Klaten",2007,99.35
+33,"Prov. Jawa Tengah",3310,"Kab. Klaten",2008,100
+33,"Prov. Jawa Tengah",3310,"Kab. Klaten",2009,100
+33,"Prov. Jawa Tengah",3311,"Kab. Sukoharjo",2005,99.38
+33,"Prov. Jawa Tengah",3311,"Kab. Sukoharjo",2006,100
+33,"Prov. Jawa Tengah",3311,"Kab. Sukoharjo",2007,99.76
+33,"Prov. Jawa Tengah",3311,"Kab. Sukoharjo",2008,100
+33,"Prov. Jawa Tengah",3311,"Kab. Sukoharjo",2009,100
+33,"Prov. Jawa Tengah",3312,"Kab. Wonogiri",2005,98.49
+33,"Prov. Jawa Tengah",3312,"Kab. Wonogiri",2006,99.4
+33,"Prov. Jawa Tengah",3312,"Kab. Wonogiri",2007,99.08
+33,"Prov. Jawa Tengah",3312,"Kab. Wonogiri",2008,100
+33,"Prov. Jawa Tengah",3312,"Kab. Wonogiri",2009,97.02
+33,"Prov. Jawa Tengah",3313,"Kab. Karanganyar",2005,99.77
+33,"Prov. Jawa Tengah",3313,"Kab. Karanganyar",2006,98.7
+33,"Prov. Jawa Tengah",3313,"Kab. Karanganyar",2007,99.47
+33,"Prov. Jawa Tengah",3313,"Kab. Karanganyar",2008,100
+33,"Prov. Jawa Tengah",3313,"Kab. Karanganyar",2009,100
+33,"Prov. Jawa Tengah",3314,"Kab. Sragen",2005,98.86
+33,"Prov. Jawa Tengah",3314,"Kab. Sragen",2006,100
+33,"Prov. Jawa Tengah",3314,"Kab. Sragen",2007,99.36
+33,"Prov. Jawa Tengah",3314,"Kab. Sragen",2008,99.71
+33,"Prov. Jawa Tengah",3314,"Kab. Sragen",2009,100
+33,"Prov. Jawa Tengah",3315,"Kab. Grobogan",2005,100
+33,"Prov. Jawa Tengah",3315,"Kab. Grobogan",2006,99.77
+33,"Prov. Jawa Tengah",3315,"Kab. Grobogan",2007,99.19
+33,"Prov. Jawa Tengah",3315,"Kab. Grobogan",2008,100
+33,"Prov. Jawa Tengah",3315,"Kab. Grobogan",2009,100
+33,"Prov. Jawa Tengah",3316,"Kab. Blora",2005,98.29
+33,"Prov. Jawa Tengah",3316,"Kab. Blora",2006,98.98
+33,"Prov. Jawa Tengah",3316,"Kab. Blora",2007,99.26
+33,"Prov. Jawa Tengah",3316,"Kab. Blora",2008,99.38
+33,"Prov. Jawa Tengah",3316,"Kab. Blora",2009,100
+33,"Prov. Jawa Tengah",3317,"Kab. Rembang",2005,99.31
+33,"Prov. Jawa Tengah",3317,"Kab. Rembang",2006,99.77
+33,"Prov. Jawa Tengah",3317,"Kab. Rembang",2007,99.3
+33,"Prov. Jawa Tengah",3317,"Kab. Rembang",2008,99.73
+33,"Prov. Jawa Tengah",3317,"Kab. Rembang",2009,100
+33,"Prov. Jawa Tengah",3318,"Kab. Pati",2005,99.25
+33,"Prov. Jawa Tengah",3318,"Kab. Pati",2006,99.77
+33,"Prov. Jawa Tengah",3318,"Kab. Pati",2007,99.22
+33,"Prov. Jawa Tengah",3318,"Kab. Pati",2008,99.75
+33,"Prov. Jawa Tengah",3318,"Kab. Pati",2009,100
+33,"Prov. Jawa Tengah",3319,"Kab. Kudus",2005,99.42
+33,"Prov. Jawa Tengah",3319,"Kab. Kudus",2006,99.14
+33,"Prov. Jawa Tengah",3319,"Kab. Kudus",2007,100
+33,"Prov. Jawa Tengah",3319,"Kab. Kudus",2008,99.58
+33,"Prov. Jawa Tengah",3319,"Kab. Kudus",2009,100
+33,"Prov. Jawa Tengah",3320,"Kab. Jepara",2005,99.65
+33,"Prov. Jawa Tengah",3320,"Kab. Jepara",2006,99.44
+33,"Prov. Jawa Tengah",3320,"Kab. Jepara",2007,99.78
+33,"Prov. Jawa Tengah",3320,"Kab. Jepara",2008,100
+33,"Prov. Jawa Tengah",3320,"Kab. Jepara",2009,100
+33,"Prov. Jawa Tengah",3321,"Kab. Demak",2005,99.43
+33,"Prov. Jawa Tengah",3321,"Kab. Demak",2006,99.61
+33,"Prov. Jawa Tengah",3321,"Kab. Demak",2007,99.47
+33,"Prov. Jawa Tengah",3321,"Kab. Demak",2008,100
+33,"Prov. Jawa Tengah",3321,"Kab. Demak",2009,100
+33,"Prov. Jawa Tengah",3322,"Kab. Semarang",2005,99.57
+33,"Prov. Jawa Tengah",3322,"Kab. Semarang",2006,100
+33,"Prov. Jawa Tengah",3322,"Kab. Semarang",2007,99.27
+33,"Prov. Jawa Tengah",3322,"Kab. Semarang",2008,99.26
+33,"Prov. Jawa Tengah",3322,"Kab. Semarang",2009,100
+33,"Prov. Jawa Tengah",3323,"Kab. Temanggung",2005,99.23
+33,"Prov. Jawa Tengah",3323,"Kab. Temanggung",2006,99.74
+33,"Prov. Jawa Tengah",3323,"Kab. Temanggung",2007,99.23
+33,"Prov. Jawa Tengah",3323,"Kab. Temanggung",2008,100
+33,"Prov. Jawa Tengah",3323,"Kab. Temanggung",2009,100
+33,"Prov. Jawa Tengah",3324,"Kab. Kendal",2005,99.56
+33,"Prov. Jawa Tengah",3324,"Kab. Kendal",2006,98.77
+33,"Prov. Jawa Tengah",3324,"Kab. Kendal",2007,98.65
+33,"Prov. Jawa Tengah",3324,"Kab. Kendal",2008,100
+33,"Prov. Jawa Tengah",3324,"Kab. Kendal",2009,100
+33,"Prov. Jawa Tengah",3325,"Kab. Batang",2005,98.07
+33,"Prov. Jawa Tengah",3325,"Kab. Batang",2006,98.27
+33,"Prov. Jawa Tengah",3325,"Kab. Batang",2007,98.85
+33,"Prov. Jawa Tengah",3325,"Kab. Batang",2008,100
+33,"Prov. Jawa Tengah",3325,"Kab. Batang",2009,100
+33,"Prov. Jawa Tengah",3326,"Kab. Pekalongan",2005,99.46
+33,"Prov. Jawa Tengah",3326,"Kab. Pekalongan",2006,99.66
+33,"Prov. Jawa Tengah",3326,"Kab. Pekalongan",2007,99.2
+33,"Prov. Jawa Tengah",3326,"Kab. Pekalongan",2008,99.58
+33,"Prov. Jawa Tengah",3326,"Kab. Pekalongan",2009,100
+33,"Prov. Jawa Tengah",3327,"Kab. Pemalang",2005,99.84
+33,"Prov. Jawa Tengah",3327,"Kab. Pemalang",2006,99.63
+33,"Prov. Jawa Tengah",3327,"Kab. Pemalang",2007,99.35
+33,"Prov. Jawa Tengah",3327,"Kab. Pemalang",2008,100
+33,"Prov. Jawa Tengah",3327,"Kab. Pemalang",2009,100
+33,"Prov. Jawa Tengah",3328,"Kab. Tegal",2005,99.01
+33,"Prov. Jawa Tengah",3328,"Kab. Tegal",2006,98.66
+33,"Prov. Jawa Tengah",3328,"Kab. Tegal",2007,99.64
+33,"Prov. Jawa Tengah",3328,"Kab. Tegal",2008,100
+33,"Prov. Jawa Tengah",3328,"Kab. Tegal",2009,100
+33,"Prov. Jawa Tengah",3329,"Kab. Brebes",2005,98.69
+33,"Prov. Jawa Tengah",3329,"Kab. Brebes",2006,98.78
+33,"Prov. Jawa Tengah",3329,"Kab. Brebes",2007,98.81
+33,"Prov. Jawa Tengah",3329,"Kab. Brebes",2008,99.11
+33,"Prov. Jawa Tengah",3329,"Kab. Brebes",2009,100
+33,"Prov. Jawa Tengah",3371,"Kota Magelang",2005,99.52
+33,"Prov. Jawa Tengah",3371,"Kota Magelang",2006,100
+33,"Prov. Jawa Tengah",3371,"Kota Magelang",2007,99.7
+33,"Prov. Jawa Tengah",3371,"Kota Magelang",2008,100
+33,"Prov. Jawa Tengah",3371,"Kota Magelang",2009,96.57
+33,"Prov. Jawa Tengah",3372,"Kota Surakarta",2005,99.76
+33,"Prov. Jawa Tengah",3372,"Kota Surakarta",2006,99.77
+33,"Prov. Jawa Tengah",3372,"Kota Surakarta",2007,100
+33,"Prov. Jawa Tengah",3372,"Kota Surakarta",2008,100
+33,"Prov. Jawa Tengah",3372,"Kota Surakarta",2009,100
+33,"Prov. Jawa Tengah",3373,"Kota Salatiga",2005,100
+33,"Prov. Jawa Tengah",3373,"Kota Salatiga",2006,99.77
+33,"Prov. Jawa Tengah",3373,"Kota Salatiga",2007,100
+33,"Prov. Jawa Tengah",3373,"Kota Salatiga",2008,100
+33,"Prov. Jawa Tengah",3373,"Kota Salatiga",2009,100
+33,"Prov. Jawa Tengah",3374,"Kota Semarang",2005,100
+33,"Prov. Jawa Tengah",3374,"Kota Semarang",2006,99.83
+33,"Prov. Jawa Tengah",3374,"Kota Semarang",2007,99.65
+33,"Prov. Jawa Tengah",3374,"Kota Semarang",2008,100
+33,"Prov. Jawa Tengah",3374,"Kota Semarang",2009,100
+33,"Prov. Jawa Tengah",3375,"Kota Pekalongan",2005,99.78
+33,"Prov. Jawa Tengah",3375,"Kota Pekalongan",2006,99.56
+33,"Prov. Jawa Tengah",3375,"Kota Pekalongan",2007,99.53
+33,"Prov. Jawa Tengah",3375,"Kota Pekalongan",2008,100
+33,"Prov. Jawa Tengah",3375,"Kota Pekalongan",2009,100
+33,"Prov. Jawa Tengah",3376,"Kota Tegal",2005,98.98
+33,"Prov. Jawa Tengah",3376,"Kota Tegal",2006,99.47
+33,"Prov. Jawa Tengah",3376,"Kota Tegal",2007,99.55
+33,"Prov. Jawa Tengah",3376,"Kota Tegal",2008,100
+33,"Prov. Jawa Tengah",3376,"Kota Tegal",2009,97.56
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo",2005,100
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo",2006,100
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo",2007,100
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo",2008,100
+34,"Prov. D I Yogyakarta",3401,"Kab. Kulon Progo",2009,100
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul",2005,99.14
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul",2006,0
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul",2007,99.74
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul",2008,100
+34,"Prov. D I Yogyakarta",3402,"Kab. Bantul",2009,100
+34,"Prov. D I Yogyakarta",3403,"Kab. Gunung Kidul",2005,99.08
+34,"Prov. D I Yogyakarta",3403,"Kab. Gunung Kidul",2006,99.08
+34,"Prov. D I Yogyakarta",3403,"Kab. Gunung Kidul",2007,98.91
+34,"Prov. D I Yogyakarta",3403,"Kab. Gunung Kidul",2008,99.66
+34,"Prov. D I Yogyakarta",3403,"Kab. Gunung Kidul",2009,100
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman",2005,99.78
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman",2006,100
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman",2007,100
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman",2008,100
+34,"Prov. D I Yogyakarta",3404,"Kab. Sleman",2009,100
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta",2005,100
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta",2006,100
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta",2007,99.77
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta",2008,100
+34,"Prov. D I Yogyakarta",3471,"Kota Yogyakarta",2009,100
+35,"Prov. Jawa Timur",3501,"Kab. Pacitan",2005,98.92
+35,"Prov. Jawa Timur",3501,"Kab. Pacitan",2006,99.16
+35,"Prov. Jawa Timur",3501,"Kab. Pacitan",2007,99.68
+35,"Prov. Jawa Timur",3501,"Kab. Pacitan",2008,100
+35,"Prov. Jawa Timur",3501,"Kab. Pacitan",2009,100
+35,"Prov. Jawa Timur",3502,"Kab. Ponorogo",2005,98.66
+35,"Prov. Jawa Timur",3502,"Kab. Ponorogo",2006,99.5
+35,"Prov. Jawa Timur",3502,"Kab. Ponorogo",2007,99.22
+35,"Prov. Jawa Timur",3502,"Kab. Ponorogo",2008,100
+35,"Prov. Jawa Timur",3502,"Kab. Ponorogo",2009,100
+35,"Prov. Jawa Timur",3503,"Kab. Trenggalek",2005,99.78
+35,"Prov. Jawa Timur",3503,"Kab. Trenggalek",2006,99.72
+35,"Prov. Jawa Timur",3503,"Kab. Trenggalek",2007,98.8
+35,"Prov. Jawa Timur",3503,"Kab. Trenggalek",2008,99.41
+35,"Prov. Jawa Timur",3503,"Kab. Trenggalek",2009,98.62
+35,"Prov. Jawa Timur",3504,"Kab. Tulungagung",2005,100
+35,"Prov. Jawa Timur",3504,"Kab. Tulungagung",2006,99.23
+35,"Prov. Jawa Timur",3504,"Kab. Tulungagung",2007,99.48
+35,"Prov. Jawa Timur",3504,"Kab. Tulungagung",2008,100
+35,"Prov. Jawa Timur",3504,"Kab. Tulungagung",2009,100
+35,"Prov. Jawa Timur",3505,"Kab. Blitar",2005,99.24
+35,"Prov. Jawa Timur",3505,"Kab. Blitar",2006,99.74
+35,"Prov. Jawa Timur",3505,"Kab. Blitar",2007,99.47
+35,"Prov. Jawa Timur",3505,"Kab. Blitar",2008,100
+35,"Prov. Jawa Timur",3505,"Kab. Blitar",2009,100
+35,"Prov. Jawa Timur",3506,"Kab. Kediri",2005,99.78
+35,"Prov. Jawa Timur",3506,"Kab. Kediri",2006,99.6
+35,"Prov. Jawa Timur",3506,"Kab. Kediri",2007,99.12
+35,"Prov. Jawa Timur",3506,"Kab. Kediri",2008,100
+35,"Prov. Jawa Timur",3506,"Kab. Kediri",2009,100
+35,"Prov. Jawa Timur",3507,"Kab. Malang",2005,99.16
+35,"Prov. Jawa Timur",3507,"Kab. Malang",2006,99.82
+35,"Prov. Jawa Timur",3507,"Kab. Malang",2007,99.64
+35,"Prov. Jawa Timur",3507,"Kab. Malang",2008,100
+35,"Prov. Jawa Timur",3507,"Kab. Malang",2009,100
+35,"Prov. Jawa Timur",3508,"Kab. Lumajang",2005,98.85
+35,"Prov. Jawa Timur",3508,"Kab. Lumajang",2006,98.9
+35,"Prov. Jawa Timur",3508,"Kab. Lumajang",2007,98.57
+35,"Prov. Jawa Timur",3508,"Kab. Lumajang",2008,98.22
+35,"Prov. Jawa Timur",3508,"Kab. Lumajang",2009,97.39
+35,"Prov. Jawa Timur",3509,"Kab. Jember",2005,98.64
+35,"Prov. Jawa Timur",3509,"Kab. Jember",2006,98.9
+35,"Prov. Jawa Timur",3509,"Kab. Jember",2007,98.33
+35,"Prov. Jawa Timur",3509,"Kab. Jember",2008,99.34
+35,"Prov. Jawa Timur",3509,"Kab. Jember",2009,95.08
+35,"Prov. Jawa Timur",3510,"Kab. Banyuwangi",2005,97.45
+35,"Prov. Jawa Timur",3510,"Kab. Banyuwangi",2006,98.84
+35,"Prov. Jawa Timur",3510,"Kab. Banyuwangi",2007,98.77
+35,"Prov. Jawa Timur",3510,"Kab. Banyuwangi",2008,98.96
+35,"Prov. Jawa Timur",3510,"Kab. Banyuwangi",2009,98.24
+35,"Prov. Jawa Timur",3511,"Kab. Bondowoso",2005,94.86
+35,"Prov. Jawa Timur",3511,"Kab. Bondowoso",2006,98.07
+35,"Prov. Jawa Timur",3511,"Kab. Bondowoso",2007,96.63
+35,"Prov. Jawa Timur",3511,"Kab. Bondowoso",2008,98.49
+35,"Prov. Jawa Timur",3511,"Kab. Bondowoso",2009,96.84
+35,"Prov. Jawa Timur",3512,"Kab. Situbondo",2005,93.81
+35,"Prov. Jawa Timur",3512,"Kab. Situbondo",2006,96.75
+35,"Prov. Jawa Timur",3512,"Kab. Situbondo",2007,95.65
+35,"Prov. Jawa Timur",3512,"Kab. Situbondo",2008,98.93
+35,"Prov. Jawa Timur",3512,"Kab. Situbondo",2009,92.28
+35,"Prov. Jawa Timur",3513,"Kab. Probolinggo",2005,96.7
+35,"Prov. Jawa Timur",3513,"Kab. Probolinggo",2006,96.96
+35,"Prov. Jawa Timur",3513,"Kab. Probolinggo",2007,96.62
+35,"Prov. Jawa Timur",3513,"Kab. Probolinggo",2008,98.51
+35,"Prov. Jawa Timur",3513,"Kab. Probolinggo",2009,97.16
+35,"Prov. Jawa Timur",3514,"Kab. Pasuruan",2005,98.11
+35,"Prov. Jawa Timur",3514,"Kab. Pasuruan",2006,98.69
+35,"Prov. Jawa Timur",3514,"Kab. Pasuruan",2007,99.2
+35,"Prov. Jawa Timur",3514,"Kab. Pasuruan",2008,98.22
+35,"Prov. Jawa Timur",3514,"Kab. Pasuruan",2009,96.52
+35,"Prov. Jawa Timur",3515,"Kab. Sidoarjo",2005,100
+35,"Prov. Jawa Timur",3515,"Kab. Sidoarjo",2006,99.23
+35,"Prov. Jawa Timur",3515,"Kab. Sidoarjo",2007,100
+35,"Prov. Jawa Timur",3515,"Kab. Sidoarjo",2008,100
+35,"Prov. Jawa Timur",3515,"Kab. Sidoarjo",2009,100
+35,"Prov. Jawa Timur",3516,"Kab. Mojokerto",2005,99.78
+35,"Prov. Jawa Timur",3516,"Kab. Mojokerto",2006,99.79
+35,"Prov. Jawa Timur",3516,"Kab. Mojokerto",2007,99.78
+35,"Prov. Jawa Timur",3516,"Kab. Mojokerto",2008,100
+35,"Prov. Jawa Timur",3516,"Kab. Mojokerto",2009,100
+35,"Prov. Jawa Timur",3517,"Kab. Jombang",2005,99.31
+35,"Prov. Jawa Timur",3517,"Kab. Jombang",2006,100
+35,"Prov. Jawa Timur",3517,"Kab. Jombang",2007,100
+35,"Prov. Jawa Timur",3517,"Kab. Jombang",2008,100
+35,"Prov. Jawa Timur",3517,"Kab. Jombang",2009,98.89
+35,"Prov. Jawa Timur",3518,"Kab. Nganjuk",2005,98.88
+35,"Prov. Jawa Timur",3518,"Kab. Nganjuk",2006,99.34
+35,"Prov. Jawa Timur",3518,"Kab. Nganjuk",2007,100
+35,"Prov. Jawa Timur",3518,"Kab. Nganjuk",2008,100
+35,"Prov. Jawa Timur",3518,"Kab. Nganjuk",2009,97.46
+35,"Prov. Jawa Timur",3519,"Kab. Madiun",2005,99.47
+35,"Prov. Jawa Timur",3519,"Kab. Madiun",2006,99.46
+35,"Prov. Jawa Timur",3519,"Kab. Madiun",2007,100
+35,"Prov. Jawa Timur",3519,"Kab. Madiun",2008,99.7
+35,"Prov. Jawa Timur",3519,"Kab. Madiun",2009,100
+35,"Prov. Jawa Timur",3520,"Kab. Magetan",2005,99.34
+35,"Prov. Jawa Timur",3520,"Kab. Magetan",2006,98.48
+35,"Prov. Jawa Timur",3520,"Kab. Magetan",2007,100
+35,"Prov. Jawa Timur",3520,"Kab. Magetan",2008,100
+35,"Prov. Jawa Timur",3520,"Kab. Magetan",2009,100
+35,"Prov. Jawa Timur",3521,"Kab. Ngawi",2005,98.8
+35,"Prov. Jawa Timur",3521,"Kab. Ngawi",2006,99.46
+35,"Prov. Jawa Timur",3521,"Kab. Ngawi",2007,99.48
+35,"Prov. Jawa Timur",3521,"Kab. Ngawi",2008,98.97
+35,"Prov. Jawa Timur",3521,"Kab. Ngawi",2009,100
+35,"Prov. Jawa Timur",3522,"Kab. Bojonegoro",2005,99.8
+35,"Prov. Jawa Timur",3522,"Kab. Bojonegoro",2006,99.79
+35,"Prov. Jawa Timur",3522,"Kab. Bojonegoro",2007,99.78
+35,"Prov. Jawa Timur",3522,"Kab. Bojonegoro",2008,99.43
+35,"Prov. Jawa Timur",3522,"Kab. Bojonegoro",2009,98.89
+35,"Prov. Jawa Timur",3523,"Kab. Tuban",2005,98.75
+35,"Prov. Jawa Timur",3523,"Kab. Tuban",2006,99.12
+35,"Prov. Jawa Timur",3523,"Kab. Tuban",2007,98.59
+35,"Prov. Jawa Timur",3523,"Kab. Tuban",2008,100
+35,"Prov. Jawa Timur",3523,"Kab. Tuban",2009,98.79
+35,"Prov. Jawa Timur",3524,"Kab. Lamongan",2005,100
+35,"Prov. Jawa Timur",3524,"Kab. Lamongan",2006,99.8
+35,"Prov. Jawa Timur",3524,"Kab. Lamongan",2007,99.32
+35,"Prov. Jawa Timur",3524,"Kab. Lamongan",2008,100
+35,"Prov. Jawa Timur",3524,"Kab. Lamongan",2009,100
+35,"Prov. Jawa Timur",3525,"Kab. Gresik",2005,100
+35,"Prov. Jawa Timur",3525,"Kab. Gresik",2006,99.8
+35,"Prov. Jawa Timur",3525,"Kab. Gresik",2007,99.78
+35,"Prov. Jawa Timur",3525,"Kab. Gresik",2008,100
+35,"Prov. Jawa Timur",3525,"Kab. Gresik",2009,100
+35,"Prov. Jawa Timur",3526,"Kab. Bangkalan",2005,98.03
+35,"Prov. Jawa Timur",3526,"Kab. Bangkalan",2006,99.28
+35,"Prov. Jawa Timur",3526,"Kab. Bangkalan",2007,98.37
+35,"Prov. Jawa Timur",3526,"Kab. Bangkalan",2008,100
+35,"Prov. Jawa Timur",3526,"Kab. Bangkalan",2009,97.43
+35,"Prov. Jawa Timur",3527,"Kab. Sampang",2005,95.46
+35,"Prov. Jawa Timur",3527,"Kab. Sampang",2006,95.36
+35,"Prov. Jawa Timur",3527,"Kab. Sampang",2007,92.45
+35,"Prov. Jawa Timur",3527,"Kab. Sampang",2008,91.65
+35,"Prov. Jawa Timur",3527,"Kab. Sampang",2009,96.65
+35,"Prov. Jawa Timur",3528,"Kab. Pamekasan",2005,97.28
+35,"Prov. Jawa Timur",3528,"Kab. Pamekasan",2006,98.55
+35,"Prov. Jawa Timur",3528,"Kab. Pamekasan",2007,96.62
+35,"Prov. Jawa Timur",3528,"Kab. Pamekasan",2008,99.15
+35,"Prov. Jawa Timur",3528,"Kab. Pamekasan",2009,100
+35,"Prov. Jawa Timur",3529,"Kab. Sumenep",2005,98.82
+35,"Prov. Jawa Timur",3529,"Kab. Sumenep",2006,98.1
+35,"Prov. Jawa Timur",3529,"Kab. Sumenep",2007,98.4
+35,"Prov. Jawa Timur",3529,"Kab. Sumenep",2008,96.96
+35,"Prov. Jawa Timur",3529,"Kab. Sumenep",2009,100
+35,"Prov. Jawa Timur",3571,"Kota Kediri",2005,99.55
+35,"Prov. Jawa Timur",3571,"Kota Kediri",2006,99.76
+35,"Prov. Jawa Timur",3571,"Kota Kediri",2007,99.25
+35,"Prov. Jawa Timur",3571,"Kota Kediri",2008,100
+35,"Prov. Jawa Timur",3571,"Kota Kediri",2009,100
+35,"Prov. Jawa Timur",3572,"Kota Blitar",2005,99.03
+35,"Prov. Jawa Timur",3572,"Kota Blitar",2006,99.77
+35,"Prov. Jawa Timur",3572,"Kota Blitar",2007,99.44
+35,"Prov. Jawa Timur",3572,"Kota Blitar",2008,99.71
+35,"Prov. Jawa Timur",3572,"Kota Blitar",2009,100
+35,"Prov. Jawa Timur",3573,"Kota Malang",2005,99.55
+35,"Prov. Jawa Timur",3573,"Kota Malang",2006,100
+35,"Prov. Jawa Timur",3573,"Kota Malang",2007,100
+35,"Prov. Jawa Timur",3573,"Kota Malang",2008,100
+35,"Prov. Jawa Timur",3573,"Kota Malang",2009,94.74
+35,"Prov. Jawa Timur",3574,"Kota Probolinggo",2005,99.01
+35,"Prov. Jawa Timur",3574,"Kota Probolinggo",2006,98.8
+35,"Prov. Jawa Timur",3574,"Kota Probolinggo",2007,99.5
+35,"Prov. Jawa Timur",3574,"Kota Probolinggo",2008,100
+35,"Prov. Jawa Timur",3574,"Kota Probolinggo",2009,100
+35,"Prov. Jawa Timur",3575,"Kota Pasuruan",2005,99.8
+35,"Prov. Jawa Timur",3575,"Kota Pasuruan",2006,99.27
+35,"Prov. Jawa Timur",3575,"Kota Pasuruan",2007,100
+35,"Prov. Jawa Timur",3575,"Kota Pasuruan",2008,100
+35,"Prov. Jawa Timur",3575,"Kota Pasuruan",2009,100
+35,"Prov. Jawa Timur",3576,"Kota Mojokerto",2005,99.78
+35,"Prov. Jawa Timur",3576,"Kota Mojokerto",2006,99.77
+35,"Prov. Jawa Timur",3576,"Kota Mojokerto",2007,100
+35,"Prov. Jawa Timur",3576,"Kota Mojokerto",2008,99.44
+35,"Prov. Jawa Timur",3576,"Kota Mojokerto",2009,100
+35,"Prov. Jawa Timur",3577,"Kota Madiun",2005,99.71
+35,"Prov. Jawa Timur",3577,"Kota Madiun",2006,99.71
+35,"Prov. Jawa Timur",3577,"Kota Madiun",2007,100
+35,"Prov. Jawa Timur",3577,"Kota Madiun",2008,100
+35,"Prov. Jawa Timur",3577,"Kota Madiun",2009,100
+35,"Prov. Jawa Timur",3578,"Kota Surabaya",2005,99.88
+35,"Prov. Jawa Timur",3578,"Kota Surabaya",2006,99.07
+35,"Prov. Jawa Timur",3578,"Kota Surabaya",2007,99.74
+35,"Prov. Jawa Timur",3578,"Kota Surabaya",2008,100
+35,"Prov. Jawa Timur",3578,"Kota Surabaya",2009,100
+35,"Prov. Jawa Timur",3579,"Kota Batu",2005,99.45
+35,"Prov. Jawa Timur",3579,"Kota Batu",2006,99.63
+35,"Prov. Jawa Timur",3579,"Kota Batu",2007,99.3
+35,"Prov. Jawa Timur",3579,"Kota Batu",2008,100
+35,"Prov. Jawa Timur",3579,"Kota Batu",2009,100
+36,"Prov. Banten",3601,"Kab. Pandeglang",2005,99.12
+36,"Prov. Banten",3601,"Kab. Pandeglang",2006,98.52
+36,"Prov. Banten",3601,"Kab. Pandeglang",2007,99.2
+36,"Prov. Banten",3601,"Kab. Pandeglang",2008,100
+36,"Prov. Banten",3601,"Kab. Pandeglang",2009,100
+36,"Prov. Banten",3602,"Kab. Lebak",2005,99.14
+36,"Prov. Banten",3602,"Kab. Lebak",2006,99.46
+36,"Prov. Banten",3602,"Kab. Lebak",2007,98
+36,"Prov. Banten",3602,"Kab. Lebak",2008,99.43
+36,"Prov. Banten",3602,"Kab. Lebak",2009,100
+36,"Prov. Banten",3603,"Kab. Tangerang",2005,99.89
+36,"Prov. Banten",3603,"Kab. Tangerang",2006,99.76
+36,"Prov. Banten",3603,"Kab. Tangerang",2007,99.66
+36,"Prov. Banten",3603,"Kab. Tangerang",2008,100
+36,"Prov. Banten",3603,"Kab. Tangerang",2009,99.01
+36,"Prov. Banten",3604,"Kab. Serang",2005,99.25
+36,"Prov. Banten",3604,"Kab. Serang",2006,98.67
+36,"Prov. Banten",3604,"Kab. Serang",2007,99.11
+36,"Prov. Banten",3604,"Kab. Serang",2008,100
+36,"Prov. Banten",3604,"Kab. Serang",2009,100
+36,"Prov. Banten",3671,"Kota Tangerang",2005,99.85
+36,"Prov. Banten",3671,"Kota Tangerang",2006,99.58
+36,"Prov. Banten",3671,"Kota Tangerang",2007,99.86
+36,"Prov. Banten",3671,"Kota Tangerang",2008,100
+36,"Prov. Banten",3671,"Kota Tangerang",2009,100
+36,"Prov. Banten",3672,"Kota Cilegon",2005,100
+36,"Prov. Banten",3672,"Kota Cilegon",2006,100
+36,"Prov. Banten",3672,"Kota Cilegon",2007,99.64
+36,"Prov. Banten",3672,"Kota Cilegon",2008,100
+36,"Prov. Banten",3672,"Kota Cilegon",2009,100
+36,"Prov. Banten",3673,"Kota Serang",2005,0
+36,"Prov. Banten",3673,"Kota Serang",2006,0
+36,"Prov. Banten",3673,"Kota Serang",2007,0
+36,"Prov. Banten",3673,"Kota Serang",2008,0
+36,"Prov. Banten",3673,"Kota Serang",2009,98.08
+51,"Prov. Bali",5101,"Kab. Jembrana",2005,98.76
+51,"Prov. Bali",5101,"Kab. Jembrana",2006,100
+51,"Prov. Bali",5101,"Kab. Jembrana",2007,100
+51,"Prov. Bali",5101,"Kab. Jembrana",2008,98.52
+51,"Prov. Bali",5101,"Kab. Jembrana",2009,100
+51,"Prov. Bali",5102,"Kab. Tabanan",2005,99.28
+51,"Prov. Bali",5102,"Kab. Tabanan",2006,97.89
+51,"Prov. Bali",5102,"Kab. Tabanan",2007,99.3
+51,"Prov. Bali",5102,"Kab. Tabanan",2008,99.1
+51,"Prov. Bali",5102,"Kab. Tabanan",2009,100
+51,"Prov. Bali",5103,"Kab. Badung",2005,99.47
+51,"Prov. Bali",5103,"Kab. Badung",2006,99.21
+51,"Prov. Bali",5103,"Kab. Badung",2007,98.68
+51,"Prov. Bali",5103,"Kab. Badung",2008,100
+51,"Prov. Bali",5103,"Kab. Badung",2009,100
+51,"Prov. Bali",5104,"Kab. Gianyar",2005,99.29
+51,"Prov. Bali",5104,"Kab. Gianyar",2006,99.51
+51,"Prov. Bali",5104,"Kab. Gianyar",2007,99.5
+51,"Prov. Bali",5104,"Kab. Gianyar",2008,99
+51,"Prov. Bali",5104,"Kab. Gianyar",2009,88.19
+51,"Prov. Bali",5105,"Kab. Klungkung",2005,99.09
+51,"Prov. Bali",5105,"Kab. Klungkung",2006,98.57
+51,"Prov. Bali",5105,"Kab. Klungkung",2007,98.67
+51,"Prov. Bali",5105,"Kab. Klungkung",2008,98.56
+51,"Prov. Bali",5105,"Kab. Klungkung",2009,83.38
+51,"Prov. Bali",5106,"Kab. Bangli",2005,98.72
+51,"Prov. Bali",5106,"Kab. Bangli",2006,97.92
+51,"Prov. Bali",5106,"Kab. Bangli",2007,96.14
+51,"Prov. Bali",5106,"Kab. Bangli",2008,98.22
+51,"Prov. Bali",5106,"Kab. Bangli",2009,91.29
+51,"Prov. Bali",5107,"Kab. Karang Asem",2005,96.43
+51,"Prov. Bali",5107,"Kab. Karang Asem",2006,96.07
+51,"Prov. Bali",5107,"Kab. Karang Asem",2007,93.18
+51,"Prov. Bali",5107,"Kab. Karang Asem",2008,93.94
+51,"Prov. Bali",5107,"Kab. Karang Asem",2009,83.68
+51,"Prov. Bali",5108,"Kab. Buleleng",2005,99.32
+51,"Prov. Bali",5108,"Kab. Buleleng",2006,98.74
+51,"Prov. Bali",5108,"Kab. Buleleng",2007,98.83
+51,"Prov. Bali",5108,"Kab. Buleleng",2008,100
+51,"Prov. Bali",5108,"Kab. Buleleng",2009,100
+51,"Prov. Bali",5171,"Kota Denpasar",2005,99.15
+51,"Prov. Bali",5171,"Kota Denpasar",2006,99.55
+51,"Prov. Bali",5171,"Kota Denpasar",2007,100
+51,"Prov. Bali",5171,"Kota Denpasar",2008,100
+51,"Prov. Bali",5171,"Kota Denpasar",2009,100
+52,"Prov. Nusa Tenggara Barat",5201,"Kab. Lombok Barat",2005,93.29
+52,"Prov. Nusa Tenggara Barat",5201,"Kab. Lombok Barat",2006,94.53
+52,"Prov. Nusa Tenggara Barat",5201,"Kab. Lombok Barat",2007,95.9
+52,"Prov. Nusa Tenggara Barat",5201,"Kab. Lombok Barat",2008,100
+52,"Prov. Nusa Tenggara Barat",5201,"Kab. Lombok Barat",2009,96.3
+52,"Prov. Nusa Tenggara Barat",5202,"Kab. Lombok Tengah",2005,96.12
+52,"Prov. Nusa Tenggara Barat",5202,"Kab. Lombok Tengah",2006,95.75
+52,"Prov. Nusa Tenggara Barat",5202,"Kab. Lombok Tengah",2007,95.32
+52,"Prov. Nusa Tenggara Barat",5202,"Kab. Lombok Tengah",2008,98.36
+52,"Prov. Nusa Tenggara Barat",5202,"Kab. Lombok Tengah",2009,97.12
+52,"Prov. Nusa Tenggara Barat",5203,"Kab. Lombok Timur",2005,98.33
+52,"Prov. Nusa Tenggara Barat",5203,"Kab. Lombok Timur",2006,98.6
+52,"Prov. Nusa Tenggara Barat",5203,"Kab. Lombok Timur",2007,97.11
+52,"Prov. Nusa Tenggara Barat",5203,"Kab. Lombok Timur",2008,98.36
+52,"Prov. Nusa Tenggara Barat",5203,"Kab. Lombok Timur",2009,98.55
+52,"Prov. Nusa Tenggara Barat",5204,"Kab. Sumbawa",2005,96.85
+52,"Prov. Nusa Tenggara Barat",5204,"Kab. Sumbawa",2006,98.98
+52,"Prov. Nusa Tenggara Barat",5204,"Kab. Sumbawa",2007,99.04
+52,"Prov. Nusa Tenggara Barat",5204,"Kab. Sumbawa",2008,99.48
+52,"Prov. Nusa Tenggara Barat",5204,"Kab. Sumbawa",2009,97.67
+52,"Prov. Nusa Tenggara Barat",5205,"Kab. Dompu",2005,93.91
+52,"Prov. Nusa Tenggara Barat",5205,"Kab. Dompu",2006,92.51
+52,"Prov. Nusa Tenggara Barat",5205,"Kab. Dompu",2007,96.47
+52,"Prov. Nusa Tenggara Barat",5205,"Kab. Dompu",2008,98.49
+52,"Prov. Nusa Tenggara Barat",5205,"Kab. Dompu",2009,98.77
+52,"Prov. Nusa Tenggara Barat",5206,"Kab. Bima",2005,95.74
+52,"Prov. Nusa Tenggara Barat",5206,"Kab. Bima",2006,96.71
+52,"Prov. Nusa Tenggara Barat",5206,"Kab. Bima",2007,96.96
+52,"Prov. Nusa Tenggara Barat",5206,"Kab. Bima",2008,96.66
+52,"Prov. Nusa Tenggara Barat",5206,"Kab. Bima",2009,98.73
+52,"Prov. Nusa Tenggara Barat",5207,"Kab. Sumbawa Barat",2005,98.66
+52,"Prov. Nusa Tenggara Barat",5207,"Kab. Sumbawa Barat",2006,98.39
+52,"Prov. Nusa Tenggara Barat",5207,"Kab. Sumbawa Barat",2007,99.51
+52,"Prov. Nusa Tenggara Barat",5207,"Kab. Sumbawa Barat",2008,99.75
+52,"Prov. Nusa Tenggara Barat",5207,"Kab. Sumbawa Barat",2009,100
+52,"Prov. Nusa Tenggara Barat",5271,"Kota Mataram",2005,98.8
+52,"Prov. Nusa Tenggara Barat",5271,"Kota Mataram",2006,97.55
+52,"Prov. Nusa Tenggara Barat",5271,"Kota Mataram",2007,98.75
+52,"Prov. Nusa Tenggara Barat",5271,"Kota Mataram",2008,99.12
+52,"Prov. Nusa Tenggara Barat",5271,"Kota Mataram",2009,100
+52,"Prov. Nusa Tenggara Barat",5272,"Kota Bima",2005,98.79
+52,"Prov. Nusa Tenggara Barat",5272,"Kota Bima",2006,97.27
+52,"Prov. Nusa Tenggara Barat",5272,"Kota Bima",2007,99.1
+52,"Prov. Nusa Tenggara Barat",5272,"Kota Bima",2008,100
+52,"Prov. Nusa Tenggara Barat",5272,"Kota Bima",2009,97.17
+53,"Prov. Nusa Tenggara Timur",5301,"Kab. Sumba Barat",2005,83.96
+53,"Prov. Nusa Tenggara Timur",5301,"Kab. Sumba Barat",2006,82.43
+53,"Prov. Nusa Tenggara Timur",5301,"Kab. Sumba Barat",2007,84.92
+53,"Prov. Nusa Tenggara Timur",5301,"Kab. Sumba Barat",2008,87.67
+53,"Prov. Nusa Tenggara Timur",5301,"Kab. Sumba Barat",2009,87.43
+53,"Prov. Nusa Tenggara Timur",5302,"Kab. Sumba Timur",2005,94.03
+53,"Prov. Nusa Tenggara Timur",5302,"Kab. Sumba Timur",2006,93.43
+53,"Prov. Nusa Tenggara Timur",5302,"Kab. Sumba Timur",2007,92.43
+53,"Prov. Nusa Tenggara Timur",5302,"Kab. Sumba Timur",2008,93.89
+53,"Prov. Nusa Tenggara Timur",5302,"Kab. Sumba Timur",2009,97.02
+53,"Prov. Nusa Tenggara Timur",5303,"Kab. Kupang",2005,93.43
+53,"Prov. Nusa Tenggara Timur",5303,"Kab. Kupang",2006,95.6
+53,"Prov. Nusa Tenggara Timur",5303,"Kab. Kupang",2007,97.49
+53,"Prov. Nusa Tenggara Timur",5303,"Kab. Kupang",2008,98.29
+53,"Prov. Nusa Tenggara Timur",5303,"Kab. Kupang",2009,95.83
+53,"Prov. Nusa Tenggara Timur",5304,"Kab. Timor Tengah Selatan",2005,94.4
+53,"Prov. Nusa Tenggara Timur",5304,"Kab. Timor Tengah Selatan",2006,94.83
+53,"Prov. Nusa Tenggara Timur",5304,"Kab. Timor Tengah Selatan",2007,97.3
+53,"Prov. Nusa Tenggara Timur",5304,"Kab. Timor Tengah Selatan",2008,100
+53,"Prov. Nusa Tenggara Timur",5304,"Kab. Timor Tengah Selatan",2009,91.66
+53,"Prov. Nusa Tenggara Timur",5305,"Kab. Timor Tengah Utara",2005,94.18
+53,"Prov. Nusa Tenggara Timur",5305,"Kab. Timor Tengah Utara",2006,93.97
+53,"Prov. Nusa Tenggara Timur",5305,"Kab. Timor Tengah Utara",2007,97.37
+53,"Prov. Nusa Tenggara Timur",5305,"Kab. Timor Tengah Utara",2008,100
+53,"Prov. Nusa Tenggara Timur",5305,"Kab. Timor Tengah Utara",2009,94.87
+53,"Prov. Nusa Tenggara Timur",5306,"Kab. Belu",2005,93.39
+53,"Prov. Nusa Tenggara Timur",5306,"Kab. Belu",2006,91.61
+53,"Prov. Nusa Tenggara Timur",5306,"Kab. Belu",2007,91.75
+53,"Prov. Nusa Tenggara Timur",5306,"Kab. Belu",2008,95.45
+53,"Prov. Nusa Tenggara Timur",5306,"Kab. Belu",2009,91.18
+53,"Prov. Nusa Tenggara Timur",5307,"Kab. Alor",2005,98.63
+53,"Prov. Nusa Tenggara Timur",5307,"Kab. Alor",2006,98.48
+53,"Prov. Nusa Tenggara Timur",5307,"Kab. Alor",2007,96.49
+53,"Prov. Nusa Tenggara Timur",5307,"Kab. Alor",2008,98.95
+53,"Prov. Nusa Tenggara Timur",5307,"Kab. Alor",2009,98.07
+53,"Prov. Nusa Tenggara Timur",5308,"Kab. Lembata",2005,97.92
+53,"Prov. Nusa Tenggara Timur",5308,"Kab. Lembata",2006,96.64
+53,"Prov. Nusa Tenggara Timur",5308,"Kab. Lembata",2007,98.97
+53,"Prov. Nusa Tenggara Timur",5308,"Kab. Lembata",2008,99.34
+53,"Prov. Nusa Tenggara Timur",5308,"Kab. Lembata",2009,96.95
+53,"Prov. Nusa Tenggara Timur",5309,"Kab. Flores Timur",2005,99.21
+53,"Prov. Nusa Tenggara Timur",5309,"Kab. Flores Timur",2006,97.04
+53,"Prov. Nusa Tenggara Timur",5309,"Kab. Flores Timur",2007,98.81
+53,"Prov. Nusa Tenggara Timur",5309,"Kab. Flores Timur",2008,100
+53,"Prov. Nusa Tenggara Timur",5309,"Kab. Flores Timur",2009,97.71
+53,"Prov. Nusa Tenggara Timur",5310,"Kab. Sikka",2005,95.94
+53,"Prov. Nusa Tenggara Timur",5310,"Kab. Sikka",2006,96.37
+53,"Prov. Nusa Tenggara Timur",5310,"Kab. Sikka",2007,97.17
+53,"Prov. Nusa Tenggara Timur",5310,"Kab. Sikka",2008,96.69
+53,"Prov. Nusa Tenggara Timur",5310,"Kab. Sikka",2009,96.07
+53,"Prov. Nusa Tenggara Timur",5311,"Kab. Ende",2005,98.56
+53,"Prov. Nusa Tenggara Timur",5311,"Kab. Ende",2006,98.17
+53,"Prov. Nusa Tenggara Timur",5311,"Kab. Ende",2007,98.88
+53,"Prov. Nusa Tenggara Timur",5311,"Kab. Ende",2008,98.51
+53,"Prov. Nusa Tenggara Timur",5311,"Kab. Ende",2009,98.99
+53,"Prov. Nusa Tenggara Timur",5312,"Kab. Ngada",2005,98.73
+53,"Prov. Nusa Tenggara Timur",5312,"Kab. Ngada",2006,98.4
+53,"Prov. Nusa Tenggara Timur",5312,"Kab. Ngada",2007,99.46
+53,"Prov. Nusa Tenggara Timur",5312,"Kab. Ngada",2008,99.19
+53,"Prov. Nusa Tenggara Timur",5312,"Kab. Ngada",2009,95.71
+53,"Prov. Nusa Tenggara Timur",5313,"Kab. Manggarai",2005,98.28
+53,"Prov. Nusa Tenggara Timur",5313,"Kab. Manggarai",2006,99.28
+53,"Prov. Nusa Tenggara Timur",5313,"Kab. Manggarai",2007,97.54
+53,"Prov. Nusa Tenggara Timur",5313,"Kab. Manggarai",2008,99.35
+53,"Prov. Nusa Tenggara Timur",5313,"Kab. Manggarai",2009,94.06
+53,"Prov. Nusa Tenggara Timur",5314,"Kab. Rote Ndao",2005,97.09
+53,"Prov. Nusa Tenggara Timur",5314,"Kab. Rote Ndao",2006,97.25
+53,"Prov. Nusa Tenggara Timur",5314,"Kab. Rote Ndao",2007,93.91
+53,"Prov. Nusa Tenggara Timur",5314,"Kab. Rote Ndao",2008,97.48
+53,"Prov. Nusa Tenggara Timur",5314,"Kab. Rote Ndao",2009,100
+53,"Prov. Nusa Tenggara Timur",5315,"Kab. Manggarai Barat",2005,97.81
+53,"Prov. Nusa Tenggara Timur",5315,"Kab. Manggarai Barat",2006,96.79
+53,"Prov. Nusa Tenggara Timur",5315,"Kab. Manggarai Barat",2007,98.63
+53,"Prov. Nusa Tenggara Timur",5315,"Kab. Manggarai Barat",2008,98.35
+53,"Prov. Nusa Tenggara Timur",5315,"Kab. Manggarai Barat",2009,100
+53,"Prov. Nusa Tenggara Timur",5316,"Kab. Sumba Tengah",2005,0
+53,"Prov. Nusa Tenggara Timur",5316,"Kab. Sumba Tengah",2006,0
+53,"Prov. Nusa Tenggara Timur",5316,"Kab. Sumba Tengah",2007,82.99
+53,"Prov. Nusa Tenggara Timur",5316,"Kab. Sumba Tengah",2008,90.18
+53,"Prov. Nusa Tenggara Timur",5316,"Kab. Sumba Tengah",2009,94.4
+53,"Prov. Nusa Tenggara Timur",5317,"Kab. Sumba Barat Daya",2005,0
+53,"Prov. Nusa Tenggara Timur",5317,"Kab. Sumba Barat Daya",2006,0
+53,"Prov. Nusa Tenggara Timur",5317,"Kab. Sumba Barat Daya",2007,90.03
+53,"Prov. Nusa Tenggara Timur",5317,"Kab. Sumba Barat Daya",2008,84.65
+53,"Prov. Nusa Tenggara Timur",5317,"Kab. Sumba Barat Daya",2009,81.42
+53,"Prov. Nusa Tenggara Timur",5318,"Kab. Nagekeo",2005,0
+53,"Prov. Nusa Tenggara Timur",5318,"Kab. Nagekeo",2006,0
+53,"Prov. Nusa Tenggara Timur",5318,"Kab. Nagekeo",2007,97.57
+53,"Prov. Nusa Tenggara Timur",5318,"Kab. Nagekeo",2008,98.92
+53,"Prov. Nusa Tenggara Timur",5318,"Kab. Nagekeo",2009,100
+53,"Prov. Nusa Tenggara Timur",5319,"Kab. Manggarai Timur",2005,0
+53,"Prov. Nusa Tenggara Timur",5319,"Kab. Manggarai Timur",2006,0
+53,"Prov. Nusa Tenggara Timur",5319,"Kab. Manggarai Timur",2007,0
+53,"Prov. Nusa Tenggara Timur",5319,"Kab. Manggarai Timur",2008,0
+53,"Prov. Nusa Tenggara Timur",5319,"Kab. Manggarai Timur",2009,98.57
+53,"Prov. Nusa Tenggara Timur",5371,"Kota Kupang",2005,98.86
+53,"Prov. Nusa Tenggara Timur",5371,"Kota Kupang",2006,98.31
+53,"Prov. Nusa Tenggara Timur",5371,"Kota Kupang",2007,99.41
+53,"Prov. Nusa Tenggara Timur",5371,"Kota Kupang",2008,99.5
+53,"Prov. Nusa Tenggara Timur",5371,"Kota Kupang",2009,100
+61,"Prov. Kalimantan Barat",6101,"Kab. Sambas",2005,97.61
+61,"Prov. Kalimantan Barat",6101,"Kab. Sambas",2006,99.35
+61,"Prov. Kalimantan Barat",6101,"Kab. Sambas",2007,98.95
+61,"Prov. Kalimantan Barat",6101,"Kab. Sambas",2008,99.5
+61,"Prov. Kalimantan Barat",6101,"Kab. Sambas",2009,97.25
+61,"Prov. Kalimantan Barat",6102,"Kab. Bengkayang",2005,99.52
+61,"Prov. Kalimantan Barat",6102,"Kab. Bengkayang",2006,97.23
+61,"Prov. Kalimantan Barat",6102,"Kab. Bengkayang",2007,96.8
+61,"Prov. Kalimantan Barat",6102,"Kab. Bengkayang",2008,100
+61,"Prov. Kalimantan Barat",6102,"Kab. Bengkayang",2009,97.42
+61,"Prov. Kalimantan Barat",6103,"Kab. Landak",2005,97.45
+61,"Prov. Kalimantan Barat",6103,"Kab. Landak",2006,98.19
+61,"Prov. Kalimantan Barat",6103,"Kab. Landak",2007,97.8
+61,"Prov. Kalimantan Barat",6103,"Kab. Landak",2008,98.45
+61,"Prov. Kalimantan Barat",6103,"Kab. Landak",2009,100
+61,"Prov. Kalimantan Barat",6104,"Kab. Pontianak",2005,96.87
+61,"Prov. Kalimantan Barat",6104,"Kab. Pontianak",2006,97.9
+61,"Prov. Kalimantan Barat",6104,"Kab. Pontianak",2007,98.62
+61,"Prov. Kalimantan Barat",6104,"Kab. Pontianak",2008,99.56
+61,"Prov. Kalimantan Barat",6104,"Kab. Pontianak",2009,100
+61,"Prov. Kalimantan Barat",6105,"Kab. Sanggau",2005,97.49
+61,"Prov. Kalimantan Barat",6105,"Kab. Sanggau",2006,97.76
+61,"Prov. Kalimantan Barat",6105,"Kab. Sanggau",2007,97.43
+61,"Prov. Kalimantan Barat",6105,"Kab. Sanggau",2008,99.55
+61,"Prov. Kalimantan Barat",6105,"Kab. Sanggau",2009,100
+61,"Prov. Kalimantan Barat",6106,"Kab. Ketapang",2005,97.36
+61,"Prov. Kalimantan Barat",6106,"Kab. Ketapang",2006,96.41
+61,"Prov. Kalimantan Barat",6106,"Kab. Ketapang",2007,97.35
+61,"Prov. Kalimantan Barat",6106,"Kab. Ketapang",2008,98.02
+61,"Prov. Kalimantan Barat",6106,"Kab. Ketapang",2009,85.39
+61,"Prov. Kalimantan Barat",6107,"Kab. Sintang",2005,97.43
+61,"Prov. Kalimantan Barat",6107,"Kab. Sintang",2006,96.11
+61,"Prov. Kalimantan Barat",6107,"Kab. Sintang",2007,97.24
+61,"Prov. Kalimantan Barat",6107,"Kab. Sintang",2008,98.62
+61,"Prov. Kalimantan Barat",6107,"Kab. Sintang",2009,97.37
+61,"Prov. Kalimantan Barat",6108,"Kab. Kapuas Hulu",2005,98.89
+61,"Prov. Kalimantan Barat",6108,"Kab. Kapuas Hulu",2006,97.68
+61,"Prov. Kalimantan Barat",6108,"Kab. Kapuas Hulu",2007,99.77
+61,"Prov. Kalimantan Barat",6108,"Kab. Kapuas Hulu",2008,100
+61,"Prov. Kalimantan Barat",6108,"Kab. Kapuas Hulu",2009,100
+61,"Prov. Kalimantan Barat",6109,"Kab. Sekadau",2005,94.78
+61,"Prov. Kalimantan Barat",6109,"Kab. Sekadau",2006,95.97
+61,"Prov. Kalimantan Barat",6109,"Kab. Sekadau",2007,97.42
+61,"Prov. Kalimantan Barat",6109,"Kab. Sekadau",2008,96.53
+61,"Prov. Kalimantan Barat",6109,"Kab. Sekadau",2009,83.37
+61,"Prov. Kalimantan Barat",6110,"Kab. Melawi",2005,99.09
+61,"Prov. Kalimantan Barat",6110,"Kab. Melawi",2006,98.67
+61,"Prov. Kalimantan Barat",6110,"Kab. Melawi",2007,97.63
+61,"Prov. Kalimantan Barat",6110,"Kab. Melawi",2008,100
+61,"Prov. Kalimantan Barat",6110,"Kab. Melawi",2009,97.21
+61,"Prov. Kalimantan Barat",6111,"Kab. Kayong Utara",2005,0
+61,"Prov. Kalimantan Barat",6111,"Kab. Kayong Utara",2006,0
+61,"Prov. Kalimantan Barat",6111,"Kab. Kayong Utara",2007,93.87
+61,"Prov. Kalimantan Barat",6111,"Kab. Kayong Utara",2008,96.67
+61,"Prov. Kalimantan Barat",6111,"Kab. Kayong Utara",2009,95.56
+61,"Prov. Kalimantan Barat",6112,"Kab. Kubu Raya",2005,0
+61,"Prov. Kalimantan Barat",6112,"Kab. Kubu Raya",2006,0
+61,"Prov. Kalimantan Barat",6112,"Kab. Kubu Raya",2007,0
+61,"Prov. Kalimantan Barat",6112,"Kab. Kubu Raya",2008,0
+61,"Prov. Kalimantan Barat",6112,"Kab. Kubu Raya",2009,100
+61,"Prov. Kalimantan Barat",6171,"Kota Pontianak",2005,99.5
+61,"Prov. Kalimantan Barat",6171,"Kota Pontianak",2006,99.34
+61,"Prov. Kalimantan Barat",6171,"Kota Pontianak",2007,98.49
+61,"Prov. Kalimantan Barat",6171,"Kota Pontianak",2008,98.92
+61,"Prov. Kalimantan Barat",6171,"Kota Pontianak",2009,96.77
+61,"Prov. Kalimantan Barat",6172,"Kota Singkawang",2005,97.29
+61,"Prov. Kalimantan Barat",6172,"Kota Singkawang",2006,97.38
+61,"Prov. Kalimantan Barat",6172,"Kota Singkawang",2007,99.43
+61,"Prov. Kalimantan Barat",6172,"Kota Singkawang",2008,98.46
+61,"Prov. Kalimantan Barat",6172,"Kota Singkawang",2009,100
+62,"Prov. Kalimantan Tengah",6201,"Kab. Kotawaringin Barat",2005,99.75
+62,"Prov. Kalimantan Tengah",6201,"Kab. Kotawaringin Barat",2006,98.88
+62,"Prov. Kalimantan Tengah",6201,"Kab. Kotawaringin Barat",2007,98.94
+62,"Prov. Kalimantan Tengah",6201,"Kab. Kotawaringin Barat",2008,100
+62,"Prov. Kalimantan Tengah",6201,"Kab. Kotawaringin Barat",2009,100
+62,"Prov. Kalimantan Tengah",6202,"Kab. Kotawaringin Timur",2005,99.77
+62,"Prov. Kalimantan Tengah",6202,"Kab. Kotawaringin Timur",2006,99.11
+62,"Prov. Kalimantan Tengah",6202,"Kab. Kotawaringin Timur",2007,99.57
+62,"Prov. Kalimantan Tengah",6202,"Kab. Kotawaringin Timur",2008,100
+62,"Prov. Kalimantan Tengah",6202,"Kab. Kotawaringin Timur",2009,97.56
+62,"Prov. Kalimantan Tengah",6203,"Kab. Kapuas",2005,99.81
+62,"Prov. Kalimantan Tengah",6203,"Kab. Kapuas",2006,99.23
+62,"Prov. Kalimantan Tengah",6203,"Kab. Kapuas",2007,99.2
+62,"Prov. Kalimantan Tengah",6203,"Kab. Kapuas",2008,99.57
+62,"Prov. Kalimantan Tengah",6203,"Kab. Kapuas",2009,100
+62,"Prov. Kalimantan Tengah",6204,"Kab. Barito Selatan",2005,99.8
+62,"Prov. Kalimantan Tengah",6204,"Kab. Barito Selatan",2006,99.14
+62,"Prov. Kalimantan Tengah",6204,"Kab. Barito Selatan",2007,100
+62,"Prov. Kalimantan Tengah",6204,"Kab. Barito Selatan",2008,100
+62,"Prov. Kalimantan Tengah",6204,"Kab. Barito Selatan",2009,100
+62,"Prov. Kalimantan Tengah",6205,"Kab. Barito Utara",2005,99.46
+62,"Prov. Kalimantan Tengah",6205,"Kab. Barito Utara",2006,99.02
+62,"Prov. Kalimantan Tengah",6205,"Kab. Barito Utara",2007,99.72
+62,"Prov. Kalimantan Tengah",6205,"Kab. Barito Utara",2008,100
+62,"Prov. Kalimantan Tengah",6205,"Kab. Barito Utara",2009,100
+62,"Prov. Kalimantan Tengah",6206,"Kab. Sukamara",2005,99.57
+62,"Prov. Kalimantan Tengah",6206,"Kab. Sukamara",2006,98.8
+62,"Prov. Kalimantan Tengah",6206,"Kab. Sukamara",2007,99.78
+62,"Prov. Kalimantan Tengah",6206,"Kab. Sukamara",2008,99.51
+62,"Prov. Kalimantan Tengah",6206,"Kab. Sukamara",2009,100
+62,"Prov. Kalimantan Tengah",6207,"Kab. Lamandau",2005,100
+62,"Prov. Kalimantan Tengah",6207,"Kab. Lamandau",2006,100
+62,"Prov. Kalimantan Tengah",6207,"Kab. Lamandau",2007,99.71
+62,"Prov. Kalimantan Tengah",6207,"Kab. Lamandau",2008,100
+62,"Prov. Kalimantan Tengah",6207,"Kab. Lamandau",2009,100
+62,"Prov. Kalimantan Tengah",6208,"Kab. Seruyan",2005,100
+62,"Prov. Kalimantan Tengah",6208,"Kab. Seruyan",2006,96.73
+62,"Prov. Kalimantan Tengah",6208,"Kab. Seruyan",2007,98.69
+62,"Prov. Kalimantan Tengah",6208,"Kab. Seruyan",2008,99.76
+62,"Prov. Kalimantan Tengah",6208,"Kab. Seruyan",2009,100
+62,"Prov. Kalimantan Tengah",6209,"Kab. Katingan",2005,100
+62,"Prov. Kalimantan Tengah",6209,"Kab. Katingan",2006,99.76
+62,"Prov. Kalimantan Tengah",6209,"Kab. Katingan",2007,98.61
+62,"Prov. Kalimantan Tengah",6209,"Kab. Katingan",2008,99.52
+62,"Prov. Kalimantan Tengah",6209,"Kab. Katingan",2009,100
+62,"Prov. Kalimantan Tengah",6210,"Kab. Pulang Pisau",2005,100
+62,"Prov. Kalimantan Tengah",6210,"Kab. Pulang Pisau",2006,99.76
+62,"Prov. Kalimantan Tengah",6210,"Kab. Pulang Pisau",2007,99.34
+62,"Prov. Kalimantan Tengah",6210,"Kab. Pulang Pisau",2008,98.32
+62,"Prov. Kalimantan Tengah",6210,"Kab. Pulang Pisau",2009,100
+62,"Prov. Kalimantan Tengah",6211,"Kab. Gunung Mas",2005,99.66
+62,"Prov. Kalimantan Tengah",6211,"Kab. Gunung Mas",2006,99.65
+62,"Prov. Kalimantan Tengah",6211,"Kab. Gunung Mas",2007,99.8
+62,"Prov. Kalimantan Tengah",6211,"Kab. Gunung Mas",2008,100
+62,"Prov. Kalimantan Tengah",6211,"Kab. Gunung Mas",2009,100
+62,"Prov. Kalimantan Tengah",6212,"Kab. Barito Timur",2005,99.33
+62,"Prov. Kalimantan Tengah",6212,"Kab. Barito Timur",2006,99.04
+62,"Prov. Kalimantan Tengah",6212,"Kab. Barito Timur",2007,99.54
+62,"Prov. Kalimantan Tengah",6212,"Kab. Barito Timur",2008,99.76
+62,"Prov. Kalimantan Tengah",6212,"Kab. Barito Timur",2009,100
+62,"Prov. Kalimantan Tengah",6213,"Kab. Murung Raya",2005,99.37
+62,"Prov. Kalimantan Tengah",6213,"Kab. Murung Raya",2006,98.41
+62,"Prov. Kalimantan Tengah",6213,"Kab. Murung Raya",2007,100
+62,"Prov. Kalimantan Tengah",6213,"Kab. Murung Raya",2008,99.76
+62,"Prov. Kalimantan Tengah",6213,"Kab. Murung Raya",2009,100
+62,"Prov. Kalimantan Tengah",6271,"Kota Palangka Raya",2005,99.25
+62,"Prov. Kalimantan Tengah",6271,"Kota Palangka Raya",2006,99.44
+62,"Prov. Kalimantan Tengah",6271,"Kota Palangka Raya",2007,99.3
+62,"Prov. Kalimantan Tengah",6271,"Kota Palangka Raya",2008,99.8
+62,"Prov. Kalimantan Tengah",6271,"Kota Palangka Raya",2009,100
+63,"Prov. Kalimantan Selatan",6301,"Kab. Tanah Laut",2005,98.97
+63,"Prov. Kalimantan Selatan",6301,"Kab. Tanah Laut",2006,99.52
+63,"Prov. Kalimantan Selatan",6301,"Kab. Tanah Laut",2007,99.27
+63,"Prov. Kalimantan Selatan",6301,"Kab. Tanah Laut",2008,100
+63,"Prov. Kalimantan Selatan",6301,"Kab. Tanah Laut",2009,100
+63,"Prov. Kalimantan Selatan",6302,"Kota Baru",2005,98.43
+63,"Prov. Kalimantan Selatan",6302,"Kota Baru",2006,98.17
+63,"Prov. Kalimantan Selatan",6302,"Kota Baru",2007,96.95
+63,"Prov. Kalimantan Selatan",6302,"Kota Baru",2008,98.95
+63,"Prov. Kalimantan Selatan",6302,"Kota Baru",2009,100
+63,"Prov. Kalimantan Selatan",6303,"Kab. Banjar",2005,99.11
+63,"Prov. Kalimantan Selatan",6303,"Kab. Banjar",2006,99.47
+63,"Prov. Kalimantan Selatan",6303,"Kab. Banjar",2007,99.35
+63,"Prov. Kalimantan Selatan",6303,"Kab. Banjar",2008,100
+63,"Prov. Kalimantan Selatan",6303,"Kab. Banjar",2009,100
+63,"Prov. Kalimantan Selatan",6304,"Kab. Barito Kuala",2005,98.85
+63,"Prov. Kalimantan Selatan",6304,"Kab. Barito Kuala",2006,99.23
+63,"Prov. Kalimantan Selatan",6304,"Kab. Barito Kuala",2007,98.62
+63,"Prov. Kalimantan Selatan",6304,"Kab. Barito Kuala",2008,99.52
+63,"Prov. Kalimantan Selatan",6304,"Kab. Barito Kuala",2009,100
+63,"Prov. Kalimantan Selatan",6305,"Kab. Tapin",2005,99.43
+63,"Prov. Kalimantan Selatan",6305,"Kab. Tapin",2006,98.68
+63,"Prov. Kalimantan Selatan",6305,"Kab. Tapin",2007,98.37
+63,"Prov. Kalimantan Selatan",6305,"Kab. Tapin",2008,99.72
+63,"Prov. Kalimantan Selatan",6305,"Kab. Tapin",2009,100
+63,"Prov. Kalimantan Selatan",6306,"Kab. Hulu Sungai Selatan",2005,99.71
+63,"Prov. Kalimantan Selatan",6306,"Kab. Hulu Sungai Selatan",2006,98.45
+63,"Prov. Kalimantan Selatan",6306,"Kab. Hulu Sungai Selatan",2007,99.73
+63,"Prov. Kalimantan Selatan",6306,"Kab. Hulu Sungai Selatan",2008,100
+63,"Prov. Kalimantan Selatan",6306,"Kab. Hulu Sungai Selatan",2009,97.33
+63,"Prov. Kalimantan Selatan",6307,"Kab. Hulu Sungai Tengah",2005,98.88
+63,"Prov. Kalimantan Selatan",6307,"Kab. Hulu Sungai Tengah",2006,99.74
+63,"Prov. Kalimantan Selatan",6307,"Kab. Hulu Sungai Tengah",2007,99.47
+63,"Prov. Kalimantan Selatan",6307,"Kab. Hulu Sungai Tengah",2008,100
+63,"Prov. Kalimantan Selatan",6307,"Kab. Hulu Sungai Tengah",2009,100
+63,"Prov. Kalimantan Selatan",6308,"Kab. Hulu Sungai Utara",2005,99.4
+63,"Prov. Kalimantan Selatan",6308,"Kab. Hulu Sungai Utara",2006,99.33
+63,"Prov. Kalimantan Selatan",6308,"Kab. Hulu Sungai Utara",2007,98.12
+63,"Prov. Kalimantan Selatan",6308,"Kab. Hulu Sungai Utara",2008,99.75
+63,"Prov. Kalimantan Selatan",6308,"Kab. Hulu Sungai Utara",2009,100
+63,"Prov. Kalimantan Selatan",6309,"Kab. Tabalong",2005,99.51
+63,"Prov. Kalimantan Selatan",6309,"Kab. Tabalong",2006,99.11
+63,"Prov. Kalimantan Selatan",6309,"Kab. Tabalong",2007,99.53
+63,"Prov. Kalimantan Selatan",6309,"Kab. Tabalong",2008,100
+63,"Prov. Kalimantan Selatan",6309,"Kab. Tabalong",2009,100
+63,"Prov. Kalimantan Selatan",6310,"Kab. Tanah Bumbu",2005,97.25
+63,"Prov. Kalimantan Selatan",6310,"Kab. Tanah Bumbu",2006,98.06
+63,"Prov. Kalimantan Selatan",6310,"Kab. Tanah Bumbu",2007,98.71
+63,"Prov. Kalimantan Selatan",6310,"Kab. Tanah Bumbu",2008,99.56
+63,"Prov. Kalimantan Selatan",6310,"Kab. Tanah Bumbu",2009,100
+63,"Prov. Kalimantan Selatan",6311,"Kab. Balangan",2005,97.55
+63,"Prov. Kalimantan Selatan",6311,"Kab. Balangan",2006,97.73
+63,"Prov. Kalimantan Selatan",6311,"Kab. Balangan",2007,96.33
+63,"Prov. Kalimantan Selatan",6311,"Kab. Balangan",2008,99.51
+63,"Prov. Kalimantan Selatan",6311,"Kab. Balangan",2009,100
+63,"Prov. Kalimantan Selatan",6371,"Kota Banjarmasin",2005,99.34
+63,"Prov. Kalimantan Selatan",6371,"Kota Banjarmasin",2006,99.26
+63,"Prov. Kalimantan Selatan",6371,"Kota Banjarmasin",2007,100
+63,"Prov. Kalimantan Selatan",6371,"Kota Banjarmasin",2008,100
+63,"Prov. Kalimantan Selatan",6371,"Kota Banjarmasin",2009,100
+63,"Prov. Kalimantan Selatan",6372,"Kota Banjar Baru",2005,100
+63,"Prov. Kalimantan Selatan",6372,"Kota Banjar Baru",2006,100
+63,"Prov. Kalimantan Selatan",6372,"Kota Banjar Baru",2007,99.46
+63,"Prov. Kalimantan Selatan",6372,"Kota Banjar Baru",2008,100
+63,"Prov. Kalimantan Selatan",6372,"Kota Banjar Baru",2009,100
+64,"Prov. Kalimantan Timur",6401,"Kab. Pasir",2005,99.79
+64,"Prov. Kalimantan Timur",6401,"Kab. Pasir",2006,99.54
+64,"Prov. Kalimantan Timur",6401,"Kab. Pasir",2007,98.75
+64,"Prov. Kalimantan Timur",6401,"Kab. Pasir",2008,99.35
+64,"Prov. Kalimantan Timur",6401,"Kab. Pasir",2009,100
+64,"Prov. Kalimantan Timur",6402,"Kab. Kutai Barat",2005,98.92
+64,"Prov. Kalimantan Timur",6402,"Kab. Kutai Barat",2006,100
+64,"Prov. Kalimantan Timur",6402,"Kab. Kutai Barat",2007,98.18
+64,"Prov. Kalimantan Timur",6402,"Kab. Kutai Barat",2008,100
+64,"Prov. Kalimantan Timur",6402,"Kab. Kutai Barat",2009,100
+64,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara",2005,99.43
+64,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara",2006,99.22
+64,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara",2007,99.44
+64,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara",2008,100
+64,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara",2009,98.56
+64,"Prov. Kalimantan Timur",6404,"Kab. Kutai Timur",2005,98.59
+64,"Prov. Kalimantan Timur",6404,"Kab. Kutai Timur",2006,99.61
+64,"Prov. Kalimantan Timur",6404,"Kab. Kutai Timur",2007,99.15
+64,"Prov. Kalimantan Timur",6404,"Kab. Kutai Timur",2008,100
+64,"Prov. Kalimantan Timur",6404,"Kab. Kutai Timur",2009,100
+64,"Prov. Kalimantan Timur",6405,"Kab. Berau",2005,99.05
+64,"Prov. Kalimantan Timur",6405,"Kab. Berau",2006,99.33
+64,"Prov. Kalimantan Timur",6405,"Kab. Berau",2007,99.68
+64,"Prov. Kalimantan Timur",6405,"Kab. Berau",2008,100
+64,"Prov. Kalimantan Timur",6405,"Kab. Berau",2009,100
+64,"Prov. Kalimantan Timur",6406,"Kab. Malinau",2005,98.32
+64,"Prov. Kalimantan Timur",6406,"Kab. Malinau",2006,99.23
+64,"Prov. Kalimantan Timur",6406,"Kab. Malinau",2007,98.18
+64,"Prov. Kalimantan Timur",6406,"Kab. Malinau",2008,98.96
+64,"Prov. Kalimantan Timur",6406,"Kab. Malinau",2009,100
+64,"Prov. Kalimantan Timur",6407,"Kab. Bulungan",2005,98.34
+64,"Prov. Kalimantan Timur",6407,"Kab. Bulungan",2006,97.65
+64,"Prov. Kalimantan Timur",6407,"Kab. Bulungan",2007,98.57
+64,"Prov. Kalimantan Timur",6407,"Kab. Bulungan",2008,100
+64,"Prov. Kalimantan Timur",6407,"Kab. Bulungan",2009,98.35
+64,"Prov. Kalimantan Timur",6408,"Kab. Nunukan",2005,98.84
+64,"Prov. Kalimantan Timur",6408,"Kab. Nunukan",2006,99.45
+64,"Prov. Kalimantan Timur",6408,"Kab. Nunukan",2007,99.2
+64,"Prov. Kalimantan Timur",6408,"Kab. Nunukan",2008,100
+64,"Prov. Kalimantan Timur",6408,"Kab. Nunukan",2009,100
+64,"Prov. Kalimantan Timur",6409,"Kab. Penajam Paser Utara",2005,100
+64,"Prov. Kalimantan Timur",6409,"Kab. Penajam Paser Utara",2006,99.01
+64,"Prov. Kalimantan Timur",6409,"Kab. Penajam Paser Utara",2007,98.82
+64,"Prov. Kalimantan Timur",6409,"Kab. Penajam Paser Utara",2008,100
+64,"Prov. Kalimantan Timur",6409,"Kab. Penajam Paser Utara",2009,100
+64,"Prov. Kalimantan Timur",6410,"Kab. Tana Tidung",2005,0
+64,"Prov. Kalimantan Timur",6410,"Kab. Tana Tidung",2006,0
+64,"Prov. Kalimantan Timur",6410,"Kab. Tana Tidung",2007,0
+64,"Prov. Kalimantan Timur",6410,"Kab. Tana Tidung",2008,0
+64,"Prov. Kalimantan Timur",6410,"Kab. Tana Tidung",2009,100
+64,"Prov. Kalimantan Timur",6471,"Kota Balikpapan",2005,99.25
+64,"Prov. Kalimantan Timur",6471,"Kota Balikpapan",2006,99.66
+64,"Prov. Kalimantan Timur",6471,"Kota Balikpapan",2007,99.38
+64,"Prov. Kalimantan Timur",6471,"Kota Balikpapan",2008,99.44
+64,"Prov. Kalimantan Timur",6471,"Kota Balikpapan",2009,100
+64,"Prov. Kalimantan Timur",6472,"Kota Samarinda",2005,99.55
+64,"Prov. Kalimantan Timur",6472,"Kota Samarinda",2006,98.76
+64,"Prov. Kalimantan Timur",6472,"Kota Samarinda",2007,99.58
+64,"Prov. Kalimantan Timur",6472,"Kota Samarinda",2008,99.74
+64,"Prov. Kalimantan Timur",6472,"Kota Samarinda",2009,100
+64,"Prov. Kalimantan Timur",6473,"Kota Tarakan",2005,98.45
+64,"Prov. Kalimantan Timur",6473,"Kota Tarakan",2006,99.52
+64,"Prov. Kalimantan Timur",6473,"Kota Tarakan",2007,99.23
+64,"Prov. Kalimantan Timur",6473,"Kota Tarakan",2008,99.79
+64,"Prov. Kalimantan Timur",6473,"Kota Tarakan",2009,100
+64,"Prov. Kalimantan Timur",6474,"Kota Bontang",2005,98.95
+64,"Prov. Kalimantan Timur",6474,"Kota Bontang",2006,99.37
+64,"Prov. Kalimantan Timur",6474,"Kota Bontang",2007,99.5
+64,"Prov. Kalimantan Timur",6474,"Kota Bontang",2008,99.44
+64,"Prov. Kalimantan Timur",6474,"Kota Bontang",2009,100
+71,"Prov. Sulawesi Utara",7101,"Kab. Bolaang Mongondow",2005,99.54
+71,"Prov. Sulawesi Utara",7101,"Kab. Bolaang Mongondow",2006,99.53
+71,"Prov. Sulawesi Utara",7101,"Kab. Bolaang Mongondow",2007,99.5
+71,"Prov. Sulawesi Utara",7101,"Kab. Bolaang Mongondow",2008,100
+71,"Prov. Sulawesi Utara",7101,"Kab. Bolaang Mongondow",2009,100
+71,"Prov. Sulawesi Utara",7102,"Kab. Minahasa",2005,100
+71,"Prov. Sulawesi Utara",7102,"Kab. Minahasa",2006,100
+71,"Prov. Sulawesi Utara",7102,"Kab. Minahasa",2007,99.67
+71,"Prov. Sulawesi Utara",7102,"Kab. Minahasa",2008,100
+71,"Prov. Sulawesi Utara",7102,"Kab. Minahasa",2009,100
+71,"Prov. Sulawesi Utara",7103,"Kab. Kepulauan Sangihe",2005,99.78
+71,"Prov. Sulawesi Utara",7103,"Kab. Kepulauan Sangihe",2006,99.03
+71,"Prov. Sulawesi Utara",7103,"Kab. Kepulauan Sangihe",2007,99.71
+71,"Prov. Sulawesi Utara",7103,"Kab. Kepulauan Sangihe",2008,100
+71,"Prov. Sulawesi Utara",7103,"Kab. Kepulauan Sangihe",2009,100
+71,"Prov. Sulawesi Utara",7104,"Kab. Kepulauan Talaud",2005,99.44
+71,"Prov. Sulawesi Utara",7104,"Kab. Kepulauan Talaud",2006,99.22
+71,"Prov. Sulawesi Utara",7104,"Kab. Kepulauan Talaud",2007,98.95
+71,"Prov. Sulawesi Utara",7104,"Kab. Kepulauan Talaud",2008,100
+71,"Prov. Sulawesi Utara",7104,"Kab. Kepulauan Talaud",2009,100
+71,"Prov. Sulawesi Utara",7105,"Kab. Minahasa Selatan",2005,100
+71,"Prov. Sulawesi Utara",7105,"Kab. Minahasa Selatan",2006,99.48
+71,"Prov. Sulawesi Utara",7105,"Kab. Minahasa Selatan",2007,99.08
+71,"Prov. Sulawesi Utara",7105,"Kab. Minahasa Selatan",2008,99.19
+71,"Prov. Sulawesi Utara",7105,"Kab. Minahasa Selatan",2009,100
+71,"Prov. Sulawesi Utara",7106,"Kab. Minahasa Utara",2005,100
+71,"Prov. Sulawesi Utara",7106,"Kab. Minahasa Utara",2006,99.69
+71,"Prov. Sulawesi Utara",7106,"Kab. Minahasa Utara",2007,98.58
+71,"Prov. Sulawesi Utara",7106,"Kab. Minahasa Utara",2008,99.74
+71,"Prov. Sulawesi Utara",7106,"Kab. Minahasa Utara",2009,100
+71,"Prov. Sulawesi Utara",7107,"Kab. Bolaang Mongondow Utara",2005,0
+71,"Prov. Sulawesi Utara",7107,"Kab. Bolaang Mongondow Utara",2006,0
+71,"Prov. Sulawesi Utara",7107,"Kab. Bolaang Mongondow Utara",2007,97.79
+71,"Prov. Sulawesi Utara",7107,"Kab. Bolaang Mongondow Utara",2008,99.28
+71,"Prov. Sulawesi Utara",7107,"Kab. Bolaang Mongondow Utara",2009,96.37
+71,"Prov. Sulawesi Utara",7108,"Kab. Siau Tagulandang Biaro",2005,0
+71,"Prov. Sulawesi Utara",7108,"Kab. Siau Tagulandang Biaro",2006,0
+71,"Prov. Sulawesi Utara",7108,"Kab. Siau Tagulandang Biaro",2007,99.57
+71,"Prov. Sulawesi Utara",7108,"Kab. Siau Tagulandang Biaro",2008,100
+71,"Prov. Sulawesi Utara",7108,"Kab. Siau Tagulandang Biaro",2009,100
+71,"Prov. Sulawesi Utara",7109,"Kab. Minahasa Tenggara",2005,0
+71,"Prov. Sulawesi Utara",7109,"Kab. Minahasa Tenggara",2006,0
+71,"Prov. Sulawesi Utara",7109,"Kab. Minahasa Tenggara",2007,99.29
+71,"Prov. Sulawesi Utara",7109,"Kab. Minahasa Tenggara",2008,99.58
+71,"Prov. Sulawesi Utara",7109,"Kab. Minahasa Tenggara",2009,100
+71,"Prov. Sulawesi Utara",7171,"Kota Manado",2005,99.5
+71,"Prov. Sulawesi Utara",7171,"Kota Manado",2006,99.74
+71,"Prov. Sulawesi Utara",7171,"Kota Manado",2007,99.53
+71,"Prov. Sulawesi Utara",7171,"Kota Manado",2008,100
+71,"Prov. Sulawesi Utara",7171,"Kota Manado",2009,100
+71,"Prov. Sulawesi Utara",7172,"Kota Bitung",2005,99.72
+71,"Prov. Sulawesi Utara",7172,"Kota Bitung",2006,99.74
+71,"Prov. Sulawesi Utara",7172,"Kota Bitung",2007,99.17
+71,"Prov. Sulawesi Utara",7172,"Kota Bitung",2008,100
+71,"Prov. Sulawesi Utara",7172,"Kota Bitung",2009,100
+71,"Prov. Sulawesi Utara",7173,"Kota Tomohon",2005,100
+71,"Prov. Sulawesi Utara",7173,"Kota Tomohon",2006,99.56
+71,"Prov. Sulawesi Utara",7173,"Kota Tomohon",2007,99
+71,"Prov. Sulawesi Utara",7173,"Kota Tomohon",2008,99.71
+71,"Prov. Sulawesi Utara",7173,"Kota Tomohon",2009,100
+71,"Prov. Sulawesi Utara",7174,"Kota Kotamobagu",2005,0
+71,"Prov. Sulawesi Utara",7174,"Kota Kotamobagu",2006,0
+71,"Prov. Sulawesi Utara",7174,"Kota Kotamobagu",2007,100
+71,"Prov. Sulawesi Utara",7174,"Kota Kotamobagu",2008,100
+71,"Prov. Sulawesi Utara",7174,"Kota Kotamobagu",2009,100
+72,"Prov. Sulawesi Tengah",7201,"Kab. Banggai Kepulauan",2005,98.14
+72,"Prov. Sulawesi Tengah",7201,"Kab. Banggai Kepulauan",2006,97.42
+72,"Prov. Sulawesi Tengah",7201,"Kab. Banggai Kepulauan",2007,98.18
+72,"Prov. Sulawesi Tengah",7201,"Kab. Banggai Kepulauan",2008,98.49
+72,"Prov. Sulawesi Tengah",7201,"Kab. Banggai Kepulauan",2009,100
+72,"Prov. Sulawesi Tengah",7202,"Kab. Banggai",2005,98.52
+72,"Prov. Sulawesi Tengah",7202,"Kab. Banggai",2006,98.45
+72,"Prov. Sulawesi Tengah",7202,"Kab. Banggai",2007,98.67
+72,"Prov. Sulawesi Tengah",7202,"Kab. Banggai",2008,100
+72,"Prov. Sulawesi Tengah",7202,"Kab. Banggai",2009,100
+72,"Prov. Sulawesi Tengah",7203,"Kab. Morowali",2005,97.84
+72,"Prov. Sulawesi Tengah",7203,"Kab. Morowali",2006,99.32
+72,"Prov. Sulawesi Tengah",7203,"Kab. Morowali",2007,98.92
+72,"Prov. Sulawesi Tengah",7203,"Kab. Morowali",2008,100
+72,"Prov. Sulawesi Tengah",7203,"Kab. Morowali",2009,100
+72,"Prov. Sulawesi Tengah",7204,"Kab. Poso",2005,99.34
+72,"Prov. Sulawesi Tengah",7204,"Kab. Poso",2006,98.69
+72,"Prov. Sulawesi Tengah",7204,"Kab. Poso",2007,99.72
+72,"Prov. Sulawesi Tengah",7204,"Kab. Poso",2008,100
+72,"Prov. Sulawesi Tengah",7204,"Kab. Poso",2009,100
+72,"Prov. Sulawesi Tengah",7205,"Kab. Donggala",2005,96.61
+72,"Prov. Sulawesi Tengah",7205,"Kab. Donggala",2006,97.81
+72,"Prov. Sulawesi Tengah",7205,"Kab. Donggala",2007,97.81
+72,"Prov. Sulawesi Tengah",7205,"Kab. Donggala",2008,98.83
+72,"Prov. Sulawesi Tengah",7205,"Kab. Donggala",2009,100
+72,"Prov. Sulawesi Tengah",7206,"Kab. Tolitoli",2005,98.98
+72,"Prov. Sulawesi Tengah",7206,"Kab. Tolitoli",2006,96.42
+72,"Prov. Sulawesi Tengah",7206,"Kab. Tolitoli",2007,97.9
+72,"Prov. Sulawesi Tengah",7206,"Kab. Tolitoli",2008,99.79
+72,"Prov. Sulawesi Tengah",7206,"Kab. Tolitoli",2009,100
+72,"Prov. Sulawesi Tengah",7207,"Kab. Buol",2005,99.55
+72,"Prov. Sulawesi Tengah",7207,"Kab. Buol",2006,99.53
+72,"Prov. Sulawesi Tengah",7207,"Kab. Buol",2007,98.08
+72,"Prov. Sulawesi Tengah",7207,"Kab. Buol",2008,99.49
+72,"Prov. Sulawesi Tengah",7207,"Kab. Buol",2009,100
+72,"Prov. Sulawesi Tengah",7208,"Kab. Parigi Moutong",2005,97.93
+72,"Prov. Sulawesi Tengah",7208,"Kab. Parigi Moutong",2006,99.01
+72,"Prov. Sulawesi Tengah",7208,"Kab. Parigi Moutong",2007,97.67
+72,"Prov. Sulawesi Tengah",7208,"Kab. Parigi Moutong",2008,100
+72,"Prov. Sulawesi Tengah",7208,"Kab. Parigi Moutong",2009,100
+72,"Prov. Sulawesi Tengah",7209,"Kab. Tojo Unauna",2005,99.59
+72,"Prov. Sulawesi Tengah",7209,"Kab. Tojo Unauna",2006,98.83
+72,"Prov. Sulawesi Tengah",7209,"Kab. Tojo Unauna",2007,98.94
+72,"Prov. Sulawesi Tengah",7209,"Kab. Tojo Unauna",2008,99.53
+72,"Prov. Sulawesi Tengah",7209,"Kab. Tojo Unauna",2009,100
+72,"Prov. Sulawesi Tengah",7271,"Kota Palu",2005,99.2
+72,"Prov. Sulawesi Tengah",7271,"Kota Palu",2006,99.25
+72,"Prov. Sulawesi Tengah",7271,"Kota Palu",2007,100
+72,"Prov. Sulawesi Tengah",7271,"Kota Palu",2008,100
+72,"Prov. Sulawesi Tengah",7271,"Kota Palu",2009,100
+73,"Prov. Sulawesi Selatan",7301,"Kab. Kepulauan Selayar",2005,97.96
+73,"Prov. Sulawesi Selatan",7301,"Kab. Kepulauan Selayar",2006,98.03
+73,"Prov. Sulawesi Selatan",7301,"Kab. Kepulauan Selayar",2007,98.62
+73,"Prov. Sulawesi Selatan",7301,"Kab. Kepulauan Selayar",2008,99.71
+73,"Prov. Sulawesi Selatan",7301,"Kab. Kepulauan Selayar",2009,100
+73,"Prov. Sulawesi Selatan",7302,"Kab. Bulukumba",2005,94.47
+73,"Prov. Sulawesi Selatan",7302,"Kab. Bulukumba",2006,93.06
+73,"Prov. Sulawesi Selatan",7302,"Kab. Bulukumba",2007,92.42
+73,"Prov. Sulawesi Selatan",7302,"Kab. Bulukumba",2008,92.86
+73,"Prov. Sulawesi Selatan",7302,"Kab. Bulukumba",2009,100
+73,"Prov. Sulawesi Selatan",7303,"Kab. Bantaeng",2005,86.2
+73,"Prov. Sulawesi Selatan",7303,"Kab. Bantaeng",2006,89.67
+73,"Prov. Sulawesi Selatan",7303,"Kab. Bantaeng",2007,90.6
+73,"Prov. Sulawesi Selatan",7303,"Kab. Bantaeng",2008,90.97
+73,"Prov. Sulawesi Selatan",7303,"Kab. Bantaeng",2009,81.09
+73,"Prov. Sulawesi Selatan",7304,"Kab. Jeneponto",2005,89.99
+73,"Prov. Sulawesi Selatan",7304,"Kab. Jeneponto",2006,90.65
+73,"Prov. Sulawesi Selatan",7304,"Kab. Jeneponto",2007,86.65
+73,"Prov. Sulawesi Selatan",7304,"Kab. Jeneponto",2008,91.79
+73,"Prov. Sulawesi Selatan",7304,"Kab. Jeneponto",2009,92.28
+73,"Prov. Sulawesi Selatan",7305,"Kab. Takalar",2005,93.32
+73,"Prov. Sulawesi Selatan",7305,"Kab. Takalar",2006,96.26
+73,"Prov. Sulawesi Selatan",7305,"Kab. Takalar",2007,96.73
+73,"Prov. Sulawesi Selatan",7305,"Kab. Takalar",2008,98.55
+73,"Prov. Sulawesi Selatan",7305,"Kab. Takalar",2009,85.19
+73,"Prov. Sulawesi Selatan",7306,"Kab. Gowa",2005,93.81
+73,"Prov. Sulawesi Selatan",7306,"Kab. Gowa",2006,94.07
+73,"Prov. Sulawesi Selatan",7306,"Kab. Gowa",2007,94.64
+73,"Prov. Sulawesi Selatan",7306,"Kab. Gowa",2008,95.27
+73,"Prov. Sulawesi Selatan",7306,"Kab. Gowa",2009,95.3
+73,"Prov. Sulawesi Selatan",7307,"Kab. Sinjai",2005,96.32
+73,"Prov. Sulawesi Selatan",7307,"Kab. Sinjai",2006,99.16
+73,"Prov. Sulawesi Selatan",7307,"Kab. Sinjai",2007,94.95
+73,"Prov. Sulawesi Selatan",7307,"Kab. Sinjai",2008,97.79
+73,"Prov. Sulawesi Selatan",7307,"Kab. Sinjai",2009,100
+73,"Prov. Sulawesi Selatan",7308,"Kab. Maros",2005,95.27
+73,"Prov. Sulawesi Selatan",7308,"Kab. Maros",2006,97.68
+73,"Prov. Sulawesi Selatan",7308,"Kab. Maros",2007,95.73
+73,"Prov. Sulawesi Selatan",7308,"Kab. Maros",2008,97.85
+73,"Prov. Sulawesi Selatan",7308,"Kab. Maros",2009,98.62
+73,"Prov. Sulawesi Selatan",7309,"Kab. Pangkajene Dan Kepulauan",2005,96.86
+73,"Prov. Sulawesi Selatan",7309,"Kab. Pangkajene Dan Kepulauan",2006,96.77
+73,"Prov. Sulawesi Selatan",7309,"Kab. Pangkajene Dan Kepulauan",2007,96.7
+73,"Prov. Sulawesi Selatan",7309,"Kab. Pangkajene Dan Kepulauan",2008,99.18
+73,"Prov. Sulawesi Selatan",7309,"Kab. Pangkajene Dan Kepulauan",2009,98.99
+73,"Prov. Sulawesi Selatan",7310,"Kab. Barru",2005,96.35
+73,"Prov. Sulawesi Selatan",7310,"Kab. Barru",2006,98.58
+73,"Prov. Sulawesi Selatan",7310,"Kab. Barru",2007,99.03
+73,"Prov. Sulawesi Selatan",7310,"Kab. Barru",2008,98.28
+73,"Prov. Sulawesi Selatan",7310,"Kab. Barru",2009,96.71
+73,"Prov. Sulawesi Selatan",7311,"Kab. Bone",2005,98.16
+73,"Prov. Sulawesi Selatan",7311,"Kab. Bone",2006,98.61
+73,"Prov. Sulawesi Selatan",7311,"Kab. Bone",2007,96.95
+73,"Prov. Sulawesi Selatan",7311,"Kab. Bone",2008,99.16
+73,"Prov. Sulawesi Selatan",7311,"Kab. Bone",2009,95.23
+73,"Prov. Sulawesi Selatan",7312,"Kab. Soppeng",2005,98.85
+73,"Prov. Sulawesi Selatan",7312,"Kab. Soppeng",2006,98.27
+73,"Prov. Sulawesi Selatan",7312,"Kab. Soppeng",2007,97.13
+73,"Prov. Sulawesi Selatan",7312,"Kab. Soppeng",2008,98.34
+73,"Prov. Sulawesi Selatan",7312,"Kab. Soppeng",2009,96.24
+73,"Prov. Sulawesi Selatan",7313,"Kab. Wajo",2005,97.19
+73,"Prov. Sulawesi Selatan",7313,"Kab. Wajo",2006,96.81
+73,"Prov. Sulawesi Selatan",7313,"Kab. Wajo",2007,97.53
+73,"Prov. Sulawesi Selatan",7313,"Kab. Wajo",2008,99.26
+73,"Prov. Sulawesi Selatan",7313,"Kab. Wajo",2009,100
+73,"Prov. Sulawesi Selatan",7314,"Kab. Sidenreng Rappang",2005,98.43
+73,"Prov. Sulawesi Selatan",7314,"Kab. Sidenreng Rappang",2006,98.52
+73,"Prov. Sulawesi Selatan",7314,"Kab. Sidenreng Rappang",2007,98.11
+73,"Prov. Sulawesi Selatan",7314,"Kab. Sidenreng Rappang",2008,99.11
+73,"Prov. Sulawesi Selatan",7314,"Kab. Sidenreng Rappang",2009,100
+73,"Prov. Sulawesi Selatan",7315,"Kab. Pinrang",2005,98.31
+73,"Prov. Sulawesi Selatan",7315,"Kab. Pinrang",2006,97.43
+73,"Prov. Sulawesi Selatan",7315,"Kab. Pinrang",2007,97.86
+73,"Prov. Sulawesi Selatan",7315,"Kab. Pinrang",2008,98.65
+73,"Prov. Sulawesi Selatan",7315,"Kab. Pinrang",2009,100
+73,"Prov. Sulawesi Selatan",7316,"Kab. Enrekang",2005,98.66
+73,"Prov. Sulawesi Selatan",7316,"Kab. Enrekang",2006,98.72
+73,"Prov. Sulawesi Selatan",7316,"Kab. Enrekang",2007,99.27
+73,"Prov. Sulawesi Selatan",7316,"Kab. Enrekang",2008,100
+73,"Prov. Sulawesi Selatan",7316,"Kab. Enrekang",2009,98.16
+73,"Prov. Sulawesi Selatan",7317,"Kab. Luwu",2005,97.45
+73,"Prov. Sulawesi Selatan",7317,"Kab. Luwu",2006,97.9
+73,"Prov. Sulawesi Selatan",7317,"Kab. Luwu",2007,96.94
+73,"Prov. Sulawesi Selatan",7317,"Kab. Luwu",2008,98.23
+73,"Prov. Sulawesi Selatan",7317,"Kab. Luwu",2009,94.86
+73,"Prov. Sulawesi Selatan",7318,"Kab. Tana Toraja",2005,94.16
+73,"Prov. Sulawesi Selatan",7318,"Kab. Tana Toraja",2006,96.49
+73,"Prov. Sulawesi Selatan",7318,"Kab. Tana Toraja",2007,95.81
+73,"Prov. Sulawesi Selatan",7318,"Kab. Tana Toraja",2008,98.78
+73,"Prov. Sulawesi Selatan",7318,"Kab. Tana Toraja",2009,86.82
+73,"Prov. Sulawesi Selatan",7319,"",2005,91.4
+73,"Prov. Sulawesi Selatan",7319,"",2006,0
+73,"Prov. Sulawesi Selatan",7319,"",2007,0
+73,"Prov. Sulawesi Selatan",7319,"",2008,0
+73,"Prov. Sulawesi Selatan",7319,"",2009,0
+73,"Prov. Sulawesi Selatan",7320,"",2005,98.07
+73,"Prov. Sulawesi Selatan",7320,"",2006,0
+73,"Prov. Sulawesi Selatan",7320,"",2007,0
+73,"Prov. Sulawesi Selatan",7320,"",2008,0
+73,"Prov. Sulawesi Selatan",7320,"",2009,0
+73,"Prov. Sulawesi Selatan",7321,"",2005,94.87
+73,"Prov. Sulawesi Selatan",7321,"",2006,0
+73,"Prov. Sulawesi Selatan",7321,"",2007,0
+73,"Prov. Sulawesi Selatan",7321,"",2008,0
+73,"Prov. Sulawesi Selatan",7321,"",2009,0
+73,"Prov. Sulawesi Selatan",7322,"Kab. Luwu Utara",2005,97.67
+73,"Prov. Sulawesi Selatan",7322,"Kab. Luwu Utara",2006,97.7
+73,"Prov. Sulawesi Selatan",7322,"Kab. Luwu Utara",2007,97.58
+73,"Prov. Sulawesi Selatan",7322,"Kab. Luwu Utara",2008,98.65
+73,"Prov. Sulawesi Selatan",7322,"Kab. Luwu Utara",2009,100
+73,"Prov. Sulawesi Selatan",7323,"",2005,95.09
+73,"Prov. Sulawesi Selatan",7323,"",2006,0
+73,"Prov. Sulawesi Selatan",7323,"",2007,0
+73,"Prov. Sulawesi Selatan",7323,"",2008,0
+73,"Prov. Sulawesi Selatan",7323,"",2009,0
+73,"Prov. Sulawesi Selatan",7324,"",2005,95.74
+73,"Prov. Sulawesi Selatan",7324,"",2006,0
+73,"Prov. Sulawesi Selatan",7324,"",2007,0
+73,"Prov. Sulawesi Selatan",7324,"",2008,0
+73,"Prov. Sulawesi Selatan",7324,"",2009,0
+73,"Prov. Sulawesi Selatan",7325,"Kab. Luwu Timur",2005,97.27
+73,"Prov. Sulawesi Selatan",7325,"Kab. Luwu Timur",2006,98.99
+73,"Prov. Sulawesi Selatan",7325,"Kab. Luwu Timur",2007,97.69
+73,"Prov. Sulawesi Selatan",7325,"Kab. Luwu Timur",2008,99.36
+73,"Prov. Sulawesi Selatan",7325,"Kab. Luwu Timur",2009,100
+73,"Prov. Sulawesi Selatan",7371,"Kota Makassar",2005,99.14
+73,"Prov. Sulawesi Selatan",7371,"Kota Makassar",2006,98.96
+73,"Prov. Sulawesi Selatan",7371,"Kota Makassar",2007,98.62
+73,"Prov. Sulawesi Selatan",7371,"Kota Makassar",2008,100
+73,"Prov. Sulawesi Selatan",7371,"Kota Makassar",2009,100
+73,"Prov. Sulawesi Selatan",7372,"Kota Parepare",2005,98.23
+73,"Prov. Sulawesi Selatan",7372,"Kota Parepare",2006,99.2
+73,"Prov. Sulawesi Selatan",7372,"Kota Parepare",2007,99.32
+73,"Prov. Sulawesi Selatan",7372,"Kota Parepare",2008,100
+73,"Prov. Sulawesi Selatan",7372,"Kota Parepare",2009,100
+73,"Prov. Sulawesi Selatan",7373,"Kota Palopo",2005,98.38
+73,"Prov. Sulawesi Selatan",7373,"Kota Palopo",2006,97.87
+73,"Prov. Sulawesi Selatan",7373,"Kota Palopo",2007,99.69
+73,"Prov. Sulawesi Selatan",7373,"Kota Palopo",2008,100
+73,"Prov. Sulawesi Selatan",7373,"Kota Palopo",2009,98.47
+74,"Prov. Sulawesi Tenggara",7401,"Kab. Buton",2005,94.71
+74,"Prov. Sulawesi Tenggara",7401,"Kab. Buton",2006,97.25
+74,"Prov. Sulawesi Tenggara",7401,"Kab. Buton",2007,96.83
+74,"Prov. Sulawesi Tenggara",7401,"Kab. Buton",2008,98.83
+74,"Prov. Sulawesi Tenggara",7401,"Kab. Buton",2009,98.97
+74,"Prov. Sulawesi Tenggara",7402,"Kab. Muna",2005,98.14
+74,"Prov. Sulawesi Tenggara",7402,"Kab. Muna",2006,97.82
+74,"Prov. Sulawesi Tenggara",7402,"Kab. Muna",2007,96.48
+74,"Prov. Sulawesi Tenggara",7402,"Kab. Muna",2008,98.72
+74,"Prov. Sulawesi Tenggara",7402,"Kab. Muna",2009,100
+74,"Prov. Sulawesi Tenggara",7403,"Kab. Konawe",2005,97.29
+74,"Prov. Sulawesi Tenggara",7403,"Kab. Konawe",2006,98.45
+74,"Prov. Sulawesi Tenggara",7403,"Kab. Konawe",2007,97.49
+74,"Prov. Sulawesi Tenggara",7403,"Kab. Konawe",2008,99.83
+74,"Prov. Sulawesi Tenggara",7403,"Kab. Konawe",2009,100
+74,"Prov. Sulawesi Tenggara",7404,"Kab. Kolaka",2005,98.6
+74,"Prov. Sulawesi Tenggara",7404,"Kab. Kolaka",2006,98.55
+74,"Prov. Sulawesi Tenggara",7404,"Kab. Kolaka",2007,98.22
+74,"Prov. Sulawesi Tenggara",7404,"Kab. Kolaka",2008,98.31
+74,"Prov. Sulawesi Tenggara",7404,"Kab. Kolaka",2009,99.18
+74,"Prov. Sulawesi Tenggara",7405,"Kab. Konawe Selatan",2005,98.16
+74,"Prov. Sulawesi Tenggara",7405,"Kab. Konawe Selatan",2006,98.26
+74,"Prov. Sulawesi Tenggara",7405,"Kab. Konawe Selatan",2007,97.74
+74,"Prov. Sulawesi Tenggara",7405,"Kab. Konawe Selatan",2008,99.63
+74,"Prov. Sulawesi Tenggara",7405,"Kab. Konawe Selatan",2009,100
+74,"Prov. Sulawesi Tenggara",7406,"Kab. Bombana",2005,97.25
+74,"Prov. Sulawesi Tenggara",7406,"Kab. Bombana",2006,96.95
+74,"Prov. Sulawesi Tenggara",7406,"Kab. Bombana",2007,95.34
+74,"Prov. Sulawesi Tenggara",7406,"Kab. Bombana",2008,99.17
+74,"Prov. Sulawesi Tenggara",7406,"Kab. Bombana",2009,100
+74,"Prov. Sulawesi Tenggara",7407,"Kab. Wakatobi",2005,96.83
+74,"Prov. Sulawesi Tenggara",7407,"Kab. Wakatobi",2006,98.37
+74,"Prov. Sulawesi Tenggara",7407,"Kab. Wakatobi",2007,97.3
+74,"Prov. Sulawesi Tenggara",7407,"Kab. Wakatobi",2008,100
+74,"Prov. Sulawesi Tenggara",7407,"Kab. Wakatobi",2009,97.93
+74,"Prov. Sulawesi Tenggara",7408,"Kab. Kolaka Utara",2005,99.47
+74,"Prov. Sulawesi Tenggara",7408,"Kab. Kolaka Utara",2006,97.49
+74,"Prov. Sulawesi Tenggara",7408,"Kab. Kolaka Utara",2007,97.54
+74,"Prov. Sulawesi Tenggara",7408,"Kab. Kolaka Utara",2008,99.35
+74,"Prov. Sulawesi Tenggara",7408,"Kab. Kolaka Utara",2009,98.6
+74,"Prov. Sulawesi Tenggara",7409,"Kab. Buton Utara",2005,0
+74,"Prov. Sulawesi Tenggara",7409,"Kab. Buton Utara",2006,0
+74,"Prov. Sulawesi Tenggara",7409,"Kab. Buton Utara",2007,97.76
+74,"Prov. Sulawesi Tenggara",7409,"Kab. Buton Utara",2008,99.75
+74,"Prov. Sulawesi Tenggara",7409,"Kab. Buton Utara",2009,97.56
+74,"Prov. Sulawesi Tenggara",7410,"Kab. Konawe Utara",2005,0
+74,"Prov. Sulawesi Tenggara",7410,"Kab. Konawe Utara",2006,0
+74,"Prov. Sulawesi Tenggara",7410,"Kab. Konawe Utara",2007,99.07
+74,"Prov. Sulawesi Tenggara",7410,"Kab. Konawe Utara",2008,97.3
+74,"Prov. Sulawesi Tenggara",7410,"Kab. Konawe Utara",2009,97.99
+74,"Prov. Sulawesi Tenggara",7471,"Kota Kendari",2005,99.73
+74,"Prov. Sulawesi Tenggara",7471,"Kota Kendari",2006,99.4
+74,"Prov. Sulawesi Tenggara",7471,"Kota Kendari",2007,99.1
+74,"Prov. Sulawesi Tenggara",7471,"Kota Kendari",2008,100
+74,"Prov. Sulawesi Tenggara",7471,"Kota Kendari",2009,100
+74,"Prov. Sulawesi Tenggara",7472,"Kota Baubau",2005,98.53
+74,"Prov. Sulawesi Tenggara",7472,"Kota Baubau",2006,98.66
+74,"Prov. Sulawesi Tenggara",7472,"Kota Baubau",2007,99.09
+74,"Prov. Sulawesi Tenggara",7472,"Kota Baubau",2008,100
+74,"Prov. Sulawesi Tenggara",7472,"Kota Baubau",2009,98.61
+75,"Prov. Gorontalo",7501,"Kab. Boalemo",2005,97.62
+75,"Prov. Gorontalo",7501,"Kab. Boalemo",2006,95.27
+75,"Prov. Gorontalo",7501,"Kab. Boalemo",2007,95.83
+75,"Prov. Gorontalo",7501,"Kab. Boalemo",2008,98.38
+75,"Prov. Gorontalo",7501,"Kab. Boalemo",2009,96.34
+75,"Prov. Gorontalo",7502,"Kab. Gorontalo",2005,94.83
+75,"Prov. Gorontalo",7502,"Kab. Gorontalo",2006,96.62
+75,"Prov. Gorontalo",7502,"Kab. Gorontalo",2007,96.72
+75,"Prov. Gorontalo",7502,"Kab. Gorontalo",2008,98.47
+75,"Prov. Gorontalo",7502,"Kab. Gorontalo",2009,98.36
+75,"Prov. Gorontalo",7503,"Kab. Pohuwato",2005,98.07
+75,"Prov. Gorontalo",7503,"Kab. Pohuwato",2006,98.65
+75,"Prov. Gorontalo",7503,"Kab. Pohuwato",2007,95.59
+75,"Prov. Gorontalo",7503,"Kab. Pohuwato",2008,99.16
+75,"Prov. Gorontalo",7503,"Kab. Pohuwato",2009,100
+75,"Prov. Gorontalo",7504,"Kab. Bone Bolango",2005,99.29
+75,"Prov. Gorontalo",7504,"Kab. Bone Bolango",2006,97.36
+75,"Prov. Gorontalo",7504,"Kab. Bone Bolango",2007,98.01
+75,"Prov. Gorontalo",7504,"Kab. Bone Bolango",2008,98.93
+75,"Prov. Gorontalo",7504,"Kab. Bone Bolango",2009,100
+75,"Prov. Gorontalo",7505,"Kab. Gorontalo Utara",2005,0
+75,"Prov. Gorontalo",7505,"Kab. Gorontalo Utara",2006,0
+75,"Prov. Gorontalo",7505,"Kab. Gorontalo Utara",2007,97.62
+75,"Prov. Gorontalo",7505,"Kab. Gorontalo Utara",2008,99.34
+75,"Prov. Gorontalo",7505,"Kab. Gorontalo Utara",2009,98.38
+75,"Prov. Gorontalo",7571,"Kota Gorontalo",2005,99.36
+75,"Prov. Gorontalo",7571,"Kota Gorontalo",2006,99.54
+75,"Prov. Gorontalo",7571,"Kota Gorontalo",2007,99.77
+75,"Prov. Gorontalo",7571,"Kota Gorontalo",2008,99.77
+75,"Prov. Gorontalo",7571,"Kota Gorontalo",2009,100
+76,"Prov. Sulawesi Barat",7601,"Kab. Majene",2005,98.92
+76,"Prov. Sulawesi Barat",7601,"Kab. Majene",2006,98.75
+76,"Prov. Sulawesi Barat",7601,"Kab. Majene",2007,98.76
+76,"Prov. Sulawesi Barat",7601,"Kab. Majene",2008,98.46
+76,"Prov. Sulawesi Barat",7601,"Kab. Majene",2009,97.26
+76,"Prov. Sulawesi Barat",7602,"Kab. Polewali Mandar",2005,98.91
+76,"Prov. Sulawesi Barat",7602,"Kab. Polewali Mandar",2006,93.03
+76,"Prov. Sulawesi Barat",7602,"Kab. Polewali Mandar",2007,95.64
+76,"Prov. Sulawesi Barat",7602,"Kab. Polewali Mandar",2008,95.06
+76,"Prov. Sulawesi Barat",7602,"Kab. Polewali Mandar",2009,94.42
+76,"Prov. Sulawesi Barat",7603,"Kab. Mamasa",2005,99.07
+76,"Prov. Sulawesi Barat",7603,"Kab. Mamasa",2006,88.95
+76,"Prov. Sulawesi Barat",7603,"Kab. Mamasa",2007,92.27
+76,"Prov. Sulawesi Barat",7603,"Kab. Mamasa",2008,92.98
+76,"Prov. Sulawesi Barat",7603,"Kab. Mamasa",2009,95.3
+76,"Prov. Sulawesi Barat",7604,"Kab. Mamuju",2005,96.72
+76,"Prov. Sulawesi Barat",7604,"Kab. Mamuju",2006,96.3
+76,"Prov. Sulawesi Barat",7604,"Kab. Mamuju",2007,95.68
+76,"Prov. Sulawesi Barat",7604,"Kab. Mamuju",2008,95.59
+76,"Prov. Sulawesi Barat",7604,"Kab. Mamuju",2009,95.22
+76,"Prov. Sulawesi Barat",7605,"Kab. Mamuju Utara",2005,99.09
+76,"Prov. Sulawesi Barat",7605,"Kab. Mamuju Utara",2006,96.25
+76,"Prov. Sulawesi Barat",7605,"Kab. Mamuju Utara",2007,96.9
+76,"Prov. Sulawesi Barat",7605,"Kab. Mamuju Utara",2008,98.67
+76,"Prov. Sulawesi Barat",7605,"Kab. Mamuju Utara",2009,97.38
+76,"Prov. Sulawesi Barat",7606,"",2005,99.38
+76,"Prov. Sulawesi Barat",7606,"",2006,0
+76,"Prov. Sulawesi Barat",7606,"",2007,0
+76,"Prov. Sulawesi Barat",7606,"",2008,0
+76,"Prov. Sulawesi Barat",7606,"",2009,0
+76,"Prov. Sulawesi Barat",7607,"",2005,97.73
+76,"Prov. Sulawesi Barat",7607,"",2006,0
+76,"Prov. Sulawesi Barat",7607,"",2007,0
+76,"Prov. Sulawesi Barat",7607,"",2008,0
+76,"Prov. Sulawesi Barat",7607,"",2009,0
+76,"Prov. Sulawesi Barat",7671,"",2005,100
+76,"Prov. Sulawesi Barat",7671,"",2006,0
+76,"Prov. Sulawesi Barat",7671,"",2007,0
+76,"Prov. Sulawesi Barat",7671,"",2008,0
+76,"Prov. Sulawesi Barat",7671,"",2009,0
+81,"Prov. Maluku",8101,"Kab. Maluku Tenggara Barat",2005,98.26
+81,"Prov. Maluku",8101,"Kab. Maluku Tenggara Barat",2006,99.33
+81,"Prov. Maluku",8101,"Kab. Maluku Tenggara Barat",2007,99
+81,"Prov. Maluku",8101,"Kab. Maluku Tenggara Barat",2008,100
+81,"Prov. Maluku",8101,"Kab. Maluku Tenggara Barat",2009,98.99
+81,"Prov. Maluku",8102,"Kab. Maluku Tenggara",2005,98.83
+81,"Prov. Maluku",8102,"Kab. Maluku Tenggara",2006,99.76
+81,"Prov. Maluku",8102,"Kab. Maluku Tenggara",2007,99.53
+81,"Prov. Maluku",8102,"Kab. Maluku Tenggara",2008,99.67
+81,"Prov. Maluku",8102,"Kab. Maluku Tenggara",2009,100
+81,"Prov. Maluku",8103,"Kab. Maluku Tengah",2005,98.93
+81,"Prov. Maluku",8103,"Kab. Maluku Tengah",2006,99.3
+81,"Prov. Maluku",8103,"Kab. Maluku Tengah",2007,99.18
+81,"Prov. Maluku",8103,"Kab. Maluku Tengah",2008,99.51
+81,"Prov. Maluku",8103,"Kab. Maluku Tengah",2009,100
+81,"Prov. Maluku",8104,"Kab. Buru",2005,98.52
+81,"Prov. Maluku",8104,"Kab. Buru",2006,90.66
+81,"Prov. Maluku",8104,"Kab. Buru",2007,96.31
+81,"Prov. Maluku",8104,"Kab. Buru",2008,98.02
+81,"Prov. Maluku",8104,"Kab. Buru",2009,97.94
+81,"Prov. Maluku",8105,"Kab. Kepulauan Aru",2005,98.37
+81,"Prov. Maluku",8105,"Kab. Kepulauan Aru",2006,98.4
+81,"Prov. Maluku",8105,"Kab. Kepulauan Aru",2007,99.56
+81,"Prov. Maluku",8105,"Kab. Kepulauan Aru",2008,100
+81,"Prov. Maluku",8105,"Kab. Kepulauan Aru",2009,100
+81,"Prov. Maluku",8106,"Kab. Seram Bagian Barat",2005,96.27
+81,"Prov. Maluku",8106,"Kab. Seram Bagian Barat",2006,96.9
+81,"Prov. Maluku",8106,"Kab. Seram Bagian Barat",2007,98.07
+81,"Prov. Maluku",8106,"Kab. Seram Bagian Barat",2008,100
+81,"Prov. Maluku",8106,"Kab. Seram Bagian Barat",2009,99.23
+81,"Prov. Maluku",8107,"Kab. Seram Bagian Timur",2005,0
+81,"Prov. Maluku",8107,"Kab. Seram Bagian Timur",2006,99.71
+81,"Prov. Maluku",8107,"Kab. Seram Bagian Timur",2007,98.41
+81,"Prov. Maluku",8107,"Kab. Seram Bagian Timur",2008,100
+81,"Prov. Maluku",8107,"Kab. Seram Bagian Timur",2009,100
+81,"Prov. Maluku",8171,"Kota Ambon",2005,99.18
+81,"Prov. Maluku",8171,"Kota Ambon",2006,100
+81,"Prov. Maluku",8171,"Kota Ambon",2007,99.78
+81,"Prov. Maluku",8171,"Kota Ambon",2008,99.76
+81,"Prov. Maluku",8171,"Kota Ambon",2009,100
+81,"Prov. Maluku",8172,"Kota Tual",2005,99.57
+81,"Prov. Maluku",8172,"Kota Tual",2006,0
+81,"Prov. Maluku",8172,"Kota Tual",2007,0
+81,"Prov. Maluku",8172,"Kota Tual",2008,0
+81,"Prov. Maluku",8172,"Kota Tual",2009,100
+82,"Prov. Maluku Utara",8201,"Kab. Halmahera Barat",2005,0
+82,"Prov. Maluku Utara",8201,"Kab. Halmahera Barat",2006,95.56
+82,"Prov. Maluku Utara",8201,"Kab. Halmahera Barat",2007,98.73
+82,"Prov. Maluku Utara",8201,"Kab. Halmahera Barat",2008,98.68
+82,"Prov. Maluku Utara",8201,"Kab. Halmahera Barat",2009,100
+82,"Prov. Maluku Utara",8202,"Kab. Halmahera Tengah",2005,0
+82,"Prov. Maluku Utara",8202,"Kab. Halmahera Tengah",2006,98.29
+82,"Prov. Maluku Utara",8202,"Kab. Halmahera Tengah",2007,99.11
+82,"Prov. Maluku Utara",8202,"Kab. Halmahera Tengah",2008,100
+82,"Prov. Maluku Utara",8202,"Kab. Halmahera Tengah",2009,100
+82,"Prov. Maluku Utara",8203,"Kab. Kepulauan Sula",2005,0
+82,"Prov. Maluku Utara",8203,"Kab. Kepulauan Sula",2006,99.39
+82,"Prov. Maluku Utara",8203,"Kab. Kepulauan Sula",2007,97.95
+82,"Prov. Maluku Utara",8203,"Kab. Kepulauan Sula",2008,99.74
+82,"Prov. Maluku Utara",8203,"Kab. Kepulauan Sula",2009,100
+82,"Prov. Maluku Utara",8204,"Kab. Halmahera Selatan",2005,0
+82,"Prov. Maluku Utara",8204,"Kab. Halmahera Selatan",2006,98.57
+82,"Prov. Maluku Utara",8204,"Kab. Halmahera Selatan",2007,98.38
+82,"Prov. Maluku Utara",8204,"Kab. Halmahera Selatan",2008,99.54
+82,"Prov. Maluku Utara",8204,"Kab. Halmahera Selatan",2009,100
+82,"Prov. Maluku Utara",8205,"Kab. Halmahera Utara",2005,0
+82,"Prov. Maluku Utara",8205,"Kab. Halmahera Utara",2006,98.22
+82,"Prov. Maluku Utara",8205,"Kab. Halmahera Utara",2007,98.94
+82,"Prov. Maluku Utara",8205,"Kab. Halmahera Utara",2008,100
+82,"Prov. Maluku Utara",8205,"Kab. Halmahera Utara",2009,100
+82,"Prov. Maluku Utara",8206,"Kab. Halmahera Timur",2005,0
+82,"Prov. Maluku Utara",8206,"Kab. Halmahera Timur",2006,95.7
+82,"Prov. Maluku Utara",8206,"Kab. Halmahera Timur",2007,97.95
+82,"Prov. Maluku Utara",8206,"Kab. Halmahera Timur",2008,97.71
+82,"Prov. Maluku Utara",8206,"Kab. Halmahera Timur",2009,100
+82,"Prov. Maluku Utara",8271,"Kota Ternate",2005,0
+82,"Prov. Maluku Utara",8271,"Kota Ternate",2006,99.59
+82,"Prov. Maluku Utara",8271,"Kota Ternate",2007,100
+82,"Prov. Maluku Utara",8271,"Kota Ternate",2008,100
+82,"Prov. Maluku Utara",8271,"Kota Ternate",2009,100
+82,"Prov. Maluku Utara",8272,"Kota Tidore Kepulauan",2005,0
+82,"Prov. Maluku Utara",8272,"Kota Tidore Kepulauan",2006,99.49
+82,"Prov. Maluku Utara",8272,"Kota Tidore Kepulauan",2007,98.1
+82,"Prov. Maluku Utara",8272,"Kota Tidore Kepulauan",2008,99.68
+82,"Prov. Maluku Utara",8272,"Kota Tidore Kepulauan",2009,100
+91,"Prov. Papua Barat",9101,"Kab. Fakfak",2005,0
+91,"Prov. Papua Barat",9101,"Kab. Fakfak",2006,99.4
+91,"Prov. Papua Barat",9101,"Kab. Fakfak",2007,99.55
+91,"Prov. Papua Barat",9101,"Kab. Fakfak",2008,100
+91,"Prov. Papua Barat",9101,"Kab. Fakfak",2009,96.46
+91,"Prov. Papua Barat",9102,"Kab. Kaimana",2005,0
+91,"Prov. Papua Barat",9102,"Kab. Kaimana",2006,85.73
+91,"Prov. Papua Barat",9102,"Kab. Kaimana",2007,95.76
+91,"Prov. Papua Barat",9102,"Kab. Kaimana",2008,100
+91,"Prov. Papua Barat",9102,"Kab. Kaimana",2009,89.13
+91,"Prov. Papua Barat",9103,"Kab. Teluk Wondama",2005,0
+91,"Prov. Papua Barat",9103,"Kab. Teluk Wondama",2006,93.43
+91,"Prov. Papua Barat",9103,"Kab. Teluk Wondama",2007,81.94
+91,"Prov. Papua Barat",9103,"Kab. Teluk Wondama",2008,88.76
+91,"Prov. Papua Barat",9103,"Kab. Teluk Wondama",2009,94.49
+91,"Prov. Papua Barat",9104,"Kab. Teluk Bintuni",2005,0
+91,"Prov. Papua Barat",9104,"Kab. Teluk Bintuni",2006,85.91
+91,"Prov. Papua Barat",9104,"Kab. Teluk Bintuni",2007,85.89
+91,"Prov. Papua Barat",9104,"Kab. Teluk Bintuni",2008,93.55
+91,"Prov. Papua Barat",9104,"Kab. Teluk Bintuni",2009,95.19
+91,"Prov. Papua Barat",9105,"Kab. Manokwari",2005,0
+91,"Prov. Papua Barat",9105,"Kab. Manokwari",2006,91.25
+91,"Prov. Papua Barat",9105,"Kab. Manokwari",2007,90.04
+91,"Prov. Papua Barat",9105,"Kab. Manokwari",2008,95.65
+91,"Prov. Papua Barat",9105,"Kab. Manokwari",2009,83.88
+91,"Prov. Papua Barat",9106,"Kab. Sorong Selatan",2005,0
+91,"Prov. Papua Barat",9106,"Kab. Sorong Selatan",2006,98.58
+91,"Prov. Papua Barat",9106,"Kab. Sorong Selatan",2007,97.84
+91,"Prov. Papua Barat",9106,"Kab. Sorong Selatan",2008,98.59
+91,"Prov. Papua Barat",9106,"Kab. Sorong Selatan",2009,95.1
+91,"Prov. Papua Barat",9107,"Kab. Sorong",2005,0
+91,"Prov. Papua Barat",9107,"Kab. Sorong",2006,97.2
+91,"Prov. Papua Barat",9107,"Kab. Sorong",2007,97.27
+91,"Prov. Papua Barat",9107,"Kab. Sorong",2008,97.9
+91,"Prov. Papua Barat",9107,"Kab. Sorong",2009,95.98
+91,"Prov. Papua Barat",9108,"Kab. Raja Ampat",2005,0
+91,"Prov. Papua Barat",9108,"Kab. Raja Ampat",2006,99.36
+91,"Prov. Papua Barat",9108,"Kab. Raja Ampat",2007,96.12
+91,"Prov. Papua Barat",9108,"Kab. Raja Ampat",2008,97.01
+91,"Prov. Papua Barat",9108,"Kab. Raja Ampat",2009,100
+91,"Prov. Papua Barat",9171,"Kota Sorong",2005,0
+91,"Prov. Papua Barat",9171,"Kota Sorong",2006,99.57
+91,"Prov. Papua Barat",9171,"Kota Sorong",2007,98.7
+91,"Prov. Papua Barat",9171,"Kota Sorong",2008,100
+91,"Prov. Papua Barat",9171,"Kota Sorong",2009,100
+94,"Prov. Papua",9401,"Kab. Merauke",2005,0
+94,"Prov. Papua",9401,"Kab. Merauke",2006,99.39
+94,"Prov. Papua",9401,"Kab. Merauke",2007,98.28
+94,"Prov. Papua",9401,"Kab. Merauke",2008,99.68
+94,"Prov. Papua",9401,"Kab. Merauke",2009,97.75
+94,"Prov. Papua",9402,"Kab. Jayawijaya",2005,53.12
+94,"Prov. Papua",9402,"Kab. Jayawijaya",2006,66.61
+94,"Prov. Papua",9402,"Kab. Jayawijaya",2007,68.94
+94,"Prov. Papua",9402,"Kab. Jayawijaya",2008,72.65
+94,"Prov. Papua",9402,"Kab. Jayawijaya",2009,78.96
+94,"Prov. Papua",9403,"Kab. Jayapura",2005,99
+94,"Prov. Papua",9403,"Kab. Jayapura",2006,100
+94,"Prov. Papua",9403,"Kab. Jayapura",2007,99.54
+94,"Prov. Papua",9403,"Kab. Jayapura",2008,100
+94,"Prov. Papua",9403,"Kab. Jayapura",2009,100
+94,"Prov. Papua",9404,"Kab. Nabire",2005,83.71
+94,"Prov. Papua",9404,"Kab. Nabire",2006,78.43
+94,"Prov. Papua",9404,"Kab. Nabire",2007,85.57
+94,"Prov. Papua",9404,"Kab. Nabire",2008,100
+94,"Prov. Papua",9404,"Kab. Nabire",2009,83.04
+94,"Prov. Papua",9405,"",2005,100
+94,"Prov. Papua",9405,"",2006,0
+94,"Prov. Papua",9405,"",2007,0
+94,"Prov. Papua",9405,"",2008,0
+94,"Prov. Papua",9405,"",2009,0
+94,"Prov. Papua",9408,"Kab. Yapen Waropen",2005,0
+94,"Prov. Papua",9408,"Kab. Yapen Waropen",2006,98.58
+94,"Prov. Papua",9408,"Kab. Yapen Waropen",2007,92.99
+94,"Prov. Papua",9408,"Kab. Yapen Waropen",2008,97.24
+94,"Prov. Papua",9408,"Kab. Yapen Waropen",2009,96.11
+94,"Prov. Papua",9409,"Kab. Biak Numfor",2005,99.04
+94,"Prov. Papua",9409,"Kab. Biak Numfor",2006,99.6
+94,"Prov. Papua",9409,"Kab. Biak Numfor",2007,99.55
+94,"Prov. Papua",9409,"Kab. Biak Numfor",2008,99.13
+94,"Prov. Papua",9409,"Kab. Biak Numfor",2009,99.05
+94,"Prov. Papua",9410,"Kab. Paniai",2005,51.28
+94,"Prov. Papua",9410,"Kab. Paniai",2006,58.45
+94,"Prov. Papua",9410,"Kab. Paniai",2007,70.57
+94,"Prov. Papua",9410,"Kab. Paniai",2008,85.07
+94,"Prov. Papua",9410,"Kab. Paniai",2009,62.75
+94,"Prov. Papua",9411,"Kab. Puncak Jaya",2005,80.23
+94,"Prov. Papua",9411,"Kab. Puncak Jaya",2006,49.02
+94,"Prov. Papua",9411,"Kab. Puncak Jaya",2007,0
+94,"Prov. Papua",9411,"Kab. Puncak Jaya",2008,50.79
+94,"Prov. Papua",9411,"Kab. Puncak Jaya",2009,29.77
+94,"Prov. Papua",9412,"Kab. Mimika",2005,93.9
+94,"Prov. Papua",9412,"Kab. Mimika",2006,97.13
+94,"Prov. Papua",9412,"Kab. Mimika",2007,98.93
+94,"Prov. Papua",9412,"Kab. Mimika",2008,95
+94,"Prov. Papua",9412,"Kab. Mimika",2009,98.62
+94,"Prov. Papua",9413,"Kab. Boven Digoel",2005,0
+94,"Prov. Papua",9413,"Kab. Boven Digoel",2006,95.33
+94,"Prov. Papua",9413,"Kab. Boven Digoel",2007,85.55
+94,"Prov. Papua",9413,"Kab. Boven Digoel",2008,82.19
+94,"Prov. Papua",9413,"Kab. Boven Digoel",2009,81.48
+94,"Prov. Papua",9414,"Kab. Mappi",2005,90.73
+94,"Prov. Papua",9414,"Kab. Mappi",2006,89.36
+94,"Prov. Papua",9414,"Kab. Mappi",2007,94.44
+94,"Prov. Papua",9414,"Kab. Mappi",2008,92.21
+94,"Prov. Papua",9414,"Kab. Mappi",2009,87.46
+94,"Prov. Papua",9415,"Kab. Asmat",2005,90.6
+94,"Prov. Papua",9415,"Kab. Asmat",2006,93.45
+94,"Prov. Papua",9415,"Kab. Asmat",2007,65.24
+94,"Prov. Papua",9415,"Kab. Asmat",2008,82.11
+94,"Prov. Papua",9415,"Kab. Asmat",2009,84.61
+94,"Prov. Papua",9416,"Kab. Yahukimo",2005,40.2
+94,"Prov. Papua",9416,"Kab. Yahukimo",2006,55.12
+94,"Prov. Papua",9416,"Kab. Yahukimo",2007,50
+94,"Prov. Papua",9416,"Kab. Yahukimo",2008,89.89
+94,"Prov. Papua",9416,"Kab. Yahukimo",2009,48.99
+94,"Prov. Papua",9417,"Kab. Pegunungan Bintang",2005,43.79
+94,"Prov. Papua",9417,"Kab. Pegunungan Bintang",2006,37.84
+94,"Prov. Papua",9417,"Kab. Pegunungan Bintang",2007,0
+94,"Prov. Papua",9417,"Kab. Pegunungan Bintang",2008,39.59
+94,"Prov. Papua",9417,"Kab. Pegunungan Bintang",2009,88.72
+94,"Prov. Papua",9418,"Kab. Tolikara",2005,0
+94,"Prov. Papua",9418,"Kab. Tolikara",2006,26.57
+94,"Prov. Papua",9418,"Kab. Tolikara",2007,52.71
+94,"Prov. Papua",9418,"Kab. Tolikara",2008,59.34
+94,"Prov. Papua",9418,"Kab. Tolikara",2009,25.54
+94,"Prov. Papua",9419,"Kab. Sarmi",2005,79.07
+94,"Prov. Papua",9419,"Kab. Sarmi",2006,92.06
+94,"Prov. Papua",9419,"Kab. Sarmi",2007,88.45
+94,"Prov. Papua",9419,"Kab. Sarmi",2008,97.74
+94,"Prov. Papua",9419,"Kab. Sarmi",2009,71.53
+94,"Prov. Papua",9420,"Kab. Keerom",2005,98.33
+94,"Prov. Papua",9420,"Kab. Keerom",2006,96.86
+94,"Prov. Papua",9420,"Kab. Keerom",2007,96.1
+94,"Prov. Papua",9420,"Kab. Keerom",2008,97.47
+94,"Prov. Papua",9420,"Kab. Keerom",2009,82.88
+94,"Prov. Papua",9421,"",2005,98.46
+94,"Prov. Papua",9421,"",2006,0
+94,"Prov. Papua",9421,"",2007,0
+94,"Prov. Papua",9421,"",2008,0
+94,"Prov. Papua",9421,"",2009,0
+94,"Prov. Papua",9426,"Kab. Waropen",2005,0
+94,"Prov. Papua",9426,"Kab. Waropen",2006,96.34
+94,"Prov. Papua",9426,"Kab. Waropen",2007,91.48
+94,"Prov. Papua",9426,"Kab. Waropen",2008,87.84
+94,"Prov. Papua",9426,"Kab. Waropen",2009,91.94
+94,"Prov. Papua",9427,"Kab. Supiori",2005,0
+94,"Prov. Papua",9427,"Kab. Supiori",2006,97.96
+94,"Prov. Papua",9427,"Kab. Supiori",2007,98.98
+94,"Prov. Papua",9427,"Kab. Supiori",2008,100
+94,"Prov. Papua",9427,"Kab. Supiori",2009,100
+94,"Prov. Papua",9428,"Kab. Mamberamo Raya",2005,0
+94,"Prov. Papua",9428,"Kab. Mamberamo Raya",2006,0
+94,"Prov. Papua",9428,"Kab. Mamberamo Raya",2007,0
+94,"Prov. Papua",9428,"Kab. Mamberamo Raya",2008,0
+94,"Prov. Papua",9428,"Kab. Mamberamo Raya",2009,80.34
+94,"Prov. Papua",9429,"Kab. Nduga",2005,0
+94,"Prov. Papua",9429,"Kab. Nduga",2006,0
+94,"Prov. Papua",9429,"Kab. Nduga",2007,0
+94,"Prov. Papua",9429,"Kab. Nduga",2008,0
+94,"Prov. Papua",9429,"Kab. Nduga",2009,0
+94,"Prov. Papua",9430,"Kab. Lanny Jaya",2005,0
+94,"Prov. Papua",9430,"Kab. Lanny Jaya",2006,0
+94,"Prov. Papua",9430,"Kab. Lanny Jaya",2007,0
+94,"Prov. Papua",9430,"Kab. Lanny Jaya",2008,0
+94,"Prov. Papua",9430,"Kab. Lanny Jaya",2009,43.6
+94,"Prov. Papua",9431,"Kab. Mamberamo Tengah",2005,0
+94,"Prov. Papua",9431,"Kab. Mamberamo Tengah",2006,0
+94,"Prov. Papua",9431,"Kab. Mamberamo Tengah",2007,0
+94,"Prov. Papua",9431,"Kab. Mamberamo Tengah",2008,0
+94,"Prov. Papua",9431,"Kab. Mamberamo Tengah",2009,0
+94,"Prov. Papua",9432,"Kab. Yalimo",2005,0
+94,"Prov. Papua",9432,"Kab. Yalimo",2006,0
+94,"Prov. Papua",9432,"Kab. Yalimo",2007,0
+94,"Prov. Papua",9432,"Kab. Yalimo",2008,0
+94,"Prov. Papua",9432,"Kab. Yalimo",2009,72.35
+94,"Prov. Papua",9433,"Kab. Puncak",2005,0
+94,"Prov. Papua",9433,"Kab. Puncak",2006,0
+94,"Prov. Papua",9433,"Kab. Puncak",2007,0
+94,"Prov. Papua",9433,"Kab. Puncak",2008,0
+94,"Prov. Papua",9433,"Kab. Puncak",2009,25.03
+94,"Prov. Papua",9434,"Kab. Dogiyai",2005,0
+94,"Prov. Papua",9434,"Kab. Dogiyai",2006,0
+94,"Prov. Papua",9434,"Kab. Dogiyai",2007,0
+94,"Prov. Papua",9434,"Kab. Dogiyai",2008,0
+94,"Prov. Papua",9434,"Kab. Dogiyai",2009,50.14
+94,"Prov. Papua",9471,"Kota Jayapura",2005,99.14
+94,"Prov. Papua",9471,"Kota Jayapura",2006,99.39
+94,"Prov. Papua",9471,"Kota Jayapura",2007,99.73
+94,"Prov. Papua",9471,"Kota Jayapura",2008,99.44
+94,"Prov. Papua",9471,"Kota Jayapura",2009,98.47
+94,"Prov. Papua",9472,"",2005,100
+94,"Prov. Papua",9472,"",2006,0
+94,"Prov. Papua",9472,"",2007,0
+94,"Prov. Papua",9472,"",2008,0
+94,"Prov. Papua",9472,"",2009,0

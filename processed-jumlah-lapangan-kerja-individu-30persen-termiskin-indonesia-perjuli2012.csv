@@ -1,0 +1,595 @@
+kode_provinsi,nama_provinsi,lapangan_kerja,jumlah_individu
+11,"Prov. Nanggroe Aceh Darussalam","Bangunan Dan Konstruksi",35856
+11,"Prov. Nanggroe Aceh Darussalam","Hortikultura",16366
+11,"Prov. Nanggroe Aceh Darussalam","Hotel Dan Rumah Makan",1207
+11,"Prov. Nanggroe Aceh Darussalam","Industri Pengolahan",12587
+11,"Prov. Nanggroe Aceh Darussalam","Informasi Dan Komunikasi",328
+11,"Prov. Nanggroe Aceh Darussalam","Jasa",30645
+11,"Prov. Nanggroe Aceh Darussalam","Kehutanan Dan Pertanian Lainnya",4469
+11,"Prov. Nanggroe Aceh Darussalam","Keuangan Dan Asuransi",230
+11,"Prov. Nanggroe Aceh Darussalam","Lainnya",31132
+11,"Prov. Nanggroe Aceh Darussalam","Listrik Dan Gas",940
+11,"Prov. Nanggroe Aceh Darussalam","Perdagangan",37154
+11,"Prov. Nanggroe Aceh Darussalam","Perikanan Budidaya",3536
+11,"Prov. Nanggroe Aceh Darussalam","Perikanan Tangkap",22899
+11,"Prov. Nanggroe Aceh Darussalam","Perkebunan",136829
+11,"Prov. Nanggroe Aceh Darussalam","Pertambangan Dan Penggalian",2394
+11,"Prov. Nanggroe Aceh Darussalam","Pertanian Tanaman Padi Dan Palawija",390820
+11,"Prov. Nanggroe Aceh Darussalam","Peternakan",3861
+11,"Prov. Nanggroe Aceh Darussalam","Transportasi Dan Pergudangan",14071
+12,"Prov. Sumatera Utara","Bangunan Dan Konstruksi",95348
+12,"Prov. Sumatera Utara","Hortikultura",60229
+12,"Prov. Sumatera Utara","Hotel Dan Rumah Makan",7073
+12,"Prov. Sumatera Utara","Industri Pengolahan",57614
+12,"Prov. Sumatera Utara","Informasi Dan Komunikasi",1336
+12,"Prov. Sumatera Utara","Jasa",110085
+12,"Prov. Sumatera Utara","Kehutanan Dan Pertanian Lainnya",14394
+12,"Prov. Sumatera Utara","Keuangan Dan Asuransi",958
+12,"Prov. Sumatera Utara","Lainnya",79153
+12,"Prov. Sumatera Utara","Listrik Dan Gas",2163
+12,"Prov. Sumatera Utara","Perdagangan",94520
+12,"Prov. Sumatera Utara","Perikanan Budidaya",1912
+12,"Prov. Sumatera Utara","Perikanan Tangkap",62538
+12,"Prov. Sumatera Utara","Perkebunan",385752
+12,"Prov. Sumatera Utara","Pertambangan Dan Penggalian",6712
+12,"Prov. Sumatera Utara","Pertanian Tanaman Padi Dan Palawija",538373
+12,"Prov. Sumatera Utara","Peternakan",8394
+12,"Prov. Sumatera Utara","Transportasi Dan Pergudangan",61395
+13,"Prov. Sumatera Barat","Bangunan Dan Konstruksi",31721
+13,"Prov. Sumatera Barat","Hortikultura",21223
+13,"Prov. Sumatera Barat","Hotel Dan Rumah Makan",4169
+13,"Prov. Sumatera Barat","Industri Pengolahan",20799
+13,"Prov. Sumatera Barat","Informasi Dan Komunikasi",488
+13,"Prov. Sumatera Barat","Jasa",32839
+13,"Prov. Sumatera Barat","Kehutanan Dan Pertanian Lainnya",7337
+13,"Prov. Sumatera Barat","Keuangan Dan Asuransi",396
+13,"Prov. Sumatera Barat","Lainnya",20573
+13,"Prov. Sumatera Barat","Listrik Dan Gas",745
+13,"Prov. Sumatera Barat","Perdagangan",43102
+13,"Prov. Sumatera Barat","Perikanan Budidaya",967
+13,"Prov. Sumatera Barat","Perikanan Tangkap",10987
+13,"Prov. Sumatera Barat","Perkebunan",78856
+13,"Prov. Sumatera Barat","Pertambangan Dan Penggalian",5087
+13,"Prov. Sumatera Barat","Pertanian Tanaman Padi Dan Palawija",227164
+13,"Prov. Sumatera Barat","Peternakan",8760
+13,"Prov. Sumatera Barat","Transportasi Dan Pergudangan",16857
+14,"Prov. Riau","Bangunan Dan Konstruksi",28149
+14,"Prov. Riau","Hortikultura",3315
+14,"Prov. Riau","Hotel Dan Rumah Makan",1790
+14,"Prov. Riau","Industri Pengolahan",13084
+14,"Prov. Riau","Informasi Dan Komunikasi",415
+14,"Prov. Riau","Jasa",34992
+14,"Prov. Riau","Kehutanan Dan Pertanian Lainnya",10617
+14,"Prov. Riau","Keuangan Dan Asuransi",310
+14,"Prov. Riau","Lainnya",34434
+14,"Prov. Riau","Listrik Dan Gas",579
+14,"Prov. Riau","Perdagangan",26697
+14,"Prov. Riau","Perikanan Budidaya",521
+14,"Prov. Riau","Perikanan Tangkap",16709
+14,"Prov. Riau","Perkebunan",194721
+14,"Prov. Riau","Pertambangan Dan Penggalian",2093
+14,"Prov. Riau","Pertanian Tanaman Padi Dan Palawija",40962
+14,"Prov. Riau","Peternakan",1618
+14,"Prov. Riau","Transportasi Dan Pergudangan",12032
+15,"Prov. Jambi","Bangunan Dan Konstruksi",20844
+15,"Prov. Jambi","Hortikultura",8736
+15,"Prov. Jambi","Hotel Dan Rumah Makan",1304
+15,"Prov. Jambi","Industri Pengolahan",5910
+15,"Prov. Jambi","Informasi Dan Komunikasi",303
+15,"Prov. Jambi","Jasa",17879
+15,"Prov. Jambi","Kehutanan Dan Pertanian Lainnya",3143
+15,"Prov. Jambi","Keuangan Dan Asuransi",215
+15,"Prov. Jambi","Lainnya",14493
+15,"Prov. Jambi","Listrik Dan Gas",456
+15,"Prov. Jambi","Perdagangan",21259
+15,"Prov. Jambi","Perikanan Budidaya",441
+15,"Prov. Jambi","Perikanan Tangkap",5317
+15,"Prov. Jambi","Perkebunan",144507
+15,"Prov. Jambi","Pertambangan Dan Penggalian",4109
+15,"Prov. Jambi","Pertanian Tanaman Padi Dan Palawija",60236
+15,"Prov. Jambi","Peternakan",1368
+15,"Prov. Jambi","Transportasi Dan Pergudangan",9062
+16,"Prov. Sumatera Selatan","Bangunan Dan Konstruksi",58115
+16,"Prov. Sumatera Selatan","Hortikultura",4885
+16,"Prov. Sumatera Selatan","Hotel Dan Rumah Makan",3124
+16,"Prov. Sumatera Selatan","Industri Pengolahan",24382
+16,"Prov. Sumatera Selatan","Informasi Dan Komunikasi",570
+16,"Prov. Sumatera Selatan","Jasa",46448
+16,"Prov. Sumatera Selatan","Kehutanan Dan Pertanian Lainnya",8858
+16,"Prov. Sumatera Selatan","Keuangan Dan Asuransi",453
+16,"Prov. Sumatera Selatan","Lainnya",38700
+16,"Prov. Sumatera Selatan","Listrik Dan Gas",985
+16,"Prov. Sumatera Selatan","Perdagangan",46324
+16,"Prov. Sumatera Selatan","Perikanan Budidaya",2047
+16,"Prov. Sumatera Selatan","Perikanan Tangkap",10283
+16,"Prov. Sumatera Selatan","Perkebunan",379659
+16,"Prov. Sumatera Selatan","Pertambangan Dan Penggalian",5579
+16,"Prov. Sumatera Selatan","Pertanian Tanaman Padi Dan Palawija",256868
+16,"Prov. Sumatera Selatan","Peternakan",1683
+16,"Prov. Sumatera Selatan","Transportasi Dan Pergudangan",24956
+17,"Prov. Bengkulu","Bangunan Dan Konstruksi",12646
+17,"Prov. Bengkulu","Hortikultura",7529
+17,"Prov. Bengkulu","Hotel Dan Rumah Makan",573
+17,"Prov. Bengkulu","Industri Pengolahan",3743
+17,"Prov. Bengkulu","Informasi Dan Komunikasi",159
+17,"Prov. Bengkulu","Jasa",11211
+17,"Prov. Bengkulu","Kehutanan Dan Pertanian Lainnya",1343
+17,"Prov. Bengkulu","Keuangan Dan Asuransi",156
+17,"Prov. Bengkulu","Lainnya",8051
+17,"Prov. Bengkulu","Listrik Dan Gas",275
+17,"Prov. Bengkulu","Perdagangan",14534
+17,"Prov. Bengkulu","Perikanan Budidaya",258
+17,"Prov. Bengkulu","Perikanan Tangkap",2589
+17,"Prov. Bengkulu","Perkebunan",133989
+17,"Prov. Bengkulu","Pertambangan Dan Penggalian",2957
+17,"Prov. Bengkulu","Pertanian Tanaman Padi Dan Palawija",66884
+17,"Prov. Bengkulu","Peternakan",940
+17,"Prov. Bengkulu","Transportasi Dan Pergudangan",3992
+18,"Prov. Lampung","Bangunan Dan Konstruksi",66356
+18,"Prov. Lampung","Hortikultura",15479
+18,"Prov. Lampung","Hotel Dan Rumah Makan",4008
+18,"Prov. Lampung","Industri Pengolahan",52764
+18,"Prov. Lampung","Informasi Dan Komunikasi",724
+18,"Prov. Lampung","Jasa",72624
+18,"Prov. Lampung","Kehutanan Dan Pertanian Lainnya",7412
+18,"Prov. Lampung","Keuangan Dan Asuransi",609
+18,"Prov. Lampung","Lainnya",45520
+18,"Prov. Lampung","Listrik Dan Gas",1353
+18,"Prov. Lampung","Perdagangan",71080
+18,"Prov. Lampung","Perikanan Budidaya",5315
+18,"Prov. Lampung","Perikanan Tangkap",16001
+18,"Prov. Lampung","Perkebunan",309072
+18,"Prov. Lampung","Pertambangan Dan Penggalian",6628
+18,"Prov. Lampung","Pertanian Tanaman Padi Dan Palawija",480582
+18,"Prov. Lampung","Peternakan",19786
+18,"Prov. Lampung","Transportasi Dan Pergudangan",29515
+19,"Prov. Kepulauan Bangka Belitung","Bangunan Dan Konstruksi",4288
+19,"Prov. Kepulauan Bangka Belitung","Hortikultura",480
+19,"Prov. Kepulauan Bangka Belitung","Hotel Dan Rumah Makan",431
+19,"Prov. Kepulauan Bangka Belitung","Industri Pengolahan",1705
+19,"Prov. Kepulauan Bangka Belitung","Informasi Dan Komunikasi",72
+19,"Prov. Kepulauan Bangka Belitung","Jasa",5013
+19,"Prov. Kepulauan Bangka Belitung","Kehutanan Dan Pertanian Lainnya",1053
+19,"Prov. Kepulauan Bangka Belitung","Keuangan Dan Asuransi",50
+19,"Prov. Kepulauan Bangka Belitung","Lainnya",2719
+19,"Prov. Kepulauan Bangka Belitung","Listrik Dan Gas",80
+19,"Prov. Kepulauan Bangka Belitung","Perdagangan",4883
+19,"Prov. Kepulauan Bangka Belitung","Perikanan Budidaya",78
+19,"Prov. Kepulauan Bangka Belitung","Perikanan Tangkap",5322
+19,"Prov. Kepulauan Bangka Belitung","Perkebunan",23868
+19,"Prov. Kepulauan Bangka Belitung","Pertambangan Dan Penggalian",18104
+19,"Prov. Kepulauan Bangka Belitung","Pertanian Tanaman Padi Dan Palawija",1736
+19,"Prov. Kepulauan Bangka Belitung","Peternakan",283
+19,"Prov. Kepulauan Bangka Belitung","Transportasi Dan Pergudangan",1136
+21,"Prov. Kepulauan Riau","Bangunan Dan Konstruksi",15014
+21,"Prov. Kepulauan Riau","Hortikultura",529
+21,"Prov. Kepulauan Riau","Hotel Dan Rumah Makan",1984
+21,"Prov. Kepulauan Riau","Industri Pengolahan",14412
+21,"Prov. Kepulauan Riau","Informasi Dan Komunikasi",253
+21,"Prov. Kepulauan Riau","Jasa",9746
+21,"Prov. Kepulauan Riau","Kehutanan Dan Pertanian Lainnya",1607
+21,"Prov. Kepulauan Riau","Keuangan Dan Asuransi",148
+21,"Prov. Kepulauan Riau","Lainnya",11595
+21,"Prov. Kepulauan Riau","Listrik Dan Gas",324
+21,"Prov. Kepulauan Riau","Perdagangan",8387
+21,"Prov. Kepulauan Riau","Perikanan Budidaya",320
+21,"Prov. Kepulauan Riau","Perikanan Tangkap",18032
+21,"Prov. Kepulauan Riau","Perkebunan",8262
+21,"Prov. Kepulauan Riau","Pertambangan Dan Penggalian",1301
+21,"Prov. Kepulauan Riau","Pertanian Tanaman Padi Dan Palawija",1320
+21,"Prov. Kepulauan Riau","Peternakan",391
+21,"Prov. Kepulauan Riau","Transportasi Dan Pergudangan",4972
+31,"Prov. DKI Jakarta","Bangunan Dan Konstruksi",29945
+31,"Prov. DKI Jakarta","Hortikultura",427
+31,"Prov. DKI Jakarta","Hotel Dan Rumah Makan",22119
+31,"Prov. DKI Jakarta","Industri Pengolahan",57140
+31,"Prov. DKI Jakarta","Informasi Dan Komunikasi",3735
+31,"Prov. DKI Jakarta","Jasa",115907
+31,"Prov. DKI Jakarta","Kehutanan Dan Pertanian Lainnya",368
+31,"Prov. DKI Jakarta","Keuangan Dan Asuransi",3101
+31,"Prov. DKI Jakarta","Lainnya",39034
+31,"Prov. DKI Jakarta","Listrik Dan Gas",2132
+31,"Prov. DKI Jakarta","Perdagangan",93732
+31,"Prov. DKI Jakarta","Perikanan Budidaya",632
+31,"Prov. DKI Jakarta","Perikanan Tangkap",4658
+31,"Prov. DKI Jakarta","Perkebunan",1024
+31,"Prov. DKI Jakarta","Pertambangan Dan Penggalian",860
+31,"Prov. DKI Jakarta","Pertanian Tanaman Padi Dan Palawija",1331
+31,"Prov. DKI Jakarta","Peternakan",637
+31,"Prov. DKI Jakarta","Transportasi Dan Pergudangan",38423
+32,"Prov. Jawa Barat","Bangunan Dan Konstruksi",474533
+32,"Prov. Jawa Barat","Hortikultura",109524
+32,"Prov. Jawa Barat","Hotel Dan Rumah Makan",46511
+32,"Prov. Jawa Barat","Industri Pengolahan",590303
+32,"Prov. Jawa Barat","Informasi Dan Komunikasi",5851
+32,"Prov. Jawa Barat","Jasa",455721
+32,"Prov. Jawa Barat","Kehutanan Dan Pertanian Lainnya",32445
+32,"Prov. Jawa Barat","Keuangan Dan Asuransi",5211
+32,"Prov. Jawa Barat","Lainnya",362988
+32,"Prov. Jawa Barat","Listrik Dan Gas",8566
+32,"Prov. Jawa Barat","Perdagangan",668693
+32,"Prov. Jawa Barat","Perikanan Budidaya",10397
+32,"Prov. Jawa Barat","Perikanan Tangkap",46016
+32,"Prov. Jawa Barat","Perkebunan",87856
+32,"Prov. Jawa Barat","Pertambangan Dan Penggalian",33800
+32,"Prov. Jawa Barat","Pertanian Tanaman Padi Dan Palawija",1529226
+32,"Prov. Jawa Barat","Peternakan",63946
+32,"Prov. Jawa Barat","Transportasi Dan Pergudangan",202619
+33,"Prov. Jawa Tengah","Bangunan Dan Konstruksi",591509
+33,"Prov. Jawa Tengah","Hortikultura",205381
+33,"Prov. Jawa Tengah","Hotel Dan Rumah Makan",63298
+33,"Prov. Jawa Tengah","Industri Pengolahan",873253
+33,"Prov. Jawa Tengah","Informasi Dan Komunikasi",4733
+33,"Prov. Jawa Tengah","Jasa",535778
+33,"Prov. Jawa Tengah","Kehutanan Dan Pertanian Lainnya",60064
+33,"Prov. Jawa Tengah","Keuangan Dan Asuransi",6209
+33,"Prov. Jawa Tengah","Lainnya",258576
+33,"Prov. Jawa Tengah","Listrik Dan Gas",7721
+33,"Prov. Jawa Tengah","Perdagangan",634993
+33,"Prov. Jawa Tengah","Perikanan Budidaya",9637
+33,"Prov. Jawa Tengah","Perikanan Tangkap",80917
+33,"Prov. Jawa Tengah","Perkebunan",213442
+33,"Prov. Jawa Tengah","Pertambangan Dan Penggalian",48757
+33,"Prov. Jawa Tengah","Pertanian Tanaman Padi Dan Palawija",2137715
+33,"Prov. Jawa Tengah","Peternakan",147430
+33,"Prov. Jawa Tengah","Transportasi Dan Pergudangan",133017
+34,"Prov. D I Yogyakarta","Bangunan Dan Konstruksi",76220
+34,"Prov. D I Yogyakarta","Hortikultura",11326
+34,"Prov. D I Yogyakarta","Hotel Dan Rumah Makan",11109
+34,"Prov. D I Yogyakarta","Industri Pengolahan",89060
+34,"Prov. D I Yogyakarta","Informasi Dan Komunikasi",1896
+34,"Prov. D I Yogyakarta","Jasa",72055
+34,"Prov. D I Yogyakarta","Kehutanan Dan Pertanian Lainnya",5182
+34,"Prov. D I Yogyakarta","Keuangan Dan Asuransi",1248
+34,"Prov. D I Yogyakarta","Lainnya",18854
+34,"Prov. D I Yogyakarta","Listrik Dan Gas",1470
+34,"Prov. D I Yogyakarta","Perdagangan",97190
+34,"Prov. D I Yogyakarta","Perikanan Budidaya",716
+34,"Prov. D I Yogyakarta","Perikanan Tangkap",983
+34,"Prov. D I Yogyakarta","Perkebunan",12447
+34,"Prov. D I Yogyakarta","Pertambangan Dan Penggalian",7265
+34,"Prov. D I Yogyakarta","Pertanian Tanaman Padi Dan Palawija",270235
+34,"Prov. D I Yogyakarta","Peternakan",43277
+34,"Prov. D I Yogyakarta","Transportasi Dan Pergudangan",13848
+35,"Prov. Jawa Timur","Bangunan Dan Konstruksi",435223
+35,"Prov. Jawa Timur","Hortikultura",106039
+35,"Prov. Jawa Timur","Hotel Dan Rumah Makan",49109
+35,"Prov. Jawa Timur","Industri Pengolahan",481447
+35,"Prov. Jawa Timur","Informasi Dan Komunikasi",4143
+35,"Prov. Jawa Timur","Jasa",398669
+35,"Prov. Jawa Timur","Kehutanan Dan Pertanian Lainnya",109957
+35,"Prov. Jawa Timur","Keuangan Dan Asuransi",6563
+35,"Prov. Jawa Timur","Lainnya",323684
+35,"Prov. Jawa Timur","Listrik Dan Gas",8679
+35,"Prov. Jawa Timur","Perdagangan",512404
+35,"Prov. Jawa Timur","Perikanan Budidaya",15273
+35,"Prov. Jawa Timur","Perikanan Tangkap",87039
+35,"Prov. Jawa Timur","Perkebunan",652908
+35,"Prov. Jawa Timur","Pertambangan Dan Penggalian",42241
+35,"Prov. Jawa Timur","Pertanian Tanaman Padi Dan Palawija",2536581
+35,"Prov. Jawa Timur","Peternakan",503739
+35,"Prov. Jawa Timur","Transportasi Dan Pergudangan",139985
+36,"Prov. Banten","Bangunan Dan Konstruksi",65475
+36,"Prov. Banten","Hortikultura",8876
+36,"Prov. Banten","Hotel Dan Rumah Makan",5746
+36,"Prov. Banten","Industri Pengolahan",163894
+36,"Prov. Banten","Informasi Dan Komunikasi",1085
+36,"Prov. Banten","Jasa",99825
+36,"Prov. Banten","Kehutanan Dan Pertanian Lainnya",8313
+36,"Prov. Banten","Keuangan Dan Asuransi",1014
+36,"Prov. Banten","Lainnya",73611
+36,"Prov. Banten","Listrik Dan Gas",2940
+36,"Prov. Banten","Perdagangan",97356
+36,"Prov. Banten","Perikanan Budidaya",1135
+36,"Prov. Banten","Perikanan Tangkap",17104
+36,"Prov. Banten","Perkebunan",27635
+36,"Prov. Banten","Pertambangan Dan Penggalian",8863
+36,"Prov. Banten","Pertanian Tanaman Padi Dan Palawija",345008
+36,"Prov. Banten","Peternakan",7143
+36,"Prov. Banten","Transportasi Dan Pergudangan",49569
+51,"Prov. Bali","Bangunan Dan Konstruksi",55822
+51,"Prov. Bali","Hortikultura",15664
+51,"Prov. Bali","Hotel Dan Rumah Makan",11448
+51,"Prov. Bali","Industri Pengolahan",57069
+51,"Prov. Bali","Informasi Dan Komunikasi",485
+51,"Prov. Bali","Jasa",35844
+51,"Prov. Bali","Kehutanan Dan Pertanian Lainnya",3317
+51,"Prov. Bali","Keuangan Dan Asuransi",1956
+51,"Prov. Bali","Lainnya",14250
+51,"Prov. Bali","Listrik Dan Gas",636
+51,"Prov. Bali","Perdagangan",46882
+51,"Prov. Bali","Perikanan Budidaya",2012
+51,"Prov. Bali","Perikanan Tangkap",6322
+51,"Prov. Bali","Perkebunan",33055
+51,"Prov. Bali","Pertambangan Dan Penggalian",2768
+51,"Prov. Bali","Pertanian Tanaman Padi Dan Palawija",87891
+51,"Prov. Bali","Peternakan",78514
+51,"Prov. Bali","Transportasi Dan Pergudangan",7891
+52,"Prov. Nusa Tenggara Barat","Bangunan Dan Konstruksi",51840
+52,"Prov. Nusa Tenggara Barat","Hortikultura",21044
+52,"Prov. Nusa Tenggara Barat","Hotel Dan Rumah Makan",1983
+52,"Prov. Nusa Tenggara Barat","Industri Pengolahan",55805
+52,"Prov. Nusa Tenggara Barat","Informasi Dan Komunikasi",451
+52,"Prov. Nusa Tenggara Barat","Jasa",48227
+52,"Prov. Nusa Tenggara Barat","Kehutanan Dan Pertanian Lainnya",11828
+52,"Prov. Nusa Tenggara Barat","Keuangan Dan Asuransi",1037
+52,"Prov. Nusa Tenggara Barat","Lainnya",25794
+52,"Prov. Nusa Tenggara Barat","Listrik Dan Gas",1009
+52,"Prov. Nusa Tenggara Barat","Perdagangan",65071
+52,"Prov. Nusa Tenggara Barat","Perikanan Budidaya",3873
+52,"Prov. Nusa Tenggara Barat","Perikanan Tangkap",20206
+52,"Prov. Nusa Tenggara Barat","Perkebunan",118333
+52,"Prov. Nusa Tenggara Barat","Pertambangan Dan Penggalian",19464
+52,"Prov. Nusa Tenggara Barat","Pertanian Tanaman Padi Dan Palawija",270647
+52,"Prov. Nusa Tenggara Barat","Peternakan",51279
+52,"Prov. Nusa Tenggara Barat","Transportasi Dan Pergudangan",28878
+53,"Prov. Nusa Tenggara Timur","Bangunan Dan Konstruksi",16104
+53,"Prov. Nusa Tenggara Timur","Hortikultura",34073
+53,"Prov. Nusa Tenggara Timur","Hotel Dan Rumah Makan",673
+53,"Prov. Nusa Tenggara Timur","Industri Pengolahan",43887
+53,"Prov. Nusa Tenggara Timur","Informasi Dan Komunikasi",134
+53,"Prov. Nusa Tenggara Timur","Jasa",15197
+53,"Prov. Nusa Tenggara Timur","Kehutanan Dan Pertanian Lainnya",24869
+53,"Prov. Nusa Tenggara Timur","Keuangan Dan Asuransi",208
+53,"Prov. Nusa Tenggara Timur","Lainnya",24822
+53,"Prov. Nusa Tenggara Timur","Listrik Dan Gas",760
+53,"Prov. Nusa Tenggara Timur","Perdagangan",14880
+53,"Prov. Nusa Tenggara Timur","Perikanan Budidaya",8534
+53,"Prov. Nusa Tenggara Timur","Perikanan Tangkap",17570
+53,"Prov. Nusa Tenggara Timur","Perkebunan",99891
+53,"Prov. Nusa Tenggara Timur","Pertambangan Dan Penggalian",9016
+53,"Prov. Nusa Tenggara Timur","Pertanian Tanaman Padi Dan Palawija",746185
+53,"Prov. Nusa Tenggara Timur","Peternakan",10105
+53,"Prov. Nusa Tenggara Timur","Transportasi Dan Pergudangan",16991
+61,"Prov. Kalimantan Barat","Bangunan Dan Konstruksi",26839
+61,"Prov. Kalimantan Barat","Hortikultura",5448
+61,"Prov. Kalimantan Barat","Hotel Dan Rumah Makan",1905
+61,"Prov. Kalimantan Barat","Industri Pengolahan",7374
+61,"Prov. Kalimantan Barat","Informasi Dan Komunikasi",236
+61,"Prov. Kalimantan Barat","Jasa",17181
+61,"Prov. Kalimantan Barat","Kehutanan Dan Pertanian Lainnya",11745
+61,"Prov. Kalimantan Barat","Keuangan Dan Asuransi",256
+61,"Prov. Kalimantan Barat","Lainnya",28681
+61,"Prov. Kalimantan Barat","Listrik Dan Gas",804
+61,"Prov. Kalimantan Barat","Perdagangan",13752
+61,"Prov. Kalimantan Barat","Perikanan Budidaya",420
+61,"Prov. Kalimantan Barat","Perikanan Tangkap",15813
+61,"Prov. Kalimantan Barat","Perkebunan",205773
+61,"Prov. Kalimantan Barat","Pertambangan Dan Penggalian",10504
+61,"Prov. Kalimantan Barat","Pertanian Tanaman Padi Dan Palawija",223178
+61,"Prov. Kalimantan Barat","Peternakan",2319
+61,"Prov. Kalimantan Barat","Transportasi Dan Pergudangan",5046
+62,"Prov. Kalimantan Tengah","Bangunan Dan Konstruksi",7647
+62,"Prov. Kalimantan Tengah","Hortikultura",2205
+62,"Prov. Kalimantan Tengah","Hotel Dan Rumah Makan",309
+62,"Prov. Kalimantan Tengah","Industri Pengolahan",1887
+62,"Prov. Kalimantan Tengah","Informasi Dan Komunikasi",86
+62,"Prov. Kalimantan Tengah","Jasa",5539
+62,"Prov. Kalimantan Tengah","Kehutanan Dan Pertanian Lainnya",6186
+62,"Prov. Kalimantan Tengah","Keuangan Dan Asuransi",55
+62,"Prov. Kalimantan Tengah","Lainnya",9665
+62,"Prov. Kalimantan Tengah","Listrik Dan Gas",144
+62,"Prov. Kalimantan Tengah","Perdagangan",5747
+62,"Prov. Kalimantan Tengah","Perikanan Budidaya",290
+62,"Prov. Kalimantan Tengah","Perikanan Tangkap",8717
+62,"Prov. Kalimantan Tengah","Perkebunan",64220
+62,"Prov. Kalimantan Tengah","Pertambangan Dan Penggalian",7966
+62,"Prov. Kalimantan Tengah","Pertanian Tanaman Padi Dan Palawija",58095
+62,"Prov. Kalimantan Tengah","Peternakan",870
+62,"Prov. Kalimantan Tengah","Transportasi Dan Pergudangan",1604
+63,"Prov. Kalimantan Selatan","Bangunan Dan Konstruksi",19553
+63,"Prov. Kalimantan Selatan","Hortikultura",2380
+63,"Prov. Kalimantan Selatan","Hotel Dan Rumah Makan",2189
+63,"Prov. Kalimantan Selatan","Industri Pengolahan",17868
+63,"Prov. Kalimantan Selatan","Informasi Dan Komunikasi",204
+63,"Prov. Kalimantan Selatan","Jasa",24888
+63,"Prov. Kalimantan Selatan","Kehutanan Dan Pertanian Lainnya",4961
+63,"Prov. Kalimantan Selatan","Keuangan Dan Asuransi",165
+63,"Prov. Kalimantan Selatan","Lainnya",10234
+63,"Prov. Kalimantan Selatan","Listrik Dan Gas",298
+63,"Prov. Kalimantan Selatan","Perdagangan",22312
+63,"Prov. Kalimantan Selatan","Perikanan Budidaya",1047
+63,"Prov. Kalimantan Selatan","Perikanan Tangkap",14269
+63,"Prov. Kalimantan Selatan","Perkebunan",44391
+63,"Prov. Kalimantan Selatan","Pertambangan Dan Penggalian",8401
+63,"Prov. Kalimantan Selatan","Pertanian Tanaman Padi Dan Palawija",132625
+63,"Prov. Kalimantan Selatan","Peternakan",2452
+63,"Prov. Kalimantan Selatan","Transportasi Dan Pergudangan",6628
+64,"Prov. Kalimantan Timur","Bangunan Dan Konstruksi",21925
+64,"Prov. Kalimantan Timur","Hortikultura",4067
+64,"Prov. Kalimantan Timur","Hotel Dan Rumah Makan",1622
+64,"Prov. Kalimantan Timur","Industri Pengolahan",5259
+64,"Prov. Kalimantan Timur","Informasi Dan Komunikasi",486
+64,"Prov. Kalimantan Timur","Jasa",21637
+64,"Prov. Kalimantan Timur","Kehutanan Dan Pertanian Lainnya",5738
+64,"Prov. Kalimantan Timur","Keuangan Dan Asuransi",441
+64,"Prov. Kalimantan Timur","Lainnya",25328
+64,"Prov. Kalimantan Timur","Listrik Dan Gas",687
+64,"Prov. Kalimantan Timur","Perdagangan",20845
+64,"Prov. Kalimantan Timur","Perikanan Budidaya",5444
+64,"Prov. Kalimantan Timur","Perikanan Tangkap",16674
+64,"Prov. Kalimantan Timur","Perkebunan",40125
+64,"Prov. Kalimantan Timur","Pertambangan Dan Penggalian",8291
+64,"Prov. Kalimantan Timur","Pertanian Tanaman Padi Dan Palawija",86813
+64,"Prov. Kalimantan Timur","Peternakan",1449
+64,"Prov. Kalimantan Timur","Transportasi Dan Pergudangan",8178
+71,"Prov. Sulawesi Utara","Bangunan Dan Konstruksi",27396
+71,"Prov. Sulawesi Utara","Hortikultura",10182
+71,"Prov. Sulawesi Utara","Hotel Dan Rumah Makan",3111
+71,"Prov. Sulawesi Utara","Industri Pengolahan",9889
+71,"Prov. Sulawesi Utara","Informasi Dan Komunikasi",405
+71,"Prov. Sulawesi Utara","Jasa",21168
+71,"Prov. Sulawesi Utara","Kehutanan Dan Pertanian Lainnya",5744
+71,"Prov. Sulawesi Utara","Keuangan Dan Asuransi",630
+71,"Prov. Sulawesi Utara","Lainnya",17060
+71,"Prov. Sulawesi Utara","Listrik Dan Gas",623
+71,"Prov. Sulawesi Utara","Perdagangan",17961
+71,"Prov. Sulawesi Utara","Perikanan Budidaya",606
+71,"Prov. Sulawesi Utara","Perikanan Tangkap",16321
+71,"Prov. Sulawesi Utara","Perkebunan",41834
+71,"Prov. Sulawesi Utara","Pertambangan Dan Penggalian",8579
+71,"Prov. Sulawesi Utara","Pertanian Tanaman Padi Dan Palawija",66419
+71,"Prov. Sulawesi Utara","Peternakan",1069
+71,"Prov. Sulawesi Utara","Transportasi Dan Pergudangan",17204
+72,"Prov. Sulawesi Tengah","Bangunan Dan Konstruksi",20185
+72,"Prov. Sulawesi Tengah","Hortikultura",10053
+72,"Prov. Sulawesi Tengah","Hotel Dan Rumah Makan",1224
+72,"Prov. Sulawesi Tengah","Industri Pengolahan",10590
+72,"Prov. Sulawesi Tengah","Informasi Dan Komunikasi",199
+72,"Prov. Sulawesi Tengah","Jasa",19891
+72,"Prov. Sulawesi Tengah","Kehutanan Dan Pertanian Lainnya",8911
+72,"Prov. Sulawesi Tengah","Keuangan Dan Asuransi",243
+72,"Prov. Sulawesi Tengah","Lainnya",12626
+72,"Prov. Sulawesi Tengah","Listrik Dan Gas",501
+72,"Prov. Sulawesi Tengah","Perdagangan",16478
+72,"Prov. Sulawesi Tengah","Perikanan Budidaya",5652
+72,"Prov. Sulawesi Tengah","Perikanan Tangkap",20469
+72,"Prov. Sulawesi Tengah","Perkebunan",136161
+72,"Prov. Sulawesi Tengah","Pertambangan Dan Penggalian",8637
+72,"Prov. Sulawesi Tengah","Pertanian Tanaman Padi Dan Palawija",122103
+72,"Prov. Sulawesi Tengah","Peternakan",1090
+72,"Prov. Sulawesi Tengah","Transportasi Dan Pergudangan",10357
+73,"Prov. Sulawesi Selatan","Bangunan Dan Konstruksi",63268
+73,"Prov. Sulawesi Selatan","Hortikultura",20744
+73,"Prov. Sulawesi Selatan","Hotel Dan Rumah Makan",2799
+73,"Prov. Sulawesi Selatan","Industri Pengolahan",46732
+73,"Prov. Sulawesi Selatan","Informasi Dan Komunikasi",436
+73,"Prov. Sulawesi Selatan","Jasa",33417
+73,"Prov. Sulawesi Selatan","Kehutanan Dan Pertanian Lainnya",3258
+73,"Prov. Sulawesi Selatan","Keuangan Dan Asuransi",513
+73,"Prov. Sulawesi Selatan","Lainnya",29567
+73,"Prov. Sulawesi Selatan","Listrik Dan Gas",1036
+73,"Prov. Sulawesi Selatan","Perdagangan",48978
+73,"Prov. Sulawesi Selatan","Perikanan Budidaya",27348
+73,"Prov. Sulawesi Selatan","Perikanan Tangkap",34303
+73,"Prov. Sulawesi Selatan","Perkebunan",130262
+73,"Prov. Sulawesi Selatan","Pertambangan Dan Penggalian",5808
+73,"Prov. Sulawesi Selatan","Pertanian Tanaman Padi Dan Palawija",407803
+73,"Prov. Sulawesi Selatan","Peternakan",16891
+73,"Prov. Sulawesi Selatan","Transportasi Dan Pergudangan",37939
+74,"Prov. Sulawesi Tenggara","Bangunan Dan Konstruksi",18780
+74,"Prov. Sulawesi Tenggara","Hortikultura",6971
+74,"Prov. Sulawesi Tenggara","Hotel Dan Rumah Makan",723
+74,"Prov. Sulawesi Tenggara","Industri Pengolahan",14672
+74,"Prov. Sulawesi Tenggara","Informasi Dan Komunikasi",184
+74,"Prov. Sulawesi Tenggara","Jasa",12906
+74,"Prov. Sulawesi Tenggara","Kehutanan Dan Pertanian Lainnya",6902
+74,"Prov. Sulawesi Tenggara","Keuangan Dan Asuransi",221
+74,"Prov. Sulawesi Tenggara","Lainnya",6748
+74,"Prov. Sulawesi Tenggara","Listrik Dan Gas",322
+74,"Prov. Sulawesi Tenggara","Perdagangan",23064
+74,"Prov. Sulawesi Tenggara","Perikanan Budidaya",16614
+74,"Prov. Sulawesi Tenggara","Perikanan Tangkap",25993
+74,"Prov. Sulawesi Tenggara","Perkebunan",104324
+74,"Prov. Sulawesi Tenggara","Pertambangan Dan Penggalian",8418
+74,"Prov. Sulawesi Tenggara","Pertanian Tanaman Padi Dan Palawija",108425
+74,"Prov. Sulawesi Tenggara","Peternakan",2535
+74,"Prov. Sulawesi Tenggara","Transportasi Dan Pergudangan",11359
+75,"Prov. Gorontalo","Bangunan Dan Konstruksi",9160
+75,"Prov. Gorontalo","Hortikultura",5779
+75,"Prov. Gorontalo","Hotel Dan Rumah Makan",812
+75,"Prov. Gorontalo","Industri Pengolahan",8383
+75,"Prov. Gorontalo","Informasi Dan Komunikasi",93
+75,"Prov. Gorontalo","Jasa",15391
+75,"Prov. Gorontalo","Kehutanan Dan Pertanian Lainnya",1204
+75,"Prov. Gorontalo","Keuangan Dan Asuransi",298
+75,"Prov. Gorontalo","Lainnya",5978
+75,"Prov. Gorontalo","Listrik Dan Gas",171
+75,"Prov. Gorontalo","Perdagangan",11070
+75,"Prov. Gorontalo","Perikanan Budidaya",394
+75,"Prov. Gorontalo","Perikanan Tangkap",8460
+75,"Prov. Gorontalo","Perkebunan",10195
+75,"Prov. Gorontalo","Pertambangan Dan Penggalian",6098
+75,"Prov. Gorontalo","Pertanian Tanaman Padi Dan Palawija",77341
+75,"Prov. Gorontalo","Peternakan",381
+75,"Prov. Gorontalo","Transportasi Dan Pergudangan",9266
+76,"Prov. Sulawesi Barat","Bangunan Dan Konstruksi",6223
+76,"Prov. Sulawesi Barat","Hortikultura",1976
+76,"Prov. Sulawesi Barat","Hotel Dan Rumah Makan",323
+76,"Prov. Sulawesi Barat","Industri Pengolahan",12062
+76,"Prov. Sulawesi Barat","Informasi Dan Komunikasi",31
+76,"Prov. Sulawesi Barat","Jasa",5126
+76,"Prov. Sulawesi Barat","Kehutanan Dan Pertanian Lainnya",661
+76,"Prov. Sulawesi Barat","Keuangan Dan Asuransi",63
+76,"Prov. Sulawesi Barat","Lainnya",1561
+76,"Prov. Sulawesi Barat","Listrik Dan Gas",92
+76,"Prov. Sulawesi Barat","Perdagangan",8515
+76,"Prov. Sulawesi Barat","Perikanan Budidaya",1725
+76,"Prov. Sulawesi Barat","Perikanan Tangkap",7991
+76,"Prov. Sulawesi Barat","Perkebunan",81548
+76,"Prov. Sulawesi Barat","Pertambangan Dan Penggalian",1207
+76,"Prov. Sulawesi Barat","Pertanian Tanaman Padi Dan Palawija",40416
+76,"Prov. Sulawesi Barat","Peternakan",5524
+76,"Prov. Sulawesi Barat","Transportasi Dan Pergudangan",4109
+81,"Prov. Maluku","Bangunan Dan Konstruksi",7515
+81,"Prov. Maluku","Hortikultura",14879
+81,"Prov. Maluku","Hotel Dan Rumah Makan",550
+81,"Prov. Maluku","Industri Pengolahan",9255
+81,"Prov. Maluku","Informasi Dan Komunikasi",139
+81,"Prov. Maluku","Jasa",7656
+81,"Prov. Maluku","Kehutanan Dan Pertanian Lainnya",12894
+81,"Prov. Maluku","Keuangan Dan Asuransi",190
+81,"Prov. Maluku","Lainnya",5949
+81,"Prov. Maluku","Listrik Dan Gas",170
+81,"Prov. Maluku","Perdagangan",11025
+81,"Prov. Maluku","Perikanan Budidaya",13436
+81,"Prov. Maluku","Perikanan Tangkap",13673
+81,"Prov. Maluku","Perkebunan",51394
+81,"Prov. Maluku","Pertambangan Dan Penggalian",1248
+81,"Prov. Maluku","Pertanian Tanaman Padi Dan Palawija",104244
+81,"Prov. Maluku","Peternakan",708
+81,"Prov. Maluku","Transportasi Dan Pergudangan",9006
+82,"Prov. Maluku Utara","Bangunan Dan Konstruksi",4483
+82,"Prov. Maluku Utara","Hortikultura",10366
+82,"Prov. Maluku Utara","Hotel Dan Rumah Makan",315
+82,"Prov. Maluku Utara","Industri Pengolahan",1480
+82,"Prov. Maluku Utara","Informasi Dan Komunikasi",43
+82,"Prov. Maluku Utara","Jasa",3506
+82,"Prov. Maluku Utara","Kehutanan Dan Pertanian Lainnya",2551
+82,"Prov. Maluku Utara","Keuangan Dan Asuransi",99
+82,"Prov. Maluku Utara","Lainnya",4150
+82,"Prov. Maluku Utara","Listrik Dan Gas",125
+82,"Prov. Maluku Utara","Perdagangan",4288
+82,"Prov. Maluku Utara","Perikanan Budidaya",727
+82,"Prov. Maluku Utara","Perikanan Tangkap",4575
+82,"Prov. Maluku Utara","Perkebunan",57614
+82,"Prov. Maluku Utara","Pertambangan Dan Penggalian",1682
+82,"Prov. Maluku Utara","Pertanian Tanaman Padi Dan Palawija",29803
+82,"Prov. Maluku Utara","Peternakan",203
+82,"Prov. Maluku Utara","Transportasi Dan Pergudangan",4723
+91,"Prov. Papua Barat","Bangunan Dan Konstruksi",8182
+91,"Prov. Papua Barat","Hortikultura",21345
+91,"Prov. Papua Barat","Hotel Dan Rumah Makan",492
+91,"Prov. Papua Barat","Industri Pengolahan",2977
+91,"Prov. Papua Barat","Informasi Dan Komunikasi",169
+91,"Prov. Papua Barat","Jasa",10638
+91,"Prov. Papua Barat","Kehutanan Dan Pertanian Lainnya",9234
+91,"Prov. Papua Barat","Keuangan Dan Asuransi",150
+91,"Prov. Papua Barat","Lainnya",3936
+91,"Prov. Papua Barat","Listrik Dan Gas",298
+91,"Prov. Papua Barat","Perdagangan",9966
+91,"Prov. Papua Barat","Perikanan Budidaya",217
+91,"Prov. Papua Barat","Perikanan Tangkap",18590
+91,"Prov. Papua Barat","Perkebunan",15971
+91,"Prov. Papua Barat","Pertambangan Dan Penggalian",2231
+91,"Prov. Papua Barat","Pertanian Tanaman Padi Dan Palawija",64533
+91,"Prov. Papua Barat","Peternakan",451
+91,"Prov. Papua Barat","Transportasi Dan Pergudangan",6308
+94,"Prov. Papua","Bangunan Dan Konstruksi",11204
+94,"Prov. Papua","Hortikultura",51817
+94,"Prov. Papua","Hotel Dan Rumah Makan",690
+94,"Prov. Papua","Industri Pengolahan",3460
+94,"Prov. Papua","Informasi Dan Komunikasi",280
+94,"Prov. Papua","Jasa",19552
+94,"Prov. Papua","Kehutanan Dan Pertanian Lainnya",45112
+94,"Prov. Papua","Keuangan Dan Asuransi",273
+94,"Prov. Papua","Lainnya",11796
+94,"Prov. Papua","Listrik Dan Gas",326
+94,"Prov. Papua","Perdagangan",17588
+94,"Prov. Papua","Perikanan Budidaya",388
+94,"Prov. Papua","Perikanan Tangkap",34436
+94,"Prov. Papua","Perkebunan",42188
+94,"Prov. Papua","Pertambangan Dan Penggalian",6201
+94,"Prov. Papua","Pertanian Tanaman Padi Dan Palawija",813803
+94,"Prov. Papua","Peternakan",5640
+94,"Prov. Papua","Transportasi Dan Pergudangan",11152
